@@ -1,0 +1,274 @@
+                                      OHIO LEGISLATIVE SERVICE COMMISSION
+                                             Office of Research                                 Legislative Budget
+                   www.lsc.ohio.gov            and Drafting                                           Office
+
+
+
+                                Substitute Bill Comparative Synopsis
+                                                            Sub. S.B. 174
+                                                     136th General Assembly
+                                                            House Judiciary
+
+ Chenwei Zhang, Attorney
+
+        This table summarizes how l_136_0493-6 differs from the As Passed by the Senate version of S.B. 174. It addresses only the
+topics on which the two versions differ substantively. It does not list topics on which the two versions are substantively the same.
+
+                   Topic                                    Previous Version                                     Latest Version
+                                                       (As Passed by the Senate)                                 (l_136_0493-6)
+
+ Terminology                                 Refers to the allocation of “parenting              Changes “parenting responsibilities” to
+                                             responsibilities” throughout the bill in newly      “parental rights and parenting
+                                             enacted sections (R.C. 3109.04, with                responsibilities” throughout the bill
+                                             references throughout the bill).                    (R.C. 3109.04, with conforming changes).
+
+ Parenting plans                             Requires a parenting plan to seek to do all of      Requires a parenting plan to do the same
+                                             the following when it is in the best interest of    unless it is not in the best interest of the child
+                                             the child:                                          (R.C. 3109.044).
+                                                 ▪   Ensure that parents or legal
+                                                     custodians share in the
+                                                     responsibilities of raising a child;
+Office of Research and Drafting                         LSC                                                     Legislative Budget Office
+
+
+
+                       Topic                     Previous Version                                    Latest Version
+                                            (As Passed by the Senate)                                (l_136_0493-6)
+                                      ▪   Enable a child to enjoy a meaningful
+                                          relationship with both parents or
+                                          legal custodians;
+                                      ▪   Maximize parenting time with each
+                                          parent.
+                                  (R.C. 3109.044.)
+
+                                  Requires a parenting plan to include, among        Similar, but requires the parenting plan to
+                                  other provisions, the frequency, time, and         include the times and method of the child’s
+                                  method of the child’s communication with a         communication with a parent or legal
+                                  parent or legal custodian during the               custodian (R.C. 3109.044(D)).
+                                  parenting time (R.C. 3109.044(D)).
+
+                                  No provision.                                      Requires a court to give special weight to a
+                                                                                     joint parenting plan filed by the parents or
+                                                                                     legal custodians (R.C. 3109.046(A)).
+
+                                  Requires the court to approve a joint              Requires the court to approve a joint
+                                  parenting plan if the court finds that its         parenting plan unless it finds that the plan is
+                                  provisions are in the best interest of the child   not in the best interest of the child
+                                  (R.C. 3109.046).                                   (R.C. 3109.046(B)).
+
+                                  No provision.                                      Requires, when the parents or legal
+                                                                                     custodians file one or more separate
+                                                                                     parenting plans, the court to give special
+                                                                                     weight to provisions of one or more of the
+                                                                                     separate parenting plans where the parents
+                                                                                     or legal custodians agree (R.C. 3109.047(A)).
+
+
+
+
+P a g e |2                                                                                  Sub. S.B. 174, Sub. Bill Comparative Synopsis
+Office of Research and Drafting                        LSC                                                      Legislative Budget Office
+
+
+
+                       Topic                     Previous Version                                    Latest Version
+                                            (As Passed by the Senate)                                (l_136_0493-6)
+
+                                  Allows a court to object to a parent’s or legal   Adds the following as reasons that a court
+                                  custodian’s parenting plan, whether jointly or    may object to a jointly or separately filed
+                                  separately filed, when it is not in the best      parenting plan, in addition to when the plan
+                                  interest of the child (R.C. 3109.046 and          is not in the child’s best interest:
+                                  3109.047).
+                                                                                        ▪    When the plan is incomplete;
+                                                                                        ▪    When the plan is in violation of the
+                                                                                             law.
+                                                                                    (R.C. 3109.046(C) and 3109.047(B).)
+
+                                  Requires, if there is more than one separate      Requires, if the court objects to one or more
+                                  parenting plan and the court approves one of      of the separate parenting plans, the court to
+                                  them, the court to provide written findings of    provide written findings of fact to support its
+                                  fact to support its objection to another          objection (R.C. 3109.047(B)).
+                                  parenting plan (R.C. 3109.047).
+
+                                  Requires the court to do both of the              Also requires a court to allow the parents or
+                                  following if the court does not approve a         legal custodians to make appropriate changes
+                                  jointly filed parenting plan or any separately    but specifies that the court must provide
+                                  filed parenting plan:                             written findings of fact to support its findings
+                                                                                    and issue a modified parenting plan if the
+                                      ▪   Provide written findings of fact to
+                                                                                    parents or legal custodians fail to make
+                                          support its finding;
+                                                                                    appropriate changes to the parenting plan
+                                      ▪   Either allow the parents or legal         within 14 days (R.C. 3109.046(C) and
+                                          custodians to make appropriate            3109.047(C)).
+                                          changes to resolve the court’s
+                                          objections or issue its own parenting
+                                          plan.
+                                  (R.C. 3109.046 and 3109.047.)
+
+
+
+
+P a g e |3                                                                                  Sub. S.B. 174, Sub. Bill Comparative Synopsis
+Office of Research and Drafting                         LSC                                                    Legislative Budget Office
+
+
+
+                       Topic                     Previous Version                                   Latest Version
+                                            (As Passed by the Senate)                               (l_136_0493-6)
+
+                                  No provision.                                     Requires, when issuing a modified parenting
+                                                                                    plan, the court to incorporate all terms of the
+                                                                                    joint parenting plan or agreed upon terms of
+                                                                                    any separate parenting plan filed by the
+                                                                                    parents or legal custodians that are not
+                                                                                    incomplete, in violation of the law, or
+                                                                                    contrary to the best interest of the child
+                                                                                    (R.C. 3109.046(C) and 3109.047(C)).
+
+                                  Allows a court to deny a request for              Allows a court to deny a request for
+                                  substantially equal parenting time in a jointly   substantially equal parenting time in a jointly
+                                  or separately filed parenting plan if the court   or separately filed parenting plan if the court
+                                  determines, among other reasons, that it          determines, among other reasons, that it
+                                  endangers the safety of the parties               endangers the safety of a party
+                                  (R.C. 3109.046 and 3109.047).                     (R.C. 3109.046(D) and 3109.047(D)).
+
+                                  Requires a court to issue its own parenting       Requires a court to issue a parenting plan if
+                                  plan if no parent or legal custodian files one    no parent or legal custodian files one
+                                  (R.C. 3109.048).                                  (R.C. 3109.048).
+
+                                  Grants the court complete discretion over the     No provision.
+                                  approval of a parenting plan
+                                  (R.C. 3109.0412).
+
+                                  Prohibits a court from modifying a prior          Requires the court to modify a prior
+                                  parenting plan when the modification has          parenting plan in this circumstance unless it
+                                  been agreed to by all parties without finding     finds that the modification is not in the
+                                  that the modification is in the child’s best      child’s best interest (R.C. 3109.0418(C)).
+                                  interest (R.C. 3109.0418(C)).
+
+
+
+
+P a g e |4                                                                                 Sub. S.B. 174, Sub. Bill Comparative Synopsis
+Office of Research and Drafting                              LSC                                                     Legislative Budget Office
+
+
+
+                       Topic                           Previous Version                                   Latest Version
+                                                  (As Passed by the Senate)                               (l_136_0493-6)
+
+ Presence of a guardian ad litem when   Allows the court to have a child’s guardian ad   Similar, but requires the court to have the
+ interviewing a child                   litem present when interviewing a child          guardian ad litem present, if one has been
+                                        regarding the child’s wishes and concerns        appointed, when interviewing the child
+                                        with respect to the allocation of parenting      (R.C. 3109.0449(B) and 3109.0445).
+                                        responsibilities, unless for good cause shown
+                                        (R.C. 3109.0449(B) and 3109.0445).
+
+ Child support                          Requires, if neither parent of a child who is    Similar, but removes the following:
+                                        the subject of a child support order is the
+                                                                                             ▪    The specification that the caretaker
+                                        designated parent and legal custodian of
+                                                                                                  be the child’s legal custodian; and
+                                        allocated parenting responsibilities for the
+                                        child and the child resides with a caretaker         ▪    The requirement that the court issue
+                                        who is the legal custodian of the child, the              a child support order for the parent
+                                        court to issue a child support order requiring            to pay the parent’s child support
+                                        each parent to pay that parent’s child                    obligation to the caretaker, and
+                                        support obligation pursuant to the order                  instead specifies that each parent
+                                        (R.C. 3119.071(C)).                                       must pay that parent’s child support
+                                                                                                  obligation.
+                                                                                         (R.C. 3119.071(C).).
+
+ Definitions                            Defines “parent education” as education for      Changes the term to “co-parent education”
+                                        parents and legal custodians living apart or     but maintains the same definition
+                                        terminating their relationship to learn          (R.C. 3109.046(A)(5), with conforming
+                                        information and skills to minimize potential     changes).
+                                        negative effects on children, promote
+                                        positive adjustment during the process, and
+                                        teach parents and legal custodians how to
+                                        parent cooperatively (R.C. 3109.04(A)(18)).
+
+                                        Defines “guardian ad litem” as a person          Similar, but adds that the person also meets
+                                        appointed to assist a court in its               the qualifications adopted by the Supreme
+
+
+P a g e |5                                                                                       Sub. S.B. 174, Sub. Bill Comparative Synopsis
+Office of Research and Drafting                                    LSC                                                     Legislative Budget Office
+
+
+
+                       Topic                                Previous Version                                    Latest Version
+                                                       (As Passed by the Senate)                                (l_136_0493-6)
+                                             determination of the best interest of a child      Court of Ohio and by a court of common
+                                             (R.C. 3109.04(A)(9)).                              pleas pursuant to the Rules of
+                                                                                                Superintendence for the Courts of Ohio
+                                                                                                (R.C. 3109.04(A)(9)).
+
+ Waiver of parent education                  Allows the court to waive a requirement to         Similar, but adds undue burden as another
+                                             order parent education for good cause shown        basis for a waiver (R.C. 3109.0434).
+                                             (R.C. 3109.0434).
+
+ Restrictions related to abuse or domestic   Allows the court to approve or order a             Similar, but adds that the court must consider
+ violence                                    restriction of parenting responsibilities if the   the least restrictive means in approving or
+                                             court finds, based upon a preponderance of         ordering a restriction (R.C. 3109.0455).
+                                             the evidence, that such restrictions are
+                                             reasonably calculated to protect a child from
+                                             physical, sexual, or emotional abuse, or a
+                                             parent from domestic violence
+                                             (R.C. 3109.0455).
+
+ Best interest of the child                  Requires the best interest of the child to be      Similar, but requires the best interest of the
+                                             paramount when the issue of parental rights        child to be of utmost importance
+                                             and parenting responsibilities is brought          (R.C. 3109.03).
+                                             before a court (R.C. 3109.03).
+
+                                             Requires a court to consider the best interest     Similar, but requires the best interest of the
+                                             of the child to be paramount when allocating       child to be of utmost importance
+                                             parental rights and parenting responsibilities     (R.C. 3109.0425).
+                                             when a child is born to an unmarried female
+                                             and another person is the designated parent
+                                             and legal custodian (R.C. 3109.0425).
+
+
+
+
+P a g e |6                                                                                             Sub. S.B. 174, Sub. Bill Comparative Synopsis
+Office of Research and Drafting                             LSC                                                     Legislative Budget Office
+
+
+
+                       Topic                          Previous Version                                   Latest Version
+                                                 (As Passed by the Senate)                               (l_136_0493-6)
+
+ Interference with parenting time or   Grants the court discretion to issue an order     Requires the court to issue an order for
+ companionship or visitation           for compensatory parenting time or                compensatory parenting time upon finding
+                                       companionship or visitation, among other          that there has been unreasonable
+                                       remedies, upon finding that there has been        interference with parenting time, while
+                                       unreasonable interference with parenting          maintaining the court’s discretion to grant
+                                       time or companionship or visitation (R.C.         other remedies for unreasonable
+                                       3109.0493).                                       interference with parenting time or
+                                                                                         companionship or visitation (R.C. 3109.0493).
+
+                                       No provision.                                     Requires that the mandatory issuance of
+                                                                                         compensatory parenting time and the
+                                                                                         discretionary grant of other remedies must
+                                                                                         be in the best interest of the child (R.C.
+                                                                                         3109.0493).
+
+ Review of court rules                 Requests, on behalf of the General Assembly,      Similar, but makes the request upon each
+                                       that each court with jurisdiction over domestic   domestic relations and juvenile court with
+                                       relations matters review and update the court’s   jurisdiction over parenting matters (Section 4).
+                                       local rules regarding parenting time to comply
+                                       with the bill (Section 4).
+
+
+
+
+SUSB0174-136/ar
+
+
+
+
+P a g e |7                                                                                      Sub. S.B. 174, Sub. Bill Comparative Synopsis
+

@@ -1,0 +1,257 @@
+[This opinion has been published in Ohio Official Reports at 182 Ohio St.3d 197.]
+
+
+
+
+  [THE STATE EX REL .] RANKIN, APPELLANT , v. THE STATE OF OHIO ET AL.,
+                                          APPELLEES.
+               [Cite as State ex rel. Rankin v. State, 2025-Ohio-4483.]
+Mandamus—Private-citizen affidavits—Appellant failed to establish that he has a
+         clear legal right to prosecution of offenses he had alleged in his private-
+         citizen affidavit or that prosecutors have a clear legal duty to prosecute the
+         offenses—Court of appeals’ judgment granting prosecutors’ motion to
+         dismiss appellant’s amended petition affirmed.
+      (No. 2024-1781—Submitted May 13, 2025—Decided October 1, 2025.)
+      APPEAL from the Court of Appeals for Adams County, No. 24CA1203.
+                                    __________________
+         The per curiam opinion below was joined by KENNEDY, C.J., and FISCHER,
+DEWINE, BRUNNER, DETERS, HAWKINS, and SHANAHAN, JJ.
+
+
+
+
+         Per Curiam.
+         {¶ 1} Appellant, Bryan Rankin, appeals the judgment of the Fourth District
+Court of Appeals dismissing the amended petition for a writ of mandamus he filed
+against appellees, Adams County Prosecuting Attorney Aaron Haslam and Brown
+County Prosecuting Attorney Zachary Corbin.1 Rankin had alleged in a private-
+citizen affidavit that offenses were committed by the judge who presided over his
+criminal trial and a witness who testified against him. He then asked the Fourth
+District to issue a writ of mandamus ordering appellees to prosecute the witness
+and the judge. The Fourth District granted appellees’ motion to dismiss, holding
+
+1. Rankin listed the State of Ohio as a respondent in the caption of his petition, but he identified
+only Haslam and Corbin in his prayer for relief.
+                             SUPREME COURT OF OHIO
+
+
+
+
+that they have no clear legal duty to bring charges as requested. Rankin has
+appealed and has also moved to strike appellees’ merit brief.
+        {¶ 2} We affirm the Fourth District’s dismissal and deny Rankin’s motion
+to strike.
+                               I. BACKGROUND
+        {¶ 3} Under R.C. 2935.09, a private citizen seeking to cause the arrest or
+prosecution of another person may charge a criminal offense by filing an affidavit
+with the clerk of a court of record. R.C. 2935.09(D). If the affidavit alleges a
+felony, unless there is reason to believe that the affidavit lacks merit or was not
+filed in good faith, either a warrant must be issued for the arrest of the person
+identified in the affidavit or the matter must be referred to the county prosecuting
+attorney for investigation. R.C. 2935.10(A).
+        {¶ 4} In July 2024, Rankin filed a private-citizen affidavit under R.C.
+2935.09 in Adams County Court. The affidavit alleged two criminal offenses. The
+first alleged offense was that a witness committed perjury, a felony, when testifying
+against Rankin at his criminal trial for interference with custody.        See R.C.
+2921.11(F) (classifying perjury as a third-degree felony). The second alleged
+offense was that the judge who presided over the trial, Adams County Court Judge
+Roy E. Gabbert, knowingly made a false statement asserting that a police report is
+not a public record when he excluded the report from evidence at Rankin’s trial,
+thereby depriving Rankin of his “constitutional or statutory right” and violating the
+judge’s oath of office.
+        {¶ 5} Rankin’s private-citizen affidavit was referred to the Adams County
+Prosecutor’s Office for investigation under R.C. 2935.10, and the prosecutor’s
+office in turn referred the affidavit to a special prosecutor in Brown County. The
+special prosecutor investigated the allegations, determined that there was not
+sufficient evidence to indicate that a crime had been committed, and declined to
+pursue criminal charges.     The special prosecutor then filed a notification of
+
+
+
+
+                                         2
+                                      January Term, 2025
+
+
+
+
+dismissal of the affidavit, stating that “the State having reviewed the evidence
+exercises its legal discretion and refuses to pursue criminal charges in this matter”
+against either the witness or Judge Gabbert.
+         {¶ 6} In August 2024, Rankin commenced this action in the Fourth District
+Court of Appeals, seeking a writ of mandamus to compel appellees to charge the
+witness with perjury. Appellees moved to dismiss, and Rankin filed an amended
+petition. In the amended petition, Rankin requested the same mandamus relief as
+he did in the original petition.2 The amended petition refers to Rankin’s private-
+citizen affidavit, but the affidavit is not attached as an exhibit, as it was to the
+original petition. Instead, Rankin filed an “amended legal affidavit” elaborating on
+the alleged perjury but omitting any reference to Judge Gabbert’s allegedly false
+statement regarding the police report. Concurrently, Rankin filed a “motion to
+strike” appellees’ motion to dismiss in which he clarified that he also was seeking
+an order compelling appellees to prosecute Judge Gabbert—relief he had failed to
+request in either his original or his amended petition.
+         {¶ 7} Appellees moved to dismiss the amended petition for failure to state
+a claim under Civ.R. 12(B)(6), arguing that they do not have a clear legal duty to
+prosecute the criminal charges alleged in Rankin’s affidavit. The Fourth District
+concluded that Rankin was not entitled to a writ compelling the State to prosecute
+the witness and Judge Gabbert, because R.C. 2935.10 does not require prosecution
+of all offenses alleged in a private-citizen affidavit and, thus, appellees had no clear
+duty to pursue the requested charges.3 Accordingly, the Fourth District granted
+appellees’ motion and dismissed Rankin’s amended petition.
+
+
+
+2. In addition, Rankin asserted a public-records claim in his original and amended petitions. Rankin
+concedes in his merit brief that the Fourth District did not err in dismissing the action with respect
+to this claim.
+
+3. The Fourth District apparently construed Rankin’s pleadings liberally as including a request for
+a writ compelling prosecution of Judge Gabbert.
+
+
+
+
+                                                  3
+                              SUPREME COURT OF OHIO
+
+
+
+
+        {¶ 8} Rankin appealed to this court as of right. He filed a motion to appoint
+counsel, which we denied. 2025-Ohio-39. He also asks this court to strike
+appellees’ merit brief for violating our Rules of Practice.
+                                   II. ANALYSIS
+        {¶ 9} This court reviews de novo a court of appeals’ judgment dismissing a
+mandamus complaint under Civ.R. 12(B)(6). State ex rel. Casey v. Brown, 2023-
+Ohio-2264, ¶ 15. “Dismissal is justified ‘if, after presuming all factual allegations
+in the complaint to be true and drawing all reasonable inferences in the relator’s
+favor, it appears beyond doubt that he can prove no set of facts entitling him to a
+writ of mandamus.’” Id., quoting State ex rel. A.N. v. Cuyahoga Cty. Prosecutor’s
+Office, 2021-Ohio-2071, ¶ 8. To be entitled to a writ of mandamus, Rankin must
+establish a clear legal right to the requested relief, a clear legal duty on the part of
+one or both of the appellees to provide it, and the lack of an adequate remedy in the
+ordinary course of the law. Casey at ¶ 15. He must do so by clear and convincing
+evidence. State ex rel. Bunting v. Styer, 2016-Ohio-5781, ¶ 10.
+        {¶ 10} While Rankin’s merit brief and other filings are difficult to parse, his
+principal argument appears to be that the Fourth District erred in denying his
+request for a writ of mandamus because appellees abused their discretion in
+refusing to prosecute the witness and Judge Gabbert. Because Rankin did not allege
+abuse of prosecutorial discretion in his amended petition and the Fourth District
+never considered this allegation, this argument cannot be considered on appeal. See
+State ex rel. S.Y.C. v. Floyd, 2024-Ohio-1387, ¶ 18, quoting During v. Quoico,
+2012-Ohio-2990, ¶ 43 (10th Dist.) (“‘An appellant cannot change the theory of her
+case and present new arguments for the first time on appeal.’”). Accordingly, our
+analysis focuses on whether Rankin sufficiently alleged that he has a clear legal
+right to prosecution of the charges alleged in his private-citizen affidavit and that
+appellees have a clear legal duty to prosecute those charges.
+
+
+
+
+                                           4
+                                 January Term, 2025
+
+
+
+
+                                A. Motion to Strike
+        {¶ 11} As a preliminary matter, we address Rankin’s motion to strike.
+Rankin argues that appellees’ merit brief violates S.Ct.Prac.R. 16.03(B) because in
+it, appellees “fail[ed] to address propositions of law” as he had enumerated them in
+his merit brief and instead “ma[de] up their own non-responsive propositions of
+law and avoid[ed] [his].” Rankin contends that he asserted four “propositions of
+law” in his brief but that appellees instead addressed two different and unrelated
+points. He claims that to comply with S.Ct.Prac.R. 16.03(B), appellees’ brief
+“would first have to correspond & answer [his] contentions by way of heading [his]
+propositions of law.”
+        {¶ 12} Rankin’s motion lacks merit. First, the language of the applicable
+rule does not support Rankin’s interpretation.            This court has interpreted
+S.Ct.Prac.R. 16.03(B)(1) as requiring that an appellee’s brief “address each
+‘contention,’ not each ‘proposition of law.’” Rance v. Watson, 2022-Ohio-1822,
+¶ 9. Appellees in this case have done so. Second, even assuming for the sake of
+argument some deficiency in appellees’ merit brief, this court has generally
+“declined to strike a brief when its shortcomings have not prejudiced the opposing
+party’s ability to file a responsive brief or hindered this court’s ability to decide the
+case,” State ex rel. Sultaana v. Mansfield Corr. Inst., 2023-Ohio-1177, ¶ 13, citing
+State ex rel. Physicians Commt. for Responsible Medicine v. Ohio State Univ. Bd.
+of Trustees, 2006-Ohio-903, ¶ 14. Rankin’s motion to strike fails to establish that
+any alleged shortcomings in appellees’ merit brief have prejudiced his ability to file
+his reply brief or hindered this court’s ability to decide the case.
+        {¶ 13} We deny Rankin’s motion to strike.
+                                B. Amended Petition
+        {¶ 14} Rankin argues on appeal that appellees should have prosecuted
+Judge Gabbert and the witness who testified against Rankin for the charges alleged
+in the private-citizen affidavit Rankin filed. As noted above, Rankin alleged in the
+
+
+
+
+                                           5
+                             SUPREME COURT OF OHIO
+
+
+
+
+affidavit that the prosecution’s witness committed perjury when testifying against
+Rankin, that Judge Gabbert falsely stated during trial that a police report was not a
+public record, and that the judge violated his oath of office by refusing to admit the
+report into evidence.
+        1. Rankin does not have a clear legal right to the requested relief
+       {¶ 15} To be entitled to a writ of mandamus, Rankin must show a clear legal
+right to prosecution of the charges alleged in his private-citizen affidavit. See
+Casey, 2023-Ohio-2264, at ¶ 15. However, the allegations asserted in the amended
+petition do not establish such a right. This court has consistently held that “‘R.C.
+2935.09 does not mandate prosecution of all offenses charged by affidavit.’” State
+ex rel. Boylen v. Harmon, 2006-Ohio-7, ¶ 6, quoting State ex rel. Evans v.
+Columbus Dept. of Law, 1998-Ohio-128, ¶ 5. Thus, Rankin’s filing of a private-
+citizen affidavit under R.C. 2935.09 does not confer on him a right to prosecution
+of the alleged offenses. Rankin has not established a clear legal right to the
+requested relief.
+   2. Appellees do not have a clear legal duty to provide the requested relief
+       {¶ 16} Rankin’s failure to satisfy the first element of entitlement to a writ
+of mandamus defeats his claim. But even if Rankin could show a clear legal right
+to the relief he requests, he would also have to show that appellees have a clear
+legal duty to bring the criminal charges alleged in his private-citizen affidavit. See
+Casey at ¶ 15. However, Rankin’s allegations do not prove that such a duty exists.
+It is well established that “a prosecutor has no clear duty to prosecute an offense
+alleged in a [private-citizen] affidavit.” A.N., 2021-Ohio-2071, at ¶ 9; accord State
+ex rel. Capron v. Dattilio, 2016-Ohio-1504, ¶ 4; see also Bunting, 2016-Ohio-5781,
+at ¶ 18 (holding that prosecutor had no clear duty to prosecute crime alleged in
+private-citizen affidavit). R.C. 2935.10(A) prescribes the procedure to be followed
+once a private citizen has submitted an affidavit alleging a felony. Unless there is
+reason to believe that the affidavit lacks merit or was not filed in good faith, the
+
+
+
+
+                                          6
+                                January Term, 2025
+
+
+
+
+statute requires either that a warrant be issued for the alleged offender’s arrest or
+that the matter be referred to the prosecuting attorney for investigation. R.C.
+2935.10(A); see also State ex rel. Strothers v. Turner, 1997-Ohio-154, ¶ 7
+(summarizing procedure to be followed once a private-citizen affidavit has been
+filed). The statute does not impose on a prosecuting attorney a duty to prosecute
+charges alleged in a private-citizen affidavit. In sum, neither the allegations in
+Rankin’s amended petition nor the plain language of the statute establish a clear
+legal duty on the part of one or both of the appellees to provide the requested relief.
+                                III. CONCLUSION
+       {¶ 17} In light of the foregoing, by failing to show a clear legal right to the
+requested relief and a clear legal duty on appellees’ part to provide it, Rankin has
+failed to state a claim that would entitle him to a writ of mandamus. We affirm the
+Fourth District Court of Appeals’ judgment dismissing Rankin’s amended petition
+for a writ of mandamus, and we deny his motion to strike appellees’ merit brief.
+                                                                  Judgment affirmed.
+                               __________________
+       Bryan Rankin, pro se.
+       Engel & Martin, L.L.C., and Joshua Adam Engel, for appellees.
+                               __________________
+
+
+
+
+                                          7
+

@@ -1,0 +1,603 @@
+                                          OHIO LEGISLATIVE SERVICE COMMISSION
+                                                  Office of Research                          Legislative Budget
+                     www.lsc.ohio.gov               and Drafting                                    Office
+
+
+
+                                  Substitute Bill Comparative Synopsis
+                                                                Sub. H.B. 508
+                                                         134th General Assembly
+                                                               House Civil Justice
+
+ Chenwei Zhang, Attorney
+
+       This table summarizes how the latest substitute version of the bill differs from the immediately preceding version. It addresses
+only the topics on which the two versions differ substantively. It does not list topics on which the two bills are substantively the same.
+
+                           Previous Version                                                         Latest Version
+                            (As Introduced)                                                        (l_134_1415-6)
+
+ Evidentiary standard
+
+ Provides that the evidentiary standard is “clear and convincing” for    Changes “clear and convincing” to a lower standard of “a
+ determining the following:                                              preponderance of the evidence” (R.C. 3109.0410, 3109.0412(A),
+                                                                         3109.0420, 3109.0424, 3109.0425, 3109.0436(B)(1) and (2),
+        Rebutting a presumption that a shared parenting agreement
+                                                                         3109.0451, and 3109.0483(C)).
+         is in the best interest of the child;
+        Rebutting a presumption that equal decision-making rights
+         and responsibilities between the parents, with both parents
+         remaining legal custodians and residential parents, is in the
+Office of Research and Drafting                                           LSC                         Legislative Budget Office
+
+
+
+                              Previous Version                                   Latest Version
+                               (As Introduced)                                  (l_134_1415-6)
+          best interest of the child, when the parents do not submit a
+          shared parenting agreement;
+         Rebutting a presumption that equal parenting time is in the
+          best interest of the child, when the parents do not submit a
+          shared parenting agreement;
+         Whether it would be detrimental to the child to incorporate
+          into a temporary order allocating parental rights and
+          responsibilities (temporary order) the terms that the parents
+          jointly requested;
+         Whether it would be detrimental to the child to require equal
+          parenting time or equal decision-making rights and
+          responsibilities when the parents do not agree on the terms
+          of a temporary order;
+         When a court has not issued a shared parenting or parental
+          rights and responsibilities order where both parents are the
+          residential parent and legal custodian of the child, whether it
+          would be detrimental to the child to permit the parent who is
+          not the residential parent to have parenting time with the
+          child;
+         When a temporary order issued as a result of a parent’s
+          active military service is terminated, whether a parent has
+          demonstrated that resuming the prior order would be
+          detrimental to the child.
+ (R.C. 3109.0410, 3109.0412(A), 3109.0420, 3109.0424, 3109.0425,
+ 3109.0436(B)(1) and (2), 3109.0451, and 3109.0476(C).)
+
+
+
+
+P a g e |2                                                                        Sub. H.B. 508, Sub. Bill Comparative Synopsis
+Office of Research and Drafting                                          LSC                                                    Legislative Budget Office
+
+
+
+                              Previous Version                                                             Latest Version
+                               (As Introduced)                                                            (l_134_1415-6)
+
+ Requirements for shared parenting agreements v. orders allocating parental rights and responsibilities
+
+ Requires a shared parenting agreement to include provisions covering        Requires every shared parenting order and parental rights and
+ all factors that are relevant to the care of the children, including, but   responsibilities order, to include all of the following:
+ not limited to, provisions covering factors such as physical living
+                                                                                     Provisions regarding each child’s needs that are consistent
+ arrangements, child support obligations, provision for the children’s
+                                                                                      with the child’s age, developmental stage, and maturation;
+ medical and dental care, school placement, and the parent with
+ which the children will be physically located during legal holidays,                The designation of a parent for the following purposes:
+ school holidays, and other days of special importance.                               Paying and receiving child support, health care coverage,
+ (R.C. 3109.047.)                                                                      and cash medical support in accordance with child support
+                                                                                       laws;
+                                                                                      Determining the school district of attendance;
+                                                                                      Claiming the child as a dependent for income tax purposes;
+                                                                                      For any other purpose requiring designation of one parent,
+                                                                                       including public assistance, international treaty
+                                                                                       enforcement, or state or federal law.
+                                                                                     The parenting time schedule for weekdays, weekends,
+                                                                                      holidays, days that hold special meaning to the child or
+                                                                                      parents, vacations, and other relevant times;
+                                                                                     The frequency, time, and method of the child’s
+                                                                                      communication with a parent during the parenting time;
+                                                                                     The allocation of decision-making and other responsibilities
+                                                                                      related to the welfare of the child, including education, child
+                                                                                      care, health care, and school and extra-curricular activities;
+                                                                                     The procedure for parenting time, including the meeting
+                                                                                      location and the person responsible for transportation;
+
+
+
+
+P a g e |3                                                                                                  Sub. H.B. 508, Sub. Bill Comparative Synopsis
+Office of Research and Drafting                  LSC                                                  Legislative Budget Office
+
+
+
+                              Previous Version                                  Latest Version
+                               (As Introduced)                                 (l_134_1415-6)
+                                                          The frequency and method for the parents to communicate
+                                                           with each other about the child;
+                                                          The process of information sharing and right to access the
+                                                           child’s school records, health records, records of the childcare
+                                                           facilities, and school and extra-curricular activities;
+                                                          Any geographical restriction on relocation of the child and
+                                                           notification procedure prior to the relocation of the child
+                                                           pursuant to the bill’s relocation provisions;
+                                                          Each parent’s responsibility for the child’s financial support,
+                                                           consistent with existing child support laws;
+                                                          Procedures for the parents to resolve disputes through
+                                                           nonadversarial dispute resolution processes;
+                                                          Each parent’s responsibility to provide written notification to
+                                                           the other parent and the court of a change of contact
+                                                           information, including street address, mailing address, email
+                                                           address, or telephone number in compliance with the bill’s
+                                                           relocation provisions;
+                                                          Any other provisions required by statute or the court.
+                                                   (R.C. 3109.046.)
+
+ Filing a shared parenting agreement
+
+ No provision.                                     Requires a shared parenting agreement to contain provisions that
+                                                   address all the requirements for shared parenting orders
+                                                   (immediately above) and be filed no later than 30 days before a
+                                                   hearing to determine the allocation of parenting responsibilities,
+                                                   except that the court may waive the deadline for good cause shown
+                                                   (R.C. 3109.048).
+
+
+
+P a g e |4                                                                        Sub. H.B. 508, Sub. Bill Comparative Synopsis
+Office of Research and Drafting                                      LSC                                                    Legislative Budget Office
+
+
+
+                              Previous Version                                                        Latest Version
+                               (As Introduced)                                                       (l_134_1415-6)
+
+ Providing information for a parental rights and responsibilities order
+
+ No provision.                                                            Requires each parent to submit the following information, no later
+                                                                          than 30 days before a hearing, except for good cause shown, when
+                                                                          they have not entered into a shared parenting agreement:
+                                                                                 The parent’s work schedule;
+                                                                                 Living arrangements of the parent and the child;
+                                                                                 Factors for rebutting a presumption of equal parenting time
+                                                                                  or decision-making rights and responsibilities;
+                                                                                 Any other circumstances that are relevant to determining the
+                                                                                  allocation of parental rights and responsibilities and an
+                                                                                  appropriate parenting time schedule to maximize the child’s
+                                                                                  time with each parent.
+                                                                          (R.C. 3109.0419.)
+
+ Rebutting presumptions on care and decision making
+
+ No provision.                                                            Adds the factor of whether a parent is totally incapable of providing
+                                                                          support or caring for a child to the list of factors to consider when
+                                                                          determining whether the presumption is rebutted that the following
+                                                                          are in the best interest of the child:
+                                                                                 A shared parenting agreement that both parents agree upon;
+                                                                                 Equal parenting time when the parents have not entered into
+                                                                                  a shared parenting agreement;
+                                                                                 Equal decision-making rights and responsibilities when the
+                                                                                  parents have not entered into a shared parenting agreement.
+                                                                          (R.C. 3109.0411(D), 3109.0421(E), and 3109.0422(J).)
+
+
+
+P a g e |5                                                                                              Sub. H.B. 508, Sub. Bill Comparative Synopsis
+Office of Research and Drafting                     LSC                                                 Legislative Budget Office
+
+
+
+                              Previous Version                                     Latest Version
+                               (As Introduced)                                    (l_134_1415-6)
+
+ “Friendly parent” factors – consideration
+
+ No provision.                                        Requires a court to consider whether a parent has intentionally done
+                                                      any of the following, after determining that a presumption of equal
+                                                      decision-making rights and responsibilities or equal parenting time
+                                                      under a parental rights and responsibilities order has been rebutted:
+                                                             Misled the court to cause an unnecessary delay, increase the
+                                                              cost of litigation, or persuade the court to give that parent a
+                                                              preference regarding the presumption that has been
+                                                              rebutted;
+                                                             Made false allegations against the other parent of harm to
+                                                              the child;
+                                                             Communicated false information to law enforcement, a
+                                                              public children services agency, or the court in order to gain a
+                                                              tactical advantage in a proceeding to determine the
+                                                              allocation of parental rights and responsibilities.
+                                                      (R.C. 3109.0423.)
+
+ “Friendly parent” factors – allocation of rights
+
+ No provision.                                        Requires the court to allocate most of the decision-making rights and
+                                                      responsibilities or parenting time, for whichever presumption has
+                                                      been rebutted, to the most cooperative parent who has not been
+                                                      determined to have done any of the above actions
+                                                      (R.C. 3109.0424(A)(2)(b) and 3109.0425(A)(2)(b)).
+
+
+
+
+P a g e |6                                                                          Sub. H.B. 508, Sub. Bill Comparative Synopsis
+Office of Research and Drafting                                            LSC                                                  Legislative Budget Office
+
+
+
+                              Previous Version                                                            Latest Version
+                               (As Introduced)                                                           (l_134_1415-6)
+
+ Relocation – occurs when there is a change of address
+
+ No provision.                                                               Provides that a relocation of a parent’s or child’s residence occurs
+                                                                             when there is a change of address (R.C. 3109.0470).
+
+ Relocation – applicability
+
+ Provides that the relocation notice provisions apply to a residential       Provides that the relocation notice provisions apply to any relocating
+ parent (R.C. 3109.0460).                                                    parent (R.C. 3109.0470 to 3109.0479).
+
+ Relocation – filing of notice of intent to relocate
+
+ Requires a relocating parent who intends to move to a residence             Requires a relocating parent to file a notice of intent to relocate with
+ other than the residence specified in the parenting time order of the       the clerk of the court where the shared parenting order or parental
+ court to file a notice of intent to relocate with the court that issued     rights and responsibilities order was issued (R.C. 3109.0471(A)).
+ the order (R.C. 3109.0460(A)).
+
+ Relocation – deadline to file notice of intent to relocate
+
+ No provision.                                                               Requires a notice of intent to relocate to be filed not later than 60
+                                                                             days before the intended relocation or not later than 10 days after
+                                                                             the parent knew of the intended relocation, if the 60-day
+                                                                             requirement cannot be met, absent exigent circumstances (R.C.
+                                                                             3109.0472).
+
+ Relocation – sending copy of notice
+
+ Requires the court to send a copy of the notice to the parent who is        Requires the clerk of the court to send a copy of the notice of intent
+ not the residential parent (R.C. 3109.0460(A)).                             to relocate to the last known address of the nonrelocating parent
+                                                                             (R.C. 3109.0471(B)).
+
+
+
+
+P a g e |7                                                                                                  Sub. H.B. 508, Sub. Bill Comparative Synopsis
+Office of Research and Drafting                                           LSC                                                     Legislative Budget Office
+
+
+
+                              Previous Version                                                             Latest Version
+                               (As Introduced)                                                            (l_134_1415-6)
+
+ Relocation – notice requirements
+
+ No provision.                                                              Requires a notice of intent to relocate to include:
+                                                                                   Updated residential address;
+                                                                                   Updated mailing address;
+                                                                                   Updated telephone number;
+                                                                                   Updated email address;
+                                                                                   Date of relocation;
+                                                                                   Notice to the nonrelocating parent that any objection to the
+                                                                                    relocation must be filed not later than 30 days after receipt of
+                                                                                    the notice of intent to relocate.
+                                                                            (R.C. 3109.0473.)
+
+ Relocation – hearing to determine revision of parenting time
+
+ Allows the court, on its own motion, and requires the court, on the        No provision.
+ motion of the nonresidential parent, to schedule a hearing with
+ notice to both parents to determine whether it is in the best interest
+ of the child to revise the parenting time schedule for the child (R.C.
+ 3109.0460(A)).
+
+ Relocation – determination of disclosure
+
+ Requires the court to do the following when it issues a parenting time     Allows the court to do any of the following, upon finding that the
+ order to a parent who is not the residential parent:                       health, safety, and welfare or liberty of a person, including a child,
+                                                                            would be put at risk by the relocating parent filing a notice:
+         Determine whether a parent has been convicted of or
+          pleaded guilty to domestic violence or an offense against a              Order that the intent to relocate not be disclosed;
+
+
+
+P a g e |8                                                                                                  Sub. H.B. 508, Sub. Bill Comparative Synopsis
+Office of Research and Drafting                                             LSC                                                 Legislative Budget Office
+
+
+
+                              Previous Version                                                            Latest Version
+                               (As Introduced)                                                           (l_134_1415-6)
+          family or household member or perpetrated an abusive act                   Waive the notice requirement to the extent necessary to
+          causing a child to be an abused child;                                      protect the confidentiality and the health, safety, and welfare
+                                                                                      of the child or parent;
+         Issue, upon finding the first bullet in the negative, an order
+          stating that a copy of any notice of relocation will be sent to            Consider any other remedy deemed necessary to facilitate
+          the parent who is given parenting time rights;                              the legitimate needs of the parties and protect the best
+                                                                                      interest of the child;
+         Issue, upon finding the first bullet in the positive, an order
+          stating that the parent will not be given a copy of any notice             If appropriate, conduct an ex parte hearing, with a full
+          of relocation, unless the court determines that it is in the best           hearing with notice to the parents if an ex parte order is
+          interest of the child to do so.                                             issued.
+ (R.C. 3109.0460(B).)                                                         (R.C. 3109.0474.)
+
+ Relocation – motion to prevent disclosure
+
+  Allows, a residential parent to file a motion with the court requesting     Allows the relocating parent to file a motion for the court to make a
+ that the nonresidential parent not receive a copy of any relocation          determination, as described above (R.C. 3109.0474).
+ notice if:
+         A nonresidential parent who is granted parenting time rights
+          is allowed to receive a copy of a notice of relocation; and
+         The residential parent intends to move and does not want
+          the nonresidential parent to receive a copy of the relocation
+          notice because the parent has been convicted of or pleaded
+          guilty to domestic violence or an offense against a family or
+          household member or perpetrated an abusive act causing a
+          child to be an abused child.
+ (R.C. 3109.0460(C).)
+
+
+
+
+P a g e |9                                                                                                  Sub. H.B. 508, Sub. Bill Comparative Synopsis
+Office of Research and Drafting                                            LSC                                                    Legislative Budget Office
+
+
+
+                              Previous Version                                                              Latest Version
+                               (As Introduced)                                                             (l_134_1415-6)
+
+ Relocation – hearing motion to prevent disclosure
+
+ Requires the court to schedule a hearing upon receipt of a motion to          No provision.
+ prevent disclosure, and to give both parents notice of the date, time,
+ and location of the hearing.
+ (R.C. 3109.0460(C).)
+
+ Relocation – determination on motion to prevent disclosure
+
+ Requires the court to issue an order stating that the nonresidential          No provision.
+ parent will not receive a copy of a notice to relocate if it determines
+ that the parent has been convicted of or pleaded guilty to domestic
+ violence or an offense against a family or household member or
+ perpetrated an abusive act causing a child to be an abused child,
+ unless it determines that it is in the best interest of the child to do so.
+ (R.C. 3109.0460(C).)
+
+ Relocation – failure to file notice of intent to relocate
+
+ No provision.                                                                 Allows the court, if a parent fails without good cause to file a notice
+                                                                               of intent to relocate, to consider the failure as follows:
+                                                                                      As a factor in making its determination regarding the
+                                                                                       relocation;
+                                                                                      As a factor in determining a modification of a shared
+                                                                                       parenting order or a parental rights and responsibilities
+                                                                                       order;
+                                                                                      As a basis for ordering the return of the child if the relocation
+                                                                                       has taken place without notice;
+
+
+
+
+P a g e | 10                                                                                                  Sub. H.B. 508, Sub. Bill Comparative Synopsis
+Office of Research and Drafting                                        LSC                                                   Legislative Budget Office
+
+
+
+                              Previous Version                                                         Latest Version
+                               (As Introduced)                                                        (l_134_1415-6)
+                                                                                As a basis for awarding attorney fees and expenses;
+                                                                                As a factor in a finding of contempt.
+                                                                         (R.C. 3109.0475.)
+
+ Relocation – objection to relocation
+
+ No provision.                                                           Allows a nonrelocating parent to file a motion objecting to the
+                                                                         relocation and seek an order restricting the relocation when it would
+                                                                         render any portion of a shared parenting order or parental rights and
+                                                                         responsibilities order impracticable or detrimental to the child (R.C.
+                                                                         3109.0476).
+
+ Relocation – deadline to file objection
+
+ No provision.                                                           Requires a motion objecting to relocation to be filed not later than 30
+                                                                         days after the receipt of the notice of intent to relocate (R.C.
+                                                                         3109.0477).
+
+ Relocation – hearing for objection to relocation
+
+ No provision.                                                           Requires a court to conduct a hearing if a motion objecting to
+                                                                         relocation is filed and requires all matters relating to the relocation to
+                                                                         be given priority scheduling (R.C. 3109.0478).
+
+ Relocation – factors for court consideration on proposed relocation
+
+ No provision.                                                           Requires the court to determine all of the following when reaching a
+                                                                         decision on a proposed relocation:
+                                                                                Whether the relocation is detrimental to the child based on
+                                                                                 the factors for rebutting a presumption regarding a shared
+                                                                                 parenting agreement, equal decision-making rights and
+
+
+P a g e | 11                                                                                            Sub. H.B. 508, Sub. Bill Comparative Synopsis
+Office of Research and Drafting                                   LSC                                                    Legislative Budget Office
+
+
+
+                              Previous Version                                                    Latest Version
+                               (As Introduced)                                                   (l_134_1415-6)
+                                                                            responsibilities or equal parenting time under a parental
+                                                                            rights and responsibilities order, or a parenting time order;
+                                                                           The reason presented for seeking or opposing the relocation;
+                                                                           The realistic ability to preserve the relationship between the
+                                                                            child and the nonrelocating parent through any proposed
+                                                                            new arrangements that consider the logistics and costs of
+                                                                            contact, access, and parenting time;
+                                                                           The effect the relocation will have on the child’s relationship
+                                                                            with extended family;
+                                                                           The enhancement of the quality of life for the child and the
+                                                                            relocating parent that the relocation may afford;
+                                                                           Whether a presumption has previously been rebutted
+                                                                            regarding a shared parenting agreement, equal decision-
+                                                                            making rights and responsibilities and equal parenting time
+                                                                            under a parental rights and responsibilities order, or a
+                                                                            parenting time order;
+                                                                           The child’s stability;
+                                                                           Any other factor the court determines relevant.
+                                                                    (R.C. 3109.0479.)
+
+ False accusation of abuse or neglect – allow monetary sanction
+
+ No provision.                                                      Allows a court to impose a reasonable monetary sanction against a
+                                                                    person that the court has determined to have intentionally made a
+                                                                    false accusation of child abuse or neglect against a parent in a
+                                                                    proceeding to allocate parental rights and responsibilities (R.C.
+                                                                    3109.0481(A)).
+
+
+
+
+P a g e | 12                                                                                         Sub. H.B. 508, Sub. Bill Comparative Synopsis
+Office of Research and Drafting                                       LSC                                                   Legislative Budget Office
+
+
+
+                              Previous Version                                                        Latest Version
+                               (As Introduced)                                                       (l_134_1415-6)
+
+ False accusation of abuse or neglect – definition of “person”
+
+ No provision.                                                            Defines “person” for purposes of the above as a party, a party’s
+                                                                          attorney, or witness (R.C. 3109.0481(D)).
+
+ False accusation of abuse or neglect – allow community service instead of monetary sanction
+
+ No provision.                                                            Allows a court to order a parent who made a false accusation to
+                                                                          perform an appropriate amount of community service instead of
+                                                                          imposing a monetary sanction if the court determines that a
+                                                                          monetary sanction would negatively impact the well-being of the
+                                                                          child (R.C. 3109.0481(B)).
+
+ False accusation of abuse or neglect – ordering makeup parenting time
+
+ No provision.                                                            Requires a court to order reasonable makeup parenting time if a false
+                                                                          accusation results in the accused parent being denied parenting time
+                                                                          (R.C. 3109.0481(C)).
+
+ Parenting time/companionship or visitation: interference v. parenting time interference – applicability
+
+ Provides that the interference provisions apply to any person found in   Provides that the interference provisions apply to any interference
+ contempt of court for failing to comply with or interfering with any     with a parent’s parenting time rights under a shared parenting order
+ order granting parenting time rights to a non-residential parent or      or parental rights and responsibilities order (R.C. 3109.0491 to
+ companionship or visitation rights (R.C. 3109.0467).                     3109.0494).
+
+ Parenting time/companionship or visitation: interference v. parenting time interference – hearing
+
+ No provision.                                                            Requires a court to hold a hearing on a motion alleging interference
+                                                                          with parenting time no later than 28 days after the filing of the
+
+
+
+
+P a g e | 13                                                                                            Sub. H.B. 508, Sub. Bill Comparative Synopsis
+Office of Research and Drafting                                               LSC                                                 Legislative Budget Office
+
+
+
+                              Previous Version                                                              Latest Version
+                               (As Introduced)                                                             (l_134_1415-6)
+                                                                                motion and supporting affidavit, unless the hearing should be
+                                                                                conducted earlier for good cause shown (R.C. 3109.0491).
+
+ Parenting time/companionship or visitation: interference v. parenting time interference – temporary orders
+
+ No provision.                                                                  Allows the court to issue a temporary order necessary to protect the
+                                                                                relationship between the parent and child any time before ruling on
+                                                                                an interference motion (R.C. 3109.0492).
+
+ Parenting time/companionship or visitation: interference v. parenting time interference – required remedies
+
+ Requires the court to do the following when it finds that a person is          Requires the court to do both of the following, after a hearing and a
+ found in contempt of court for noncompliance or interference with a            finding that there was unreasonable interference with parenting
+ parenting time or companionship or visitation order:                           time:
+         Assess all court costs arising out of the contempt proceeding                An award of compensatory parenting time, provided that
+          against the person and require the person to pay any                          compensatory parenting time is not detrimental to the child;
+          reasonable attorney’s fees of any adverse party, as
+                                                                                       An award of any reasonable attorney’s fees and court costs
+          determined by the court, that arose in relation to the
+                                                                                        arising in relation to the act of interference with parenting
+          contempt action;
+                                                                                        time.
+         Award reasonable compensatory parenting time or visitation
+                                                                                (R.C. 3109.0493.)
+          to the person whose right of parenting time or visitation was
+          affected by the failure or interference, if it is not detrimental
+          to the child;
+         Impose any other penalty or remedy as required.
+ (R.C. 3109.0467.)
+
+ Parenting time/companionship or visitation interference v. parenting time interference – terms for compensatory parenting time
+
+ Requires compensatory parenting time or visitation to be included in           No provision.
+ an order issued by the court and, to the extent possible, governed by
+
+
+
+P a g e | 14                                                                                                  Sub. H.B. 508, Sub. Bill Comparative Synopsis
+Office of Research and Drafting                                    LSC                                                  Legislative Budget Office
+
+
+
+                              Previous Version                                                     Latest Version
+                               (As Introduced)                                                    (l_134_1415-6)
+ the same terms and conditions as the parenting time or
+ companionship or visitation that was affected by the failure or
+ interference (R.C. 3109.0467).
+
+ Parenting time/companionship or visitation interference v. parenting time interference – optional remedies
+
+ No provision.                                                        Allows the court to issue any of the following, after a hearing and a
+                                                                      finding that there was unreasonable interference with parenting
+                                                                      time:
+                                                                             On the court’s own motion or upon motion by one or both
+                                                                              parents, a modified shared parenting order or parental rights
+                                                                              and responsibilities order to prevent future interference with
+                                                                              parenting time in the best interest of a child;
+                                                                             An order for supervised parenting time or exchanges;
+
+                                                                             An order to require parents or the child to attend counseling,
+                                                                              education, or coaching;
+                                                                             An order to post bond, either in cash or with sufficient
+                                                                              sureties, conditioned upon compliance with the parenting
+                                                                              time provisions in the shared parenting order or parental
+                                                                              rights and responsibilities order;
+                                                                             An award of reasonable costs and fees for mediation,
+                                                                              counseling, parent and child education, and supervised
+                                                                              parenting time or exchange;
+                                                                             Any other remedy that the court considers appropriate.
+                                                                      (R.C. 3109.0494.)
+
+
+
+
+P a g e | 15                                                                                        Sub. H.B. 508, Sub. Bill Comparative Synopsis
+Office of Research and Drafting                                     LSC                                                 Legislative Budget Office
+
+
+
+                              Previous Version                                                     Latest Version
+                               (As Introduced)                                                    (l_134_1415-6)
+
+ Parenting time/companionship or visitation: interference v. parenting time interference – supervision
+
+ No provision.                                                         Implies that if the court orders supervised parenting time due to
+                                                                       unreasonable interference with parenting time, the court may require
+                                                                       the public children services agency to provide the supervision and
+                                                                       other services (R.C. 3109.0451 and 3109.0494(B)).
+
+
+
+
+SUHB508-134/ar
+
+
+
+
+P a g e | 16                                                                                        Sub. H.B. 508, Sub. Bill Comparative Synopsis
+

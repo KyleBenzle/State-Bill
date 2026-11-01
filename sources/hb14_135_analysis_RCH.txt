@@ -1,0 +1,1894 @@
+                                    OHIO LEGISLATIVE SERVICE COMMISSION
+                                          Office of Research                               Legislative Budget
+         www.lsc.ohio.gov                   and Drafting                                         Office
+
+
+                          H.B. 14                                Bill Analysis
+                  135th General Assembly
+                                                                  Click here for H.B. 14’s Fiscal Note
+
+Version: As Re-Referred by House Rules and Reference
+Primary Sponsors: Reps. Creech and John
+Effective date:
+
+
+
+
+Chenwei Zhang, Attorney
+
+                                                      SUMMARY
+Allocation of parental rights and responsibilities
+                    Establishes the following state policy:
+                         To assure that minor children have frequent associations and a continuing
+                          relationship with both parents after parents have legally separated, divorced, or
+                          dissolved or annulled their marriage or in situations in which the mother is
+                          unmarried;
+                         To encourage parents to share the rights and responsibilities of child rearing;
+                         That, to the greatest degree possible, parents share equally in parenting time and
+                          the rights and responsibilities of rearing their children.
+                    Permits a court to allocate parental rights and responsibilities under: (1) a shared
+                      parenting order that incorporates a shared parenting agreement that the parents jointly
+                      submit, or (2) a parental rights and responsibilities order, if no shared parenting order is
+                      issued.
+                    Establishes a rebuttable presumption that a jointly submitted shared parenting
+                      agreement for the allocation of parental rights and responsibilities is in the best interest
+                      of the child, unless the court finds, by clear and convincing evidence, that the allocation
+                      would be detrimental to the child.
+                    Establishes rebuttable presumptions, when parents do not jointly submit a shared
+                      parenting agreement that both (1) equal decision-making rights and responsibilities and
+                      (2) equal parenting time are in the best interest of the child, unless the court finds, by
+                      clear and convincing evidence, that such an allocation would be detrimental to the child.
+                    Requires all shared parenting orders and parental rights and responsibilities orders to
+                      include provisions covering all factors that are relevant to the care of children, such as
+
+
+
+                                                                                                         February 28, 2023
+Office of Research and Drafting                  LSC                             Legislative Budget Office
+
+
+
+        the designation of a parent for child support purposes, school attendance, and other
+        purposes; a parenting time schedule; communication methods; and information sharing.
+     Requires a shared parenting order or parental rights and responsibilities order to be
+        issued no later than nine months after the date that a party files a motion for a
+        temporary order or the date that the parties last filed a joint motion requesting an
+        extension of a temporary order.
+  Shared parenting orders
+     Requires the court to encourage parents to jointly submit a shared parenting agreement
+        for the allocation of parental rights and responsibilities.
+     Requires the parents to file a shared parenting agreement no later than 30 days before
+        a hearing to determine the allocation of parental rights and responsibilities, except that
+        the court may waive the deadline for good cause shown.
+     Identifies factors for the court to consider in rebutting a presumption that a shared
+        parenting agreement is in the best interest of the child, such as the demonstrated ability
+        of each parent to cooperate with the other parent and any history of child abuse or
+        neglect, spouse abuse, or other domestic violence-related offenses.
+     Requires the court, if it determines that a presumption is rebutted, to order the parents
+        to make appropriate changes to remedy the court’s objections.
+     Requires the court to approve a shared parenting agreement if it is not rebutted or if
+        the parents jointly submit changes to meet the court’s objections to the agreement.
+     Requires an approved shared parenting agreement to be incorporated into a shared
+        parenting order, which must be issued with a final decree of dissolution, divorce,
+        annulment, or legal separation.
+     Requires a shared parenting order to take immediate effect when it is issued, subject to
+        modification or termination under the bill’s provisions.
+  Parental rights and responsibilities orders
+     Requires the court to issue a parental rights and responsibilities order when the parents
+        have not entered into a shared parenting agreement or when the court objects to a
+        shared parenting agreement and the court’s objections are not remedied.
+     Requires the parents to submit certain information to the court 30 days before a
+        hearing to allocate parental rights and responsibilities when they have not entered into
+        a shared parenting agreement, such as work schedules, living arrangements of the
+        parent and child, and factors for rebutting presumptions of equality.
+     Requires the parent who objects to a presumption of equal decision-making rights and
+        responsibilities or equal parenting time to bear the burden of proof that the
+        arrangement would be detrimental to the children.
+
+
+
+P a g e |2                                                                                        H.B. 14
+                                                              As Re-referred by House Rules and Reference
+Office of Research and Drafting                 LSC                             Legislative Budget Office
+
+
+
+     Identifies factors for the court to consider in rebutting the presumptions that equal
+        decision-making rights and responsibilities and equal parenting time are in the best
+        interest of the child, such as the recommendation of a guardian ad litem and any history
+        of child abuse or neglect, spouse abuse, or other domestic violence-related offenses.
+     Requires the court, if either presumption is rebutted, to consider whether a parent has
+        intentionally misled the court, made false allegations of the other parent harming the
+        child, or communicated false information to gain a tactical advantage.
+     Requires the court, if the presumption of equal decision-making rights and
+        responsibilities is rebutted, to:
+            Issue an order designating one parent as the residential parent and legal custodian
+             of the child; and
+            Allocate most of the decision-making rights and responsibilities to the parent who
+             has demonstrated a greater willingness to cooperate with the other parent and has
+             not misled the court or communicated false allegations or information.
+     Requires the court, if the presumption of equal parenting time is rebutted, to:
+            Issue an order allocating parental rights and responsibilities with unequal parenting
+             time in accordance with its determination;
+            Award the majority of parenting time to the parent who (1) is more likely to honor
+             and facilitate parenting time for the other parent, if the court determines that one
+             parent has interfered with or continuously and willfully denied parenting time to the
+             other parent and (2) has not misled the court or communicated false allegations or
+             information; and
+            Construct a parenting time schedule that is consistent with the child’s welfare.
+     Requires the court, if neither presumption has been rebutted, to issue an order
+        allocating both equal decision-making rights and responsibilities, with both parents
+        designated as the residential parent and legal custodian of the child, and equal
+        parenting time.
+     Requires the court, if one presumption is rebutted but the other is not, to allocate the
+        nonrebutted presumption equally.
+  Modification and termination of orders
+     Allows one or both parents under a shared parenting order or parental rights and
+        responsibilities order to file a motion for the order to be modified or terminated.
+      Shared parenting orders
+     Requires the court to issue a modified shared parenting order incorporating a modified
+        shared parenting agreement if both parents under the order agree to a modification of
+        the agreement and jointly file a motion for modification, provided that the modified
+        agreement is not detrimental to the child.
+
+
+P a g e |3                                                                                       H.B. 14
+                                                             As Re-referred by House Rules and Reference
+Office of Research and Drafting                   LSC                         Legislative Budget Office
+
+
+
+     Requires the court to dismiss a motion for modification of a shared parenting
+        agreement if the court finds the modified agreement to be detrimental to the child.
+     Allows a court to do one of the following when: (1) one parent files a motion for
+        modification of the shared parenting agreement or if both parents file separate motions
+        for modifications, and (2) based on facts that have arisen that were unknown to the
+        court, a change in circumstances has occurred for the child or parents:
+            If the court determines that the requested changes to the shared parenting
+             agreement are not detrimental to the child  issue a modified shared parenting
+             order that incorporates the modified agreement.
+            If the court determines that the requested changes are detrimental and the existing
+             plan is not detrimental to the child  dismiss the motion to modify the shared
+             parenting order.
+            If the court determines that the requested changes to the agreement are
+             detrimental and the existing plan is also detrimental to the child  terminate the
+             existing shared parenting order.
+     Allows the court to terminate a shared parenting order on the motion of one or both
+        parents if the court determines either:
+            The shared parenting agreement incorporated into the order is detrimental to the
+             child; or
+            One parent demonstrates a pattern of willfully creating conflict in an attempt to
+             disrupt a current or pending shared parenting agreement, the court determines by a
+             preponderance of evidence that it is unable to enter into a shared parenting order
+             that will reduce conflict, and the disruptive behavior is a material change in
+             circumstances.
+     Requires the court to issue a parental rights and responsibilities order if a shared
+        parenting order is terminated because:
+            One parent has requested modification and the court concluded that both the
+             requested modification and the existing shared parenting plan are detrimental; or
+            One or both parents file a motion for termination and the court determines that the
+             shared parenting agreement is detrimental to the child.
+     Requires the court to issue a parental rights and responsibilities order with the
+        nondisruptive parent as the residential parent and legal custodian of the child if a
+        shared parenting order is terminated because one or both parents file a motion for
+        termination and the court determines that one parent has willfully disrupted an
+        agreement.
+
+
+
+
+P a g e |4                                                                                     H.B. 14
+                                                           As Re-referred by House Rules and Reference
+Office of Research and Drafting                  LSC                            Legislative Budget Office
+
+
+
+      Parental rights and responsibilities orders
+     Allows both parents under a parental rights and responsibilities order to jointly motion
+        the court to modify the order as a shared parenting order, subject to the provisions
+        governing shared parenting agreements.
+     Allows a court to make modifications when one parent files a motion or both parents
+        file separation motions requesting modifications of a parental rights and responsibilities
+        order if it determines:
+            The order is detrimental to the child; and
+            Based on facts that have arisen since the prior order that were unknown to the
+             court, a change in circumstances has occurred to the child or parents.
+  Other allocation provisions
+     Allows parents to request a temporary allocation of parental rights and responsibilities
+        in accordance with the state policy and the bill’s presumptions, and to jointly move to
+        extend a temporary order.
+     Prohibits a court from drawing any presumptions from a temporary order or considering
+        a temporary order as a factor when making a final allocation of parental rights and
+        responsibilities in a shared parenting agreement or parental rights and responsibilities
+        order.
+     Requires the court to designate one of the parents’ residences as the child’s home for
+        purposes of receiving public assistance or establishing school district residence.
+Parenting time and companionship and visitation orders
+     Requires a court to issue a parenting time order if only one parent is designated the
+        residential parent and legal custodian of the child, unless the court finds by clear and
+        convincing evidence that parenting time would be detrimental to the child.
+     Generally requires that the court issue a transition plan, to be completed within
+        12 months, if it denies parenting time to a parent who is not the residential parent and
+        legal custodian of a child, in order to encourage, facilitate, establish, or re-establish the
+        relationship between that parent and the child.
+     Prohibits a court from issuing a transition plan if the parent has failed to demonstrate a
+        desire and ability to establish or re-establish a relationship with the child and under
+        other circumstances, such as when the parent has abused or neglected the child or the
+        parent lives too far away and is unwilling to move closer.
+     Requires the court to modify the parental rights and responsibilities order to provide for
+        equal parenting time and decision-making rights and responsibilities upon timely
+        completion of a transition plan, unless one or both parents file motions requesting to
+        modify the order on or before completion of a transition plan and the court has ruled on
+        the motion.
+
+
+P a g e |5                                                                                       H.B. 14
+                                                             As Re-referred by House Rules and Reference
+Office of Research and Drafting                  LSC                             Legislative Budget Office
+
+
+
+     Requires the court, when determining whether to grant companionship or visitation to a
+        grandparent, other relative, or any person other than the child’s parent, to determine
+        that granting such rights would not be detrimental to the child.
+     Creates a presumption that equal parenting time is in the best interest of the child,
+        when the mother is unmarried and the father requests parenting time.
+     Provides that, when a court must state its findings of fact and conclusions of law in
+        writing in response to denials of parenting time and companionship and visitation, it
+        must do so in accordance with Rule 53 of the Ohio Rules of Civil Procedure, if applicable.
+Granting rights to a putative father
+     Requires the court to consider certain factors when determining whether to award
+        parenting time or temporary custody to a putative father when a parent and child
+        relationship has not yet been established.
+False accusation of abuse or neglect
+     Allows a court to impose a reasonable monetary sanction or community service, as well
+        as compensatory parenting time, if the court has determined that a person intentionally
+        made a false accusation of child abuse or neglect against a parent.
+Parenting time interference
+     Requires a court to grant the following, after a hearing and finding that a parent
+        interfered with another parent’s parenting time:
+            An award of compensatory parenting time, provided that it is not detrimental to the
+             child;
+            An award of any reasonable attorney’s fees and court costs.
+     Allows a court to impose additional remedies for parental interference, such as a
+        modified order, an order to require parents or the child to attend counseling or
+        coaching, an order to post bond, and an award of reasonable costs and fees.
+Relocation
+     Requires, generally, a relocating parent to file a notice of intent to relocate with the
+        clerk of the court and the clerk to send a copy of the notice to the other parent.
+     Establishes requirements that must be included in a notice, including an updated
+        address and date of relocation.
+     Requires a notice to be filed at least 60 days before the intended relocation, or within
+        ten days after the parent knew of the intended relocation if the 60-day requirement
+        cannot be met.
+     Allows a parent to file a motion for the court to determine whether the health, safety,
+        and welfare or liberty of a person is being put at risk by filing a relocation notice.
+
+
+
+P a g e |6                                                                                        H.B. 14
+                                                              As Re-referred by House Rules and Reference
+Office of Research and Drafting                                        LSC                                          Legislative Budget Office
+
+
+
+      Allows a court, upon finding that filing a notice would be risky, to order that the notice
+           not be disclosed, waive the notice requirement, consider any other remedy deemed
+           necessary to facilitate the needs of the party and the best interest of the child, or
+           conduct an ex parte hearing.
+      Allows a court to consider the failure of a parent without good cause to file a notice as a
+           factor for: making a determination regarding the relocation, modification of an order, or
+           a finding of contempt; or as a basis for ordering the return of a child that was relocated
+           without notice and awarding attorney fees and expenses.
+      Allows a parent to object to a relocation and seek an order restricting the relocation
+           when it would render any portion of an order impracticable or detrimental to the child.
+      Requires a court, upon considering an objection, to determine whether the relocation is
+           detrimental to the child and various other factors that affect whether the relocation
+           would impede upon fostering a meaningful relationship between the child and
+           nonrelocating parent.
+Requirements for courts
+      Requires each court of common pleas to adopt rules on standard parenting time
+           guidelines, subject to the state policy and the presumption that equal parenting time is
+           in the best interest of the child.
+      Requires each court that issues various custody orders to compile an annual report of
+           data regarding the division of parenting time, as tracked by overnight stays with a
+           parent.
+Miscellaneous
+      Requires orders allocating parental rights and responsibilities, parenting time orders,
+           and companionship or visitation orders under existing law to remain in effect upon the
+           bill’s enactment, but to be enforced and modified in accordance with the bill’s
+           provisions.
+      Recodifies existing law regarding parental rights and responsibilities, parenting time,
+           and companionship and visitation in the domestic relations context.
+
+                                            TABLE OF CONTENTS
+Overview ......................................................................................................................................... 9
+Allocation of parental rights and responsibilities ........................................................................... 9
+  State policy .................................................................................................................................. 9
+  Allocation of parental rights and responsibility in accordance with state policy ..................... 10
+  Required provisions................................................................................................................... 11
+  Deadline to issue an order ........................................................................................................ 12
+  Shared parenting orders ........................................................................................................... 12
+
+
+P a g e |7                                                                                                                    H.B. 14
+                                                                                          As Re-referred by House Rules and Reference
+Office of Research and Drafting                                       LSC                                          Legislative Budget Office
+
+
+
+     Shared parenting agreements .............................................................................................. 12
+     Filing a shared parenting agreement ................................................................................... 13
+     Shared parenting agreement presumed to be in the child’s best interest .......................... 13
+     Rebutting the presumption .................................................................................................. 13
+     If a presumption is rebutted................................................................................................. 14
+     If a presumption is not rebutted .......................................................................................... 15
+     Incorporation of an approved agreement into shared parenting order .............................. 15
+     Effective date of shared parenting order ............................................................................. 15
+  Parental rights and responsibilities orders ............................................................................... 15
+     Submitting information to the court .................................................................................... 16
+     Equal decision-making rights and responsibilities and equal parenting time presumed to be
+     in the child’s best interest .................................................................................................... 16
+     Rebutting the presumption of equal decision-making responsibilities ............................... 16
+     Rebutting the presumption of equal parenting time ........................................................... 17
+     If either or both presumptions are rebutted ....................................................................... 18
+     “Friendly parent” determination .......................................................................................... 18
+     If presumption of equal decision-making rights is rebutted ................................................ 19
+     If presumption of equal parenting time is rebutted ............................................................ 19
+     If neither presumption is rebutted ....................................................................................... 20
+  Modification and termination of orders ................................................................................... 20
+     Shared parenting orders ....................................................................................................... 20
+     Modification when parents agree ........................................................................................ 20
+     Modification when parents do not agree ............................................................................ 20
+     Termination .......................................................................................................................... 21
+     Parental rights and responsibilities orders........................................................................... 22
+     Modification when parents agree ........................................................................................ 22
+     Modification when parents do not agree ............................................................................ 22
+  Temporary orders...................................................................................................................... 22
+  No presumptions to be drawn from a temporary order........................................................... 23
+  Designation of child’s home ...................................................................................................... 23
+Parenting time and companionship and visitation orders ........................................................... 23
+  Parenting time changes ............................................................................................................. 23
+     Transition plans .................................................................................................................... 24
+  Companionship or visitation changes ....................................................................................... 26
+  When a child is born to an unmarried woman ......................................................................... 26
+  Civil Rule 53 ............................................................................................................................... 27
+Granting rights to a putative father .............................................................................................. 27
+
+P a g e |8                                                                                                                   H.B. 14
+                                                                                         As Re-referred by House Rules and Reference
+Office of Research and Drafting                                       LSC                                           Legislative Budget Office
+
+
+
+False accusations of abuse or neglect .......................................................................................... 27
+Parenting time interference ......................................................................................................... 28
+Relocation ..................................................................................................................................... 29
+  Failure to file notice of intent to relocate ................................................................................. 31
+  Objection to relocation ............................................................................................................. 31
+  Repeal of provisions regarding interpretation of custody ........................................................ 32
+Requirements for courts ............................................................................................................... 33
+  Adoption of parenting time guidelines ..................................................................................... 33
+  Parenting time reports .............................................................................................................. 33
+Transition provisions ..................................................................................................................... 34
+Recodification ............................................................................................................................... 34
+Cross-reference and other nonsubstantive updates .................................................................... 38
+
+                                            DETAILED ANALYSIS
+Overview
+        The purpose of the bill is to establish as the default in cases regarding the allocation of
+parental rights and responsibilities, equal decision-making rights and responsibility and equal
+time spent with the child between each parent, when the parents do not submit an agreed
+upon parenting plan. The allocation of parenting responsibilities is required in a divorce,
+dissolution, annulment, or legal separation proceeding.
+       Under the bill, a shared parenting agreement for the custody and care of children that
+the parents jointly submit is rebuttably presumed to be in the best interest of the child and
+must be approved by the court and incorporated into a shared parenting order, unless it is
+shown by clear and convincing evidence to be detrimental to the child. If no agreement exists,
+the court must issue a parental rights and responsibilities order. Under this order, there are
+rebuttable presumptions that (1) equal decision-making rights and responsibilities and (2) equal
+parenting time are in the best interest of the child and must be allocated accordingly, unless
+shown by clear and convincing evidence to be detrimental to the child.
+Allocation of parental rights and responsibilities
+   State policy
+           The bill establishes the following state policy:
+      To assure that minor children have frequent associations and a continuing relationship
+           with both parents after parents have legally separated, divorced, or dissolved or
+           annulled their marriage or in situations in which the mother is unmarried;
+      To encourage parents to share the rights and responsibilities of child rearing;
+
+
+
+
+P a g e |9                                                                                                                    H.B. 14
+                                                                                          As Re-referred by House Rules and Reference
+Office of Research and Drafting                        LSC                           Legislative Budget Office
+
+
+
+     That, to the greatest degree possible, parents share equally in parenting time and the
+        rights and responsibilities of rearing their children.1
+  Allocation of parental rights and responsibility in accordance with
+  state policy
+        The bill requires the court to allocate parental rights and responsibilities for the care of
+the minor children in a marriage upon hearing the parents’ testimony and considering any
+mediation report in any divorce, legal separation, or annulment proceeding and in any
+proceeding pertaining to the allocation of parental rights and responsibilities for the care of a
+child. Except when the court determines that neither parent is suitable to have custody, the
+court must allocate parental rights and responsibilities for the care of the children in
+accordance with the state policy and in a way that promotes the best interest of the children. 2
+        Existing law similarly requires the court to allocate parental rights and responsibilities.
+But, the bill repeals existing law regarding when to allocate these rights and responsibilities to
+one or both parents. Under this repealed law, a court, in a manner that is consistent with the
+best interest of the child, allocates parental rights and responsibilities primarily to one parent,
+designates that parent as the child’s residential parent and the legal custodian, and divides
+between the parents the other rights and responsibilities for the care of the child, if:
+     Neither parent files a pleading or motion requesting the court to grant both parents
+        shared parental rights and responsibilities for the care of the children;
+     At least one parent files a pleading or motion but did not file a plan for shared
+        parenting; or
+     At least one parent files both a pleading or motion and a shared parenting plan but no
+        shared parenting plan is in the best interest of the child.3
+       Also under current law repealed by the bill, the court allocates parental rights and
+responsibilities to both parents and issues a shared parenting order requiring the parents to
+share all or some of the aspects of the physical and legal care of the children in accordance with
+an approved parenting plan if:
+     At least one parent files a pleading or motion requesting the court to grant both parents
+        shared parental rights and responsibilities and a shared parenting plan; and
+     Shared parenting is in the best interest of the child and approved by the court.4
+
+
+
+
+1 R.C. 3109.044.
+
+2 R.C. 3109.045(A).
+
+3 R.C. 3109.04(A)(1), as it appears in existing law.
+
+4 R.C. 3109.04(A)(2), as it appears in existing law.
+
+
+
+
+P a g e | 10                                                                                          H.B. 14
+                                                                  As Re-referred by House Rules and Reference
+Office of Research and Drafting                   LSC                              Legislative Budget Office
+
+
+
+       The bill also repeals existing law procedures and requirements for filing, determining,
+modifying, and terminating shared parenting decrees and orders under this existing law
+scheme.5
+       Under the bill, the court may allocate parental rights and responsibilities in either: (1) a
+shared parenting order, or (2) a parental rights and responsibilities order.6
+  Required provisions
+        The bill requires every shared parenting order and parental rights and responsibilities
+order to include provisions covering all factors relevant to the care of the children, including all
+of the following:
+     Provisions regarding each child’s needs that are consistent with the child’s age,
+         developmental stage, and maturation;
+     The designation of a parent for the following purposes:
+              Paying and receiving child support, health care coverage, and cash medical support
+               in accordance with child support laws;
+              Determining the school district of attendance;
+              Claiming the child as a dependent for income tax purposes;
+              For any other purpose requiring designation of one parent, including public
+               assistance, international treaty enforcement, or state or federal law.
+     The parenting time schedule for weekdays, weekends, holidays, days that hold special
+         meaning to the child or parents, vacations, and other relevant times;
+     The frequency, time, and method of the child’s communication with a parent during the
+         parenting time;
+     The allocation of decision-making and other responsibilities related to the welfare of the
+         child, including education, child care, health care, and school and extracurricular
+         activities;
+     The procedure for parenting time, including the meeting location and the person
+         responsible for transportation;
+     The frequency and method for the parents to communicate with each other about the
+         child;
+     The process of information sharing and right to access the child’s school records, health
+         records, records of the childcare facilities, and school and extracurricular activities;
+
+
+
+5 R.C. 3109.04(D)(1), (E), and (G).
+
+6 R.C. 3109.045(C).
+
+
+
+
+P a g e | 11                                                                                        H.B. 14
+                                                                As Re-referred by House Rules and Reference
+Office of Research and Drafting                     LSC                                Legislative Budget Office
+
+
+
+     Any geographical restriction on relocation of the child and notification before relocation
+        of the child;
+     Each parent’s responsibility for the child’s financial support, consistent with existing
+        child support laws;
+     Procedures for the parents to resolve disputes through nonadversarial dispute
+        resolution processes;
+     Each parent’s responsibility to provide written notification to the other parent and the
+        court of a change of contact information, including street address, mailing address,
+        email address, or telephone number in compliance with the bill’s relocation provisions;
+     Any other provisions required by statute or the court.7
+  Deadline to issue an order
+       The bill requires a court to issue a final shared parenting order or parental rights and
+responsibilities order no later than nine months after either of the following, whichever is
+applicable:
+     The date that a party files a motion for a temporary order to allocate parental rights and
+        responsibilities;
+     If a temporary order has been extended, the date that the parties last filed a joint
+        motion requesting an extension (see “Temporary orders,” below).8
+  Shared parenting orders
+      Shared parenting agreements
+       In any divorce, legal separation, or annulment proceeding and in any proceeding
+pertaining to the allocation of parental rights and responsibilities for the care of a child, the bill
+allows the parents of a child to jointly make and file with the court a shared parenting
+agreement for the allocation of parental rights and responsibilities.9 In fact, the court is
+required to encourage the parents to jointly submit a shared parenting agreement.10 Joint
+submission is permitted under current law, along with separate submission by either or both
+parents, of a shared parenting plan. The bill eliminates the separate submission option and
+requires the plan to be an agreement.11
+
+
+
+
+7 R.C. 3109.046.
+
+8 R.C. 3109.0437.
+
+9 R.C. 3109.047.
+
+10 R.C. 3109.045(B).
+
+11 R.C. 3109.047; R.C. 3109.04(G), as it appears in existing law.
+
+
+
+
+P a g e | 12                                                                                            H.B. 14
+                                                                    As Re-referred by House Rules and Reference
+Office of Research and Drafting                   LSC                             Legislative Budget Office
+
+
+
+       The bill defines “shared parenting” to mean when the parents share all or some of the
+aspects of physical and legal care of their children. A shared parenting order is either:
+    1. An order allocating parental rights and responsibilities for the care of the children as
+       shared parenting that is issued or modified under the bill’s provisions; or
+    2. An order allocating parental rights and responsibilities for the care of a child issued
+       under existing law that is a decree or order for shared parenting.12
+      Filing a shared parenting agreement
+       The bill requires a shared parenting agreement to contain provisions that address all of
+the requirements for shared parenting orders and parental rights and responsibilities orders
+(see “Required provisions,” above) and to be filed at least 30 days before a hearing to
+determine the allocation of parenting responsibilities, except that the court may waive the
+deadline for good cause shown.13
+      Shared parenting agreement presumed to be in the child’s best interest
+       The bill creates a rebuttable presumption that if the parents agree on the terms in a
+shared parenting agreement to be incorporated into a shared parenting order (see
+“Incorporation of an approved agreement into shared parenting order,”
+below), as originally issued or as modified, the agreement is in the best interest of the children,
+unless the court finds, by clear and convincing evidence, that the allocation would be
+detrimental to the children.14
+      Rebutting the presumption
+        In determining whether this best-interest presumption is rebutted, the bill requires the
+court to consider all relevant factors, including:
+     The demonstrated ability of each parent to cooperate with the other parent and to
+        encourage the sharing of love, affection, and contact between the child and the other
+        parent.
+     Any history of child abuse or neglect, spouse abuse, other domestic violence, or
+        parental kidnapping by either parent, including:
+              Whether either parent or any member of the household of either parent previously
+               has been convicted of or pleaded guilty to any criminal offense involving any act that
+               resulted in a child being an abused child or a neglected child;
+
+
+
+
+12 R.C. 3109.04(B)(5) and (6).
+
+13 R.C. 3109.048.
+
+14 R.C. 3109.0410.
+
+
+
+
+P a g e | 13                                                                                       H.B. 14
+                                                               As Re-referred by House Rules and Reference
+Office of Research and Drafting                     LSC                              Legislative Budget Office
+
+
+
+              Whether either parent, in a case in which a child has been adjudicated an abused
+               child or a neglected child, previously has been determined to be the perpetrator of
+               the abusive or neglectful act that is the basis of the adjudication;
+              Whether either parent or any member of the household of either parent previously
+               has been convicted of or pleaded guilty to criminal domestic violence or a sexually
+               oriented offense involving a victim who at the time of the commission of the offense
+               was a member of the family or household that is the subject of the current
+               proceeding;
+              Whether either parent or any member of the household of either parent previously
+               has been convicted of or pleaded guilty to any offense involving a victim who at the
+               time of the commission of the offense was a member of the family or household
+               that is the subject of the current proceeding and caused physical harm to the victim
+               in the commission of the offense; and
+              Whether there is reason to believe that either parent has acted in a manner
+               resulting in a child being an abused child or a neglected child.
+     The mental and physical health of all persons involved in the situation.
+     Whether a parent is totally incapable of supporting or caring for the child.15
+         The best interest factors here and elsewhere in the bill, as they relate to rebutting the
+bill’s presumptions when allocating parental rights and responsibilities, are based on existing
+law factors for determining the best interest of the child when allocating parental rights and
+responsibilities and determining whether to grant shared parenting (see “Rebutting the
+presumption of equal decision-making responsibilities” and “Rebutting the
+presumption of equal parenting time” under “Parental rights and
+responsibilities orders,” below).16
+        If a presumption is rebutted
+        If the court determines by clear and convincing evidence that the presumption that a
+shared parenting agreement is in the best interest of the child is rebutted, the court must
+require the parents to make appropriate changes to the plan or any part of the plan to meet
+the court’s objections to it, unless the court determines that neither parent is suitable to be
+allocated parental rights and responsibilities.17 Under existing law, recodified but unchanged by
+the bill, if the court finds that it is in the best interest of the child for neither parent to be
+designated the residential parent and legal custodian of the child, it may commit the child to a
+relative or certify a copy of its findings to the juvenile court for further proceedings.18
+
+
+15 R.C. 3109.0411.
+
+16 R.C. 3109.05(F)(1) and (2), as they appear in existing law.
+
+17 R.C. 3109.0412(A).
+
+18 R.C. 3109.0435; R.C. 3109.04(D)(2), as it appears in existing law.
+
+
+
+
+P a g e | 14                                                                                          H.B. 14
+                                                                  As Re-referred by House Rules and Reference
+Office of Research and Drafting                 LSC                             Legislative Budget Office
+
+
+
+         If the parents jointly submit changes to the plan that meet the court’s objections, the
+court must approve the plan.19 But, if the court determines that the changes to the plan do not
+meet the court’s objections, or if the parents attempt to make changes to the plan to meet the
+court’s objections but the court determines that the new plan or any part of it still does not
+meet the court’s objections, the court must proceed as if no parenting agreement has been
+filed (see “Parental rights and responsibilities orders,” below).20
+        If a presumption is not rebutted
+       The bill requires a court to approve a shared parenting agreement if the presumption
+has not been rebutted.21
+      Incorporation of an approved agreement into shared parenting order
+        Upon approval, the bill requires a shared parenting agreement to be incorporated into a
+shared parenting order. The order must be issued at the same time as, and appended to, the
+final decree of dissolution, divorce, annulment, or legal separation arising out of the action out
+of which the question of the allocation of parental rights and responsibilities arose.22
+      Effective date of shared parenting order
+        The bill prohibits the issuance of a provisional order related to any shared parenting
+agreement that the court approves. A shared parenting order takes immediate effect as a final
+order on the date that it is issued, subject to modification or termination under the bill’s
+provisions (see “Shared parenting orders” under “Modification and termination
+of orders,” below).23
+  Parental rights and responsibilities orders
+       When the parents have not entered into a shared parenting agreement to allocate
+parental rights and responsibilities, the bill requires the court to issue a parental rights and
+responsibilities order. The bill defines a parental rights and responsibilities order as either:
+    1. An order issued or modified under the bill’s provisions governing parental rights and
+       responsibilities orders; or
+    2. An order allocating parental rights and responsibilities for the care of a child issued
+       under existing law that is not a decree or order for shared parenting.24
+
+
+19 R.C. 3109.0412(B).
+
+20 R.C. 3109.0412(C).
+
+21 R.C. 3109.0413(A).
+
+22 R.C. 3109.0413(B).
+
+23 R.C. 3109.0413(C). A technical amendment is needed to replace “as authorized by this section” with
+
+the appropriate cross-references to the sections relating to modification or termination of a shared
+parenting order.
+24 R.C. 3109.04(B)(2).
+
+
+
+
+P a g e | 15                                                                                     H.B. 14
+                                                             As Re-referred by House Rules and Reference
+Office of Research and Drafting                 LSC                             Legislative Budget Office
+
+
+
+      Submitting information to the court
+       The bill requires each parent to submit the following information, at least 30 days
+before a hearing to determine the allocation of parental rights and responsibilities, except for
+good cause shown, when they have not entered into a shared parenting agreement:
+     The parent’s work schedule;
+     Living arrangements of the parent and the child;
+     Factors for rebutting a presumption of equal decision-making rights and responsibilities
+        or equal parenting time;
+     Any other circumstances relevant to determining the allocation of parental rights and
+        responsibilities and an appropriate parenting time schedule to maximize the child’s time
+        with each parent.25
+      Equal decision-making rights and responsibilities and equal parenting
+      time presumed to be in the child’s best interest
+         The bill creates rebuttable presumptions that equal decision-making rights and
+responsibilities (with both parents remaining legal custodians and residential parents) and
+equal parenting time, are in the best interest of the children. Both presumptions are rebutted
+only if the court finds by clear and convincing evidence that the arrangement in question would
+be detrimental to the children, based on factors set forth in the bill. If a parent objects to either
+presumption, that parent bears the burden of proof that the arrangement would be
+detrimental to the children. If the court finds that the presumption rebutted, it must issue
+findings of fact and conclusions of law supporting the determination.26
+       The bill defines “decision-making rights and responsibilities” or “decision-making
+responsibilities” as the ability to determine aspects of the child’s life, including the right and
+duty to protect, train, and discipline the child and decisions regarding food, living conditions,
+education, and medical care.27 The bill defines “parenting time” as the time that a child is
+physically located with, and under the care, responsibility, tutelage, and protection of a
+parent.28
+      Rebutting the presumption of equal decision-making responsibilities
+       In determining whether the presumption of equal decision-making rights and
+responsibilities between the parents, with both parents remaining legal custodians and
+residential parents, is rebutted, the court must consider all relevant factors, including:
+
+
+
+25 R.C. 3109.0419.
+
+26 R.C. 3109.0420.
+
+27 R.C. 3109.04(A)(2).
+
+28 R.C. 3109.04(B)(3).
+
+
+
+
+P a g e | 16                                                                                     H.B. 14
+                                                             As Re-referred by House Rules and Reference
+Office of Research and Drafting                  LSC                             Legislative Budget Office
+
+
+
+     The demonstrated ability of each parent to cooperate with the other parent and to
+        encourage the sharing of love, affection, and contact between the child and the other
+        parent.
+     Any history of child abuse or neglect, spouse abuse, other domestic violence, or
+        parental kidnapping by either parent, including:
+              Whether either parent or any member of the household of either parent previously
+               has been convicted of, or pleaded guilty to, any criminal offense involving any act
+               that resulted in a child being an abused child or a neglected child;
+              Whether either parent, in a case in which a child has been adjudicated an abused
+               child or a neglected child, previously has been determined to be the perpetrator of
+               the abusive or neglectful act that is the basis of an adjudication;
+              Whether either parent or any member of the household of either parent previously
+               has been convicted of or pleaded guilty to criminal domestic violence or a sexually
+               oriented offense involving a victim who at the time of the commission of the offense
+               was a member of the family or household that is the subject of the current
+               proceeding;
+              Whether either parent or any member of the household of either parent previously
+               has been convicted of or pleaded guilty to any offense involving a victim who at the
+               time of the commission of the offense was a member of the family or household
+               that is the subject of the current proceeding and caused physical harm to the victim
+               in the commission of the offense; and
+              Whether there is reason to believe that either parent has acted in a manner
+               resulting in a child being an abused child or a neglected child.
+     The mental health of all persons involved in the situation.
+     The recommendation of the guardian ad litem of the child, if the child has a guardian ad
+        litem, provided that the court does not rely on that recommendation as the sole basis
+        for its determination and the recommendation is subject to the state policy.
+     Whether a parent is totally incapable of supporting or caring for a child.29
+      Rebutting the presumption of equal parenting time
+       In determining whether the presumption of equal parenting time is rebutted, the court
+must consider all relevant factors, including:
+     Any history of child abuse, spouse abuse, other domestic violence, or parental
+        kidnapping by either parent, including the same offenses outlined in “Rebutting the
+
+
+
+
+29 R.C. 3109.0421.
+
+
+
+
+P a g e | 17                                                                                      H.B. 14
+                                                              As Re-referred by House Rules and Reference
+Office of Research and Drafting                LSC                             Legislative Budget Office
+
+
+
+        presumption of equal decision-making responsibilities” immediately
+        above.
+     The geographic proximity of the parents to each other at the time of initial filing, as the
+        proximity relates to the practical considerations of parenting time and whether a parent
+        has relocated to impede equal parenting time.
+     If the court has interviewed the child in chambers regarding the child’s wishes and
+        concerns as to the allocation of parental rights and responsibilities, the wishes and
+        concerns of the child, as expressed to the court.
+     The child’s interaction and interrelationship with the child’s parents, siblings, and any
+        other person who has a significant relationship with the child.
+     The child’s adjustment to the child’s home, school, and community.
+     The mental and physical health of all persons involved in the situation.
+     Whether a parent has continuously and willfully interfered with or denied the other
+        parent’s right to parenting time in accordance with an order of the court.
+     Whether either parent has established a residence, or is planning to establish a
+        residence, outside this state.
+    The recommendation of the guardian ad litem of the child, if the child has a guardian ad
+       litem, provided that the court does not rely on the recommendation as the sole basis for
+       its determination and the recommendation is subject to the state policy.
+     Whether a parent is totally incapable of supporting or caring for the child.30
+      If either or both presumptions are rebutted
+        “Friendly parent” determination
+       If the court determines that either or both presumptions have been rebutted, the bill
+requires a court to determine whether a parent has intentionally done any of the following:
+     Misled the court to cause an unnecessary delay, increase the cost of litigation, or
+        persuade the court to give that parent a preference regarding the presumption that has
+        been rebutted;
+     Made false allegations against the other parent of harm to the child;
+     Communicated false information to law enforcement, a public children services agency,
+        or the court in order to gain a tactical advantage in a proceeding to determine the
+        allocation of parental rights and responsibilities.31
+
+
+
+30 R.C. 3109.0422.
+
+31 R.C. 3109.0423.
+
+
+
+
+P a g e | 18                                                                                    H.B. 14
+                                                            As Re-referred by House Rules and Reference
+Office of Research and Drafting                LSC                            Legislative Budget Office
+
+
+
+        If presumption of equal decision-making rights is rebutted
+        If the court determines by clear and convincing evidence that the presumption
+regarding equal decision-making rights and responsibilities is rebutted, the bill requires the
+court to:
+    1. Issue an order designating one parent as the residential parent and legal custodian of
+       the child; and
+    2. Allocate most of the decision-making rights and responsibilities to the parent who has:
+       (a) demonstrated a greater and consistent willingness to cooperate with the other
+       parent and to encourage the sharing of love, affection, and contact between the child
+       and other parent, and (b) not been determined to have done any of the actions
+       described under ““Friendly parent” determination,” above.32
+      If the court determines the equal decision-making presumption is rebutted, but does
+not determine that the equal parenting time presumption is rebutted, the court must still
+award equal parenting time.33
+        If presumption of equal parenting time is rebutted
+       If the court determines by clear and convincing evidence that the presumption
+regarding equal parenting time is rebutted, the bill requires the court to:
+    1. Issue an order allocating parental rights and responsibilities with unequal parenting time
+       in accordance with its determination;
+    2. Award the majority of parenting time to the parent who: (a) is more likely to honor and
+       facilitate parenting time for the other parent or visitation and companionship for others,
+       if the court determines that one parent has interfered with or continuously and willfully
+       denied the other parent’s right to parenting time in accordance with the court order,
+       unless the court finds by clear and convincing evidence that this arrangement would be
+       detrimental to the child for other reasons (see “Rebutting the presumption of
+       equal parenting time,” above), and (b) has not been determined to have done any
+       of the actions described under ““Friendly parent” determination,” above; and
+    3. Construct a parenting time schedule that is consistent with the child’s welfare.34
+       If the court determines the equal parenting time presumption is rebutted, but does not
+determine that the equal decision-making rights and responsibilities presumption is rebutted,
+the court must still award equal decision-making rights and responsibilities.35
+
+
+
+
+32 R.C. 3109.0424(A).
+
+33 R.C. 3109.0424(B).
+
+34 R.C. 3109.0425(A).
+
+35 R.C. 3109.0425(B).
+
+
+
+
+P a g e | 19                                                                                   H.B. 14
+                                                           As Re-referred by House Rules and Reference
+Office of Research and Drafting                     LSC                                 Legislative Budget Office
+
+
+
+      If neither presumption is rebutted
+       If neither presumption has been rebutted, the court must issue an order allocating both
+equal decision-making rights and responsibilities, with both parents being designated as the
+residential parent and legal custodian of the child, and equal parenting time. 36
+  Modification and termination of orders
+        The bill repeals existing law governing modification and termination of decrees
+allocating parental rights and responsibilities and instead allows one or both parents under a
+shared parenting order or parental rights and responsibilities order to file a motion requesting
+that the order be modified or terminated.37
+      Shared parenting orders
+        Modification when parents agree
+        If both parents under a shared parenting order agree to modify the shared parenting
+agreement that was incorporated into the order and jointly file a motion requesting
+modification, the court must issue a modified shared parenting order incorporating the
+modified agreement, as long as the modified agreement is not detrimental to the child based
+on the factors for rebutting a presumption under a shared parenting order (see “Rebutting
+the presumption” under “Shared parenting orders,” above). If, based on those
+factors, the court finds the modified agreement to be detrimental, it must dismiss the motion.38
+        Modification when parents do not agree
+        If: (1) one parent under a shared parenting order files a motion requesting modification
+of the shared parenting agreement that was incorporated into the order or if both parents file
+separate motions requesting modifications, and (2) based on facts that have arisen that were
+unknown to the court at the time that the existing order was issued, a change has occurred in
+the circumstances of the child, the child’s residential parent, or either parent, the court may do
+any of the following:
+     If the court determines that the requested changes to the agreement are not
+        detrimental to the child  issue a modified shared parenting order that incorporates
+        the modified agreement;
+     If the court determines that the requested changes to the agreement are detrimental to
+        the child and the existing plan is not detrimental to the child  dismiss the motion to
+        modify the shared parenting order;
+
+
+
+
+36 RC. 3109.0426.
+
+37 R.C. 3109.0438; R.C. 3109.04(E), as it appears in existing law.
+
+38 R.C. 3109.0439(A).
+
+
+
+
+P a g e | 20                                                                                             H.B. 14
+                                                                     As Re-referred by House Rules and Reference
+Office of Research and Drafting                   LSC                             Legislative Budget Office
+
+
+
+     If the court determines that the requested changes to the agreement are detrimental to
+        the child and the existing plan is also detrimental to the child  terminate the existing
+        shared parenting order.
+        In all three circumstances, the court must determine whether the requested changes or
+existing plan is detrimental based on the factors for rebutting a presumption under a shared
+parenting order (see “Rebutting the presumption” under “Shared parenting
+orders,” above).39
+        Termination
+       A court may terminate a shared parenting order on the motion of one or both parents if
+the court determines either:
+     The shared parenting agreement incorporated into the order is detrimental to the child,
+        based on the factors for rebutting a presumption under a shared parenting order (see
+        “Rebutting the presumption” under “Shared parenting orders,” above); or
+     One parent demonstrates a pattern of willfully creating conflict in an attempt to disrupt
+        a current or pending shared parenting arrangement and the court determines, by a
+        preponderance of evidence, that:
+              It is unable to enter a shared parenting order that will reduce the conflict that the
+               disruptive parent is causing; and
+              The disruptive behavior is a material change in circumstances.40
+       If a shared parenting order is terminated either because: (1) one parent has requested a
+modification and the court concluded that both the requested modification and the existing
+plan are detrimental (see third bullet under “Modification when parents do not
+agree,” above) or (2) one or both parents file a motion for termination and the court
+determines that the shared parenting agreement incorporated into the order is detrimental to
+the child (see first bullet under this subheading), the court must issue a parental rights and
+responsibilities order for the care of the child based on the provisions governing these orders
+(see “Parental rights and responsibilities orders,” above) as if no shared parenting
+order had been issued.41
+       If a shared parenting order is terminated because one or both parents file a motion for
+termination and the court determines that one parent has demonstrated a pattern of willfully
+creating conflict in an attempt to disrupt a shared parenting arrangement (see second bullet
+under this subheading), the court must issue a parental rights and responsibilities order that
+designates the nondisruptive parent as the residential parent and legal custodian of the child.
+
+
+
+39 R.C. 3109.0439(B).
+
+40 R.C. 3109.0440.
+
+41 R.C. 3109.0441(A).
+
+
+
+
+P a g e | 21                                                                                      H.B. 14
+                                                              As Re-referred by House Rules and Reference
+Office of Research and Drafting                LSC                             Legislative Budget Office
+
+
+
+This is based on the criteria for rebutting presumptions for equal decision-making rights and
+responsibilities or equal parenting time and issuing a court order upon either presumption
+being rebutted under a parental rights and responsibilities order (see “Parental rights and
+responsibilities orders,” above).42
+      Parental rights and responsibilities orders
+        Modification when parents agree
+        The bill allows both parents under a parental rights and responsibilities order to jointly
+file a motion requesting the court to modify the order as a shared parenting order. The motion
+must include a shared parenting agreement that meets the bill’s requirements (see
+“Required provisions,” above). When determining whether to grant the motion and issue
+a shared parenting order, the court must comply with the provisions governing shared
+parenting agreements.43
+        Modification when parents do not agree
+       If one parent under a parental rights and responsibilities order files a motion requesting
+modification of the order, or if both parents file separate motions requesting modifications of
+the order, the court may make modifications if it determines:
+     The order is detrimental to the child based on the factors to rebut the presumption of
+        equal decision-making responsibilities or equal parenting time under a parental rights
+        and responsibilities order; and
+     That, based on facts that have arisen since the prior order that were unknown to the
+        court at the time of the prior order, a change has occurred in the circumstances of the
+        child, the child’s residential parent, or either parent subject to the order.44
+        The bill allows a court to approve only modifications that are consistent with the state
+policy and the provisions governing a parental rights and responsibilities order, if either equal
+decision-making responsibility or equal parenting time is rebutted.45
+  Temporary orders
+       In accordance with the state policy, the bill provides that if both parents jointly request
+the terms of a temporary allocation of parental rights and responsibilities, the court must
+incorporate those terms into the temporary order, unless it finds by clear and convincing
+evidence that it would be detrimental to the child.46
+
+
+
+42 R.C. 3109.0441(B).
+
+43 R.C. 3109.0443.
+
+44 R.C. 3109.0442(A).
+
+45 R.C. 3109.0442(B).
+
+46 R.C. 3109.0436(B)(1).
+
+
+
+
+P a g e | 22                                                                                    H.B. 14
+                                                            As Re-referred by House Rules and Reference
+Office of Research and Drafting                       LSC                              Legislative Budget Office
+
+
+
+        If the parents do not agree on the terms of a temporary allocation but one parent
+requests equal decision-making rights and responsibilities or equal parenting time, the court
+must honor the request in the temporary order, unless it finds by clear and convincing evidence
+that it would be detrimental to the child. If either parent objects to the equal decision-making
+rights and responsibilities (and requests to be designated as the sole residential parent and
+legal custodian of the child) or equal parenting time, that parent bears the burden of proof that
+equal decision-making rights and responsibilities or equal parenting time would be detrimental
+to the child. If the court determines by clear and convincing evidence that either would be
+detrimental to the child, it must issue findings of fact and conclusions of law supporting the
+determination.47
+       The bill allows the court to extend a temporary order if the parents file a joint motion
+requesting an extension.48
+  No presumptions to be drawn from a temporary order
+       The bill prohibits the court from drawing any presumptions from a temporary order or
+considering a temporary order as a factor in making a final decision when allocating parental
+rights and responsibilities in either a shared parenting order or parental rights and
+responsibilities order.49
+  Designation of child’s home
+       The bill specifies that if the court issues an order allocating parental rights and
+responsibilities and it is necessary for the purpose of receiving public assistance or establishing
+school district residence, the court must designate which one of the parents’ residences is to
+serve as the child’s home for that purpose. This designation does not affect the child’s
+residency for any other purpose, a parent’s status as a legal custodian of the child or, a parent’s
+status as a residential parent for any other purpose.50 These provisions are similar to existing
+law, except that existing law does not specify that these designations do not affect the child’s
+residency for other purposes.51
+Parenting time and companionship and visitation orders
+  Parenting time changes
+       The bill makes some changes to the law regarding the issuance of parenting time orders.
+Under the bill, a “parenting time order” is defined as an order issued under the existing law
+governing the issuance of parenting time orders, which has been recodified by the bill, with
+
+
+
+47 R.C. 3109.0436(B)(2).
+
+48 R.C. 3109.0436(D).
+
+49 R.C. 3109.0434.
+
+50 R.C. 3109.0414.
+
+51 R.C. 3109.04(A)(2), (L)(6), and (L)(7), as they appear in existing law.
+
+
+
+
+P a g e | 23                                                                                            H.B. 14
+                                                                    As Re-referred by House Rules and Reference
+Office of Research and Drafting                      LSC                              Legislative Budget Office
+
+
+
+only the changes described below.52 The bill repeals the existing law definition of a “parenting
+time order” as an order establishing the amount of time that a child spends with the parent
+who is not the residential parent or the amount of time that the child is to be physically located
+with a parent under a shared parenting order.53
+       First, under the bill, a court can only issue a parenting time order if neither a shared
+parenting order nor a parental rights and responsibilities order under which both parents are
+the residential parent and legal custodian of the child, has been issued. Under current law, a
+court can issue a parenting time order only when the court has not issued a shared parenting
+decree.
+        Second, the bill requires the court to make a just and reasonable order permitting each
+parent who is not the residential parent to have parenting time with the child at the time and
+under the conditions that the court directs, unless the court finds by clear and convincing
+evidence that it would be detrimental to the child, based on existing law factors for
+determining whether parenting time or companionship or visitation is detrimental to the child,
+recodified by the bill. Under existing law, the court must do this unless the court determines
+that it would not be in the best interest of the child to permit that parent to have parenting
+time with the child.54
+       Third, the bill repeals a provision regarding parenting time orders issued before April 11,
+1991. This provision governs when a parent who is granted parenting time may or may not
+receive a notice of relocation if it is determined that the nonresidential parent has been
+convicted of or pleaded guilty to various specified domestic violence and related offenses
+against a family or household member.55
+       Fourth, the bill repeals a requirement that, if a party makes a written request for
+findings of fact and conclusions of law, the court must issue them when it denies a request for
+parenting time. Instead, the court must make those written findings and conclusions upon
+denial, without a request to do so. The court must also issue a transition plan
+(see “Transition plan,” below).56
+      Transition plans
+       Generally, the bill requires that if a court denies parenting time to a parent who is not
+the residential parent and legal custodian of a child, it must establish a transition plan, to be
+issued at the same time as the denial of parenting time. The purpose of the transition plan is to
+encourage, facilitate, and establish or re-establish the relationship between that parent and the
+child.
+
+
+52 R.C. 3109.04(B)(4) and 3109.0451.
+
+53 R.C. 3109.051(O)(4), as it appears in existing law.
+
+54 R.C. 3109.0451; R.C. 3109.051(A), as it appears in existing law.
+
+55 R.C. 3109.051(G)(3), as it appears in existing law.
+
+56 R.C. 3109.0466(A); R.C. 3109.051(F)(1), as it appears in existing law.
+
+
+
+
+P a g e | 24                                                                                           H.B. 14
+                                                                   As Re-referred by House Rules and Reference
+Office of Research and Drafting                   LSC                             Legislative Budget Office
+
+
+
+        The court is required to do this only if the parent has demonstrated a desire and ability
+to establish or re-establish a relationship with the child.57 The bill prohibits the court from
+issuing a transition plan if:
+     The parent who was denied parenting time:
+              Has been convicted of or pleaded guilty to any criminal offense involving any act
+               that resulted in a child being an abused child or a neglected child;
+              Has been determined to be the perpetrator of the abusive or neglectful act that is
+               the basis of an adjudication of child abuse or neglect; or
+              Has acted in a manner resulting in a child being an abused child or a neglected child;
+     The court, after considering the geographical location of the residence of each parent
+        and the distance between those residences, determines that the parent lives too far
+        away geographically from the child and is not willing to relocate closer in order to
+        establish or re-establish a relationship with the child.58
+       A parent must be allowed to complete the transition plan no later than 12 months after
+the date of the denial of parenting time and the issuance of the plan. On or before satisfactory
+completion of the transition plan, either of the following may apply:
+     Both parents may jointly file a motion requesting the court to modify the parental rights
+        and responsibilities order as a shared parenting order (see “Modification when
+        parents agree” under “Modification and termination of orders –
+        Parental rights and responsibilities orders,” above). If this happens, the
+        court must suspend the 12-month period for the length of time from the filing of the
+        motion to the issuance of a decision on the motion.59
+     One parent may file a motion, or both parents may file separate motions, requesting
+        modifications of the parental rights and responsibilities order (see “Modification
+        when parents do not agree” under “Modification and termination of
+        orders – Parental rights and responsibilities orders,” above).60
+        Satisfactory completion of a transition plan must be considered a change in
+        circumstances for the modification of a parental rights and responsibilities order.61
+        If one of the above motions is not filed, the court, on its own motion and upon
+satisfactory completion of the transition plan, must modify the parental rights and
+
+
+
+57 R.C. 3109.0467(A).
+
+58 R.C. 3109.0467(B).
+
+59 R.C. 3109.0467(C)(1).
+
+60 R.C. 3109.0467(D)(1).
+
+61 R.C. 3109.0467(C)(2).
+
+
+
+
+P a g e | 25                                                                                       H.B. 14
+                                                               As Re-referred by House Rules and Reference
+Office of Research and Drafting                      LSC                              Legislative Budget Office
+
+
+
+responsibilities order to provide for equal decision-making rights and responsibilities and equal
+parenting time.62
+  Companionship or visitation changes
+        The bill defines a “companionship or visitation order” as an order that is issued under
+the existing law section governing the issuance of companionship or visitation orders,
+recodified by the bill, with only the changes described below.63 The bill provides that, when
+determining whether to grant companionship or visitation to a grandparent, other relative, or
+any other person other than a parent, the court must determine that granting those rights
+would not be detrimental to the child, based on existing law factors for determining whether to
+grant companionship or visitation or parenting time, among other requirements. Existing law
+instead requires a determination that granting those rights is in the best interest of the child.64
+       The bill also repeals a requirement that, if a party makes a written request for findings
+of fact and conclusions of law, the court must issue them when it denies a request for
+companionship or visitation. Instead, the bill requires the court to make written findings and
+conclusions upon denial, without a request to do so.65
+  When a child is born to an unmarried woman
+         The bill makes changes to the laws governing parenting time orders and companionship
+or visitation orders when a child is born to an unmarried woman.
+         First, the bill repeals a provision that allows a court to grant parenting time or
+companionship and visitation rights if it determines that granting it is in the best interest of the
+child. Instead, the bill creates a presumption that equal parenting time is in the best interest of
+the child, subject to the factors for determining whether parenting time orders are in the best
+interest of the child and other provisions governing parenting time, including the consideration
+of mediation reports, interviewing a child regarding the child’s wishes, indigent parents, and
+the effect of remarriage. All of these considerations are in existing law and have been
+recodified by the bill.
+       Second, the bill removes “reasonable” from references to the granting of “reasonable
+parenting time” to the father, based on the presumption of equal parenting time between the
+mother and father being in the best interest of the child.
+        Third, the bill repeals a requirement that, if a party makes a written request for findings
+of fact and conclusions of law, the court must issue them when it denies a request for parenting
+
+
+
+
+62 R.C. 3109.0467(D)(2).
+
+63 R.C. 3109.04(B)(1).
+
+64 R.C. 3109.0452(A)(3); R.C. 5109.051(B)(1)(c), as it appears in existing law.
+
+65 R.C. 3109.0466(A); R.C. 3109.051(F)(1), as it appears in existing law.
+
+
+
+
+P a g e | 26                                                                                           H.B. 14
+                                                                   As Re-referred by House Rules and Reference
+Office of Research and Drafting                     LSC                              Legislative Budget Office
+
+
+
+time or companionship or visitation. Instead, the bill requires the court to make written findings
+and conclusions upon denial, without a request to do so.66
+  Civil Rule 53
+         The bill adds that when a court must state its findings of fact and conclusions of law in
+writing in response to denials in all cases addressing parenting time, companionship, and
+visitation, it must do so in accordance with Civil Rule 53, if applicable, in addition to Civil Rule
+52; existing law requires this action to be taken in accordance with Civil Rule 52 only. Rule 53 of
+the Ohio Rules of Civil Procedure governs various requirements for magistrates, including their
+appointment, compensation, scope of authority, and governance of proceedings that are
+referred to them.67
+Granting rights to a putative father
+        Under the bill, if a parent-and-child relationship has not already been established under
+existing parentage laws, the court must take into consideration the following, when
+determining whether to award parenting time or temporary custody to a putative father:
+     That the putative father is named on the child’s birth record;
+     That the child has the putative father’s last name; and
+     There is a clear pattern of a parent-child relationship between the child and putative
+        father.
+       Existing law allows, but does not require, the court to take these factors into
+consideration.68
+False accusations of abuse or neglect
+       The bill allows a court to impose a reasonable fine or community service against a
+person that the court has determined, based on an investigation or other evidence presented,
+to have intentionally made a false accusation of child abuse or neglect against a parent. For
+purposes of this provision, “person” is defined as a party, a party’s attorney, or a witness.69
+       The fine cannot exceed the total of all costs directly incurred by the parent as a result of
+defending the accusation and reasonable attorney’s fees incurred in recovering the sanction
+against the person making the accusation.70 A court may order a parent to perform an
+appropriate amount of community service instead of imposing a fine if the court determines
+
+
+66 R.C. 3109.12.
+
+67 R.C. 3109.0466(A), 3109.11, and 3109.12(D); Ohio R. Civ. Pro. 53; R.C. 3109.051(F)(1) and 3109.012(B),
+
+as they appear in existing law.
+68 R.C. 3109.0436(C); R.C. 3109.043(C), as it appears in existing law.
+
+69 R.C. 3109.0481(D).
+
+70 R.C. 3109.0481(A).
+
+
+
+
+P a g e | 27                                                                                          H.B. 14
+                                                                  As Re-referred by House Rules and Reference
+Office of Research and Drafting                       LSC                       Legislative Budget Office
+
+
+
+that a fine would negatively impact the well-being of the child. The community service must be
+scheduled when that parent is not exercising parenting time with the child.71 In addition, a
+court must order reasonable makeup parenting time if a false accusation results in the accused
+parent being denied parenting time.72
+Parenting time interference
+         The bill establishes provisions regarding interference with parenting time rights under a
+shared parenting order or parental rights and responsibilities order. Under existing law,
+repealed by the bill, the interference provisions apply to any person found in contempt of court
+for failing to comply with or interfering with any order granting parenting time rights to a
+nonresidential parent or companionship or visitation rights.73
+       Under the bill, a court must hold a hearing on a motion alleging interference with
+parenting time no later than 28 days after the filing of the motion and supporting affidavit,
+unless the hearing should be conducted earlier for good cause shown.74 A court may issue a
+temporary order necessary to protect the relationship between the parent and child any time
+before ruling on an interference motion.75
+       If the court finds, after a hearing, that there was unreasonable interference with
+parenting time, the court must grant:
+     An award of compensatory parenting time, provided that compensatory parenting time
+        is not detrimental to the child, based on the factors for: rebutting a presumption that a
+        shared parenting agreement is in the best interest of the child (see “Rebutting a
+        presumption” under “Shared parenting orders,” above), rebutting a
+        presumption that equal decision-making rights and responsibilities or equal parenting
+        time in a parental rights or responsibilities order is in the best interest of a child (see
+        “Rebutting        the      presumption           of       equal      decision-making
+        responsibilities” and “Rebutting the presumption of equal parenting
+        time under Parental rights and responsibilities orders,” above), or
+        denying an order for parenting time, whichever is applicable; and
+     An award of any reasonable attorney’s fees and court costs arising in relation to the act
+        of interference with parenting time.76
+        The court may also, but is not required to, issue any of the following:
+
+
+
+71 R.C. 3109.0481(B).
+
+72 R.C. 3109.0481(C).
+
+73 R.C. 3109.051(K), as it appears in existing law.
+
+74 R.C. 3109.0491.
+
+75 R.C. 3109.0492.
+
+76 R.C. 3109.0493.
+
+
+
+
+P a g e | 28                                                                                     H.B. 14
+                                                             As Re-referred by House Rules and Reference
+Office of Research and Drafting                       LSC                           Legislative Budget Office
+
+
+
+     On the court’s own motion or upon motion by one or both parents, a modified shared
+        parenting order or parental rights and responsibilities order to prevent future
+        interference with parenting time in the best interest of a child;
+     An order to require parents or the child to attend counseling, education, or coaching;
+     An order to post bond, either in cash or with sufficient sureties, conditioned upon
+        compliance with the parenting time provisions in the shared parenting order or parental
+        rights and responsibilities order;
+     An award of reasonable costs and fees for mediation, counseling, parent and child
+        education, and supervised parenting time or exchange;
+     Any other remedy that the court considers appropriate.77
+         Under existing law, if the court finds that a person is found in contempt of court for
+noncompliance or interference with a parenting time or companionship or visitation order, it
+must assess all court costs arising out of the contempt proceeding against the person and
+require the person to pay any reasonable attorney’s fees of any adverse party that arose in
+relation to the contempt action, as determined by the court. It may also award reasonable
+compensatory parenting time or visitation to the person whose right of parenting time or
+visitation was affected by the failure or interference, if it is in the best interest of the child. 78
+Relocation
+        The bill makes several changes to, and expands, existing law regarding relocation, and
+applies these provisions to any relocating parent under a shared parenting order and parental
+rights and responsibilities order. Under existing law, repealed by the bill, the provisions apply
+only to a residential parent under a parenting time order.79
+       Generally, a relocating parent must file a notice of intent to relocate with the clerk of
+the court where the shared parenting order or parental rights and responsibilities order was
+issued, and the clerk must send a copy of the notice to the last known address of the
+nonrelocating party.80 The bill specifies that a relocation of a parent or child’s residence occurs
+when there is a change of address.81
+        The notice must include all of the following:
+     Updated residential address;
+
+
+77 R.C. 3109.0494. A technical amendment is needed to remove the provision regarding the award of
+
+reasonable costs and fees for supervised parenting time or exchange, as it is not an available remedy.
+78 R.C. 3109.051(K), as it appears in existing law.
+
+79 R.C. 3109.0470 to 3109.0479; R.C. 3109.051(G)(1), (2), and (4) as they appear in existing law.
+
+80 R.C. 3109.0471.
+
+81 R.C. 3109.0470.
+
+
+
+
+P a g e | 29                                                                                         H.B. 14
+                                                                 As Re-referred by House Rules and Reference
+Office of Research and Drafting                      LSC                          Legislative Budget Office
+
+
+
+     Updated mailing address;
+     Updated telephone number;
+     Updated email address;
+     Date of relocation;
+     Notice to the nonrelocating parent that any objection to the relocation must be filed not
+        later than 30 days after receipt of the notice of intent to relocate.82
+       The notice must be filed at least 60 days before the intended relocation or not later than
+ten days after the parent knew of the intended relocation, if the 60-day requirement cannot be
+met, absent exigent circumstances.83
+        The bill allows a parent to file a motion for the court to make a determination regarding
+the health, safety, and welfare or liberty of a person being put at risk by filing a relocation
+notice. If the court makes such a finding, it may do any of the following:
+     Order that the intent to relocate not be disclosed;
+     Waive the notice requirement to the extent necessary to protect the confidentiality and
+        the health, safety, and welfare of the child or parent;
+     Consider any other remedy deemed necessary to facilitate the legitimate needs of the
+        parties and protect the best interest of the child;
+     If appropriate, conduct an ex parte hearing, with a full hearing with notice to the
+        parents if an ex parte order is issued.84
+        Under existing law, repealed by the bill, the court is required to do the following when it
+issues a parenting time order to a parent who is not the residential parent:
+     Determine whether a parent has been convicted of or pleaded guilty to domestic
+        violence or an offense against a family or household member or perpetrated an abusive
+        act causing a child to be an abused child;
+     Issue, upon finding the first bullet in the negative, an order stating that a copy of any
+        notice of relocation will be sent to the parent who is given parenting time rights;
+     Issue, upon finding the first bullet in the positive, an order stating that the parent will
+        not be given a copy of any notice of relocation, unless the court determines that it is in
+        the best interest of the child to do so.85
+
+
+
+82 R.C. 3109.0473.
+
+83 R.C. 3109.0472.
+
+84 R.C. 3109.0474.
+
+85 R.C. 3109.051(G)(2), as it appears in existing law.
+
+
+
+
+P a g e | 30                                                                                      H.B. 14
+                                                              As Re-referred by House Rules and Reference
+Office of Research and Drafting                      LSC                        Legislative Budget Office
+
+
+
+       Existing law allows a residential parent to file a motion with the court requesting that
+the nonresidential parent not receive a copy of any relocation notice if:
+     A nonresidential parent who is granted parenting time rights is allowed to receive a
+        copy of a notice of relocation; and
+     The residential parent intends to move and does not want the nonresidential parent to
+        receive a copy of the relocation notice because the parent has been convicted of or
+        pleaded guilty to domestic violence or an offense against a family or household member
+        or perpetrated an abusive act causing a child to be an abused child.
+        The court is required to schedule a hearing upon receipt of a motion to prevent
+disclosure, and give both parents notice of the date, time, and location of the hearing. After the
+hearing, the court must issue an order stating that the nonresidential parent will not receive a
+copy of a notice to relocate if it determines that the parent has been convicted of or pleaded
+guilty to domestic violence or an offense against a family or household member or perpetrated
+an abusive act causing a child to be an abused child, unless it determines that it is in the best
+interest of the child to do so.86
+  Failure to file notice of intent to relocate
+       The bill allows the court, if a parent fails without good cause to file a notice of intent to
+relocate, to consider the failure as follows:
+     As a factor in making its determination regarding the relocation;
+     As a factor in determining a modification of a shared parenting order or a parental rights
+        and responsibilities order;
+     As a basis for ordering the return of the child if the relocation has taken place without
+        notice;
+     As a basis for awarding attorney fees and expenses;
+     As a factor in a finding of contempt.87
+  Objection to relocation
+       The bill allows a nonrelocating parent to file a motion to object to the relocation and
+seek an order restricting the relocation when it would render any portion of a shared parenting
+order or parental rights and responsibilities order impracticable or detrimental to the child.88 A
+motion objecting to relocation must be filed not later than 30 days after the receipt of the
+notice of intent to relocate; otherwise, the objection is waived.89 The court must conduct a
+
+
+86 R.C. 3109.051(G)(4), as it appears in existing law.
+
+87 R.C. 3109.0475.
+
+88 R.C. 3109.0476.
+
+89 R.C. 3109.0477.
+
+
+
+
+P a g e | 31                                                                                     H.B. 14
+                                                             As Re-referred by House Rules and Reference
+Office of Research and Drafting                      LSC                           Legislative Budget Office
+
+
+
+hearing if a motion objecting to the relocation is filed and must give all matters relating to the
+relocation priority scheduling.90
+    When reaching a decision on a proposed relocation, the court must determine whether the
+relocation is detrimental to the child based on the factors for rebutting a presumption
+regarding a shared parenting agreement (see “Rebutting the presumption” under
+“Shared parenting orders”), equal decision-making rights and responsibilities or equal
+parenting time under a parental rights and responsibilities order (see “Rebutting the
+presumption of equal decision-making responsibilities” and “Rebutting the
+presumption of equal parenting time” under “Parental rights and
+responsibilities orders”), or a parenting time order, whichever is applicable. In addition, it
+must consider all of the following factors to foster a meaningful relationship between the child
+and nonrelocating parent:
+     The reason presented for seeking or opposing the relocation;
+     The realistic ability to preserve the relationship between the child and the nonrelocating
+        parent through any proposed new arrangements that consider the logistics and costs of
+        contact, access, and parenting time;
+     The effect the relocation will have on the child’s relationship with extended family;
+     The enhancement of the quality of life for the child and the relocating parent that the
+        relocation may afford;
+     Whether a presumption has previously been rebutted regarding a shared parenting
+        agreement, equal decision-making rights and responsibilities and equal parenting time
+        under a parental rights and responsibilities order, or a parenting time order;
+     The child’s stability;
+     Any other factor the court determines relevant.91
+  Repeal of provisions regarding interpretation of custody
+The bill repeals provisions of law clarifying the interpretation of custody and parental
+designations in orders allocating parental rights and responsibilities before and after April 11,
+1991, which was when Ohio law establishing shared parenting and changing terminology in
+domestic relations cases took effect.92
+
+
+
+
+90 R.C. 3109.0478.
+
+91 R.C. 3109.0479.
+
+92 R.C. 3109.04(L)(1) to (4), as they appear in existing law.
+
+
+
+
+P a g e | 32                                                                                        H.B. 14
+                                                                As Re-referred by House Rules and Reference
+Office of Research and Drafting                      LSC                             Legislative Budget Office
+
+
+
+Requirements for courts
+  Adoption of parenting time guidelines
+         The bill requires each court of common pleas to adopt rules on standard parenting time
+guidelines, subject to the state policy and the presumption that equal parenting time is in the
+best interest of the child. The bill grants the court discretion to deviate from its guidelines
+based upon the factors governing the issuance of parenting time and companionship and
+visitation orders under existing law, which are recodified, but unchanged by the bill.93
+       The bill repeals an existing law provision that required each court of common pleas to
+adopt rules regarding standard parenting time guidelines on or before July 1, 1991.94
+  Parenting time reports
+       The bill requires each court that issues various orders to compile an annual report of
+data regarding the division of parenting time, as tracked by overnight stays with a parent. This
+requirement applies to courts that issue an order in any of the following:
+     Proceedings allocating parental rights and responsibilities of children in a divorce,
+        dissolution, or legal separation;
+     Proceedings for child support;
+     Proceedings allocating parenting time or companionship or visitation when the mother
+        is unmarried;
+     Any other proceeding in which the parents agreed to a judgment by the court with
+        regard to time that a parent spends with a child.
+       This report must identify the type of case involving parenting time, such as a shared
+parenting order, parental rights and responsibilities order, or a parenting time order. The report
+also must track the number of cases of agreed judgment entries that were contested and
+ordered by the court. The report must not contain personally identifiable information. The
+court must publish this data on the court’s website or otherwise make it publicly available,
+upon request.95
+
+
+
+
+93 R.C. 3109.0466(B).
+
+94 R.C. 3109.051(F)(2), as it appears in existing law.
+
+95 R.C. 3109.0486. Technical amendments are needed to this section (1) to clarify that proceedings
+
+under R.C. 3109.12, and other proceedings in which the parents agreed to a judgment by the court with
+regard to time that a parent spends with a child, are not necessarily proceedings “allocating parental
+rights and responsibilities of children,” and (2) to correct “parental rights and responsibilities allocation
+order” to “parental rights and responsibilities order,” and (3) to clarify that a parenting time order is
+issued when a parental rights and responsibilities order designates only one parent as the residential
+parent and legal custodian of the child.
+
+
+
+P a g e | 33                                                                                          H.B. 14
+                                                                  As Re-referred by House Rules and Reference
+  Office of Research and Drafting                       LSC                            Legislative Budget Office
+
+
+
+  Transition provisions
+           The bill contains transitional provisions that address orders allocating parental rights
+  and responsibilities, parenting time orders, and orders for companionship and visitation under
+  existing law. Under the bill, these orders that were issued under existing law will remain in
+  effect upon the bill’s enactment, but must be enforced and modified in accordance with the
+  bill’s provisions.96
+  Recodification
+         The bill recodifies existing law regarding parental rights and responsibilities, parenting
+  time, and companionship and visitation in the domestic relations context. The following table
+  shows the new organization and includes new provisions enacted by the bill.
+
+                              Topic                                 Current Law                     Bill
+
+Definitions for Parental Rights and Responsibilities (PRR)    3109.04(J) and (K), as     3109.04
+allocations, including:                                       applicable; new
+  Shared parenting (SP) order (defined in bill as order
+   issued under 3109.0413);
+  PRR allocation order (defined in bill as order issued
+   under 3109.0412, 3109.0424, 3109.0425, or 3109.0426);
+  Parenting time orders (PTOs) (defined in bill as order
+   issued under 3109.0451);
+  Companionship or visitation orders (CVOs) (defined in
+   bill as order issued under 3109.0452)
+Unmarried mother custody of child                             3109.042                   3109.042
+
+State policy for PRR allocations                              New                        3109.044
+
+PRR allocations comply with state policy/child’s best         3109.04(A)                 3109.045
+interest
+
+Shared parenting agreement (SPA) and parental rights and      3109.04(G), fifth          3109.046
+responsibilities order (PRRO) requirements                    sentence; new
+
+Joint filing of SPA                                           3209.04(G); new            3109.047
+
+SPA filing deadline                                           New                        3109.048
+
+Best interest presumption for SPA                             New                        3109.0410
+
+Criteria to rebut best interest of SPA                        New                        3109.0411
+
+
+
+  96 R.C. 3109.0485.
+
+
+
+
+  P a g e | 34                                                                                       H.B. 14
+                                                                 As Re-referred by House Rules and Reference
+  Office of Research and Drafting                      LSC                           Legislative Budget Office
+
+
+
+                              Topic                                 Current Law                   Bill
+
+Court PRR allocation order if best interest of SPA rebutted   New                      3109.0412
+
+Shared Parenting (SP) order issued allocating PRR if          New                      3109.0413
+presumption not rebutted
+
+Designation of child’s home SP order                          3109.04(A)(2),           3109.0414
+                                                              second and third
+                                                              sentences
+
+Interpretation of designations in PRR allocation orders       3109.04(L)(5) to (7)     3109.0415
+
+Information for court when parents do not enter into SPA      New                      3109.0419
+
+Best interest presumption of Equal Decision-Making Rights     New                      3109.0420
+and Responsibilities (EDMR) and Equal Parenting Time (EPT)
+if no SPA
+
+Criteria to rebut EDMR if no SPA                              New                      3109.0421
+
+Criteria to rebut EPT if no SPA                               New                      3109.0422
+
+Determination of “friendly parent” factors                    New                      3109.0423
+
+Court order if EDMR, but not EPT, is rebutted                 New                      3109.0424
+
+Court order if EPT, but not EDMR, is rebutted                 New                      3109.0425
+
+Court order requiring EDMR and EPT if presumption not         New                      3109.0426
+rebutted
+
+Interview child in chambers re: wishes and concerns           3109.04(B)               3109.0430
+
+Court investigation; effect of findings                       3109.04(C)               3109.0431
+
+No PRR allocation preference based on financial status        3109.04(F)(3)            3109.0432
+
+Parental affidavit regarding offenses                         3109.04(M)               3109.0433
+
+No presumptions to be drawn from a temporary order            New                      3109.0434
+
+Juvenile court jurisdiction if neither parent suitable to     3109.04(D)(2)            3109.0435
+receive PRR allocation
+
+Temporary PRR allocation orders                               3109.043; new            3109.0436
+
+Court deadline to issue final SP or PRR order                 New                      3109.0437
+
+
+  P a g e | 35                                                                                       H.B. 14
+                                                                 As Re-referred by House Rules and Reference
+  Office of Research and Drafting                   LSC                               Legislative Budget Office
+
+
+
+                              Topic                                 Current Law                    Bill
+
+Parental motion to modify or terminate SP or PRR order        New                       3109.0438
+
+Consideration of motion to modify SP order                    New                       3109.0439
+
+Criteria for terminating SP order                             New                       3109.0440
+
+PRR issued on termination of SP order                         New                       3109.0441
+
+Court consideration of motion to modify PRR order             New                       3109.0442
+
+Joint motion to modify PRR order to SP order                  New                       3109.0443
+
+Appeal priority                                               3109.04(H)                3109.0445
+
+Definitions for PTOs and CVOs:                                3109.051(O)(1), (3),      3109.0450
+                                                              and (5)
+  Abused child;
+  Confidential law enforcement investigatory record;
+  Record
+PTOs                                                          3109.051(A)               3109.0451
+
+CVOs                                                          3109.051(B)               3109.0452
+
+PTO/CVO factors                                               3109.051(D)               3109.0453
+
+Consideration of mediation report and PTO/CVO factors in      3109.051(C), first        3109.0454
+establishing PTO/CVO                                          sentence
+
+Interview in chambers re: child’s wishes and concerns about   3109.051(C),              3109.0455
+PTO/CVO                                                       sentences two to five
+
+Indigent parents                                              3109.051(L)               3109.0456
+
+Effect of remarriage                                          3109.051(E)               3109.0457
+
+Record access requirements                                    3109.051(H)               3109.0461
+
+Day care access requirements                                  3109.051(I)               3109.0462
+
+School activity access requirements                           3109.051(J)               3109.0463
+
+Court duties if deny PTO/CVO                                  3109.051(F)               3109.0466
+
+Transition plan when PTO denied                               New                       3109.0467
+
+Juvenile court jurisdiction                                   3109.051(N)               3109.0468
+
+
+  P a g e | 36                                                                                       H.B. 14
+                                                                 As Re-referred by House Rules and Reference
+  Office of Research and Drafting                    LSC                              Legislative Budget Office
+
+
+
+                              Topic                                 Current Law                    Bill
+
+Mediation                                                     3109.052                  3109.0469
+
+Relocation – when it occurs                                   New                       3109.0470
+
+Relocation – filing notice and sending copy to the other      3109.051(G)(1); new       3109.0471
+parent
+
+Relocation – deadline to file notice                          New                       3109.0472
+
+Relocation – notice requirements                              New                       3109.0473
+
+Relocation – motion and determination that disclosure of      3109.051(G)(2) and        3109.0474
+notice is risky                                               (4); new
+
+Relocation – failure to file notice                           New                       3109.0475
+
+Relocation – objection                                        New                       3109.0476
+
+Relocation – deadline to file objection                       New                       3109.0477
+
+Relocation – hearing for objection                            New                       3109.0478
+
+Relocation – factors for court consideration on proposed      New                       3109.0479
+relocation
+
+Parenting classes or counselling                              3109.053                  3109.0480
+
+False accusation of abuse or neglect                          New                       3109.0481
+
+Definitions: Active Military Service (AMS) and PRR allocation 3109.04(J)(2) and (5)     3109.0482
+orders and PTOs:
+  AMS (current definition under 3109.04);
+  Uniformed services (current definition under 3109.04)
+AMS and SP order or PRR allocation order                      3109.04(I)                3109.0483
+
+AMS and PTO/CVO                                               3109.051(M)               3109.0484
+
+Transitional provisions                                       New                       3109.0485
+
+Parenting time reports                                        New                       3109.0486
+
+Parenting time interference – hearing on motion               New                       3109.0491
+
+Parenting time interference – temporary order before          New                       3109.0492
+ruling on motion
+
+
+  P a g e | 37                                                                                       H.B. 14
+                                                                 As Re-referred by House Rules and Reference
+ Office of Research and Drafting                   LSC                            Legislative Budget Office
+
+
+
+                             Topic                                Current Law                  Bill
+
+Parenting time interference – required remedies             3109.051(K); new        3109.0493
+
+Parenting time interference – optional remedies             New                     3109.0494
+
+ Cross-reference and other nonsubstantive updates
+         The bill amends many sections of the Revised Code to update cross-references and
+ update or remove terms as a result of the extensive recodification of, and changes to, existing
+ law. For example, a “plan for shared parenting” under existing law has been changed under the
+ bill to a “shared parenting agreement” and references to a shared parenting “decree” have
+ been removed because the bill provides instead for shared parenting orders.97
+
+                                            HISTORY
+                              Action                                            Date
+
+ Introduced                                                  02-15-23
+ Recalled and re-referred to H. Families & Aging             02-21-23
+
+
+
+
+ ANHB0014RCH-135/ts
+
+
+
+
+ 97 These changes are included in the following sections: 2151.23, 2317.02, 2705.031, 2710.05, 2710.06,
+
+ 3105.21, 3105.63, 3105.65, 3109.04, 3109.042, 3109.045 (recodified from 3109.04(A)), 3109.0415
+ (recodified from 3109.04(L)(5) to (7), 3109.0433 (recodified from 3109.04(M)), 3109.0430 (recodified
+ from 3109.04(B)), 3109.0451 (recodified from 3109.051(A)), 3109.0452 (recodified from 3109.051(B)),
+ 3109.0453 (recodified from 3109.051(D)), 3109.0454 (recodified from 3109.051(C), first sentence),
+ 3109.0455 (recodified from 3109.051(C), sentences two to five), 3109.0456 (recodified from
+ 3109.051(L)), 3109.0461 (recodified from 3109.051(H)), 3109.0462 (recodified from 3109.051(I)),
+ 3109.0463 (recodified from 3109.051(J)), 3109.0466 (recodified from 3109.051(F)), 3109.0494
+ (recodified from 3109.051(K)), 3109.0469 (recodified from 3109.052), 3109.0483 (recodified from
+ 3109.04(I)), 3109.0484 (recodified from 3109.051(M)), 3109.05, 3109.06, 3109.061, 3109.09, 3109.11,
+ 3109.12, 3109.41, 3109.53, 3109.55, 3109.56, 3109.65, 3113.31, 3119.01, 3119.08, 3119.24, 3119.964,
+ 3310.51, 3313.98, 3319.321, 3333.26, 3796.24, 5104.039, 5120.653, 5153.16.
+
+
+
+ P a g e | 38                                                                                      H.B. 14
+                                                               As Re-referred by House Rules and Reference
+

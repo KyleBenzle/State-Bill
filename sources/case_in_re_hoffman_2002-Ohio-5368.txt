@@ -1,0 +1,293 @@
+Source: https://www.supremecourt.ohio.gov/rod/docs/pdf/0/2002/2002-Ohio-5368.pdf (retrieved 2026-10-04)
+
+[This decision has been published in Ohio Official Reports at 97 Ohio St.3d 92.]
+
+
+
+
+                                     IN RE HOFFMAN.
+                      [Cite as In re Hoffman, 2002-Ohio-5368.]
+Juvenile law—Permanent custody proceeding—Parties to the proceeding have
+        the right to cross-examine the guardian ad litem concerning the contents
+        of the report and the basis for the custody recommendation when the
+        report will be a factor in the trial court’s decision.
+     (No. 2002-0246—Submitted June 26, 2002—Decided October 23, 2002.)
+     CERTIFIED by the Court of Appeals for Stark County, No. 2001CA00207,
+                                     2001-Ohio-1816.
+                                  __________________
+                                    SYLLABUS OF THE COURT
+In a permanent custody proceeding in which the guardian ad litem’s report will be
+        a factor in the trial court’s decision, parties to the proceeding have the right
+        to cross-examine the guardian ad litem concerning the contents of the report
+        and the basis for a custody recommendation.
+                                  __________________
+        ALICE ROBIE RESNICK, J.
+        {¶1} On April 18, 2000, Stark County Department of Human Services
+(“SCDHS”) filed a complaint seeking temporary custody of appellee Brenda
+Hoffman’s two children: Brandon Hoffman, born July 30, 1999, and Melanie
+Dedmon, born August 14, 1991. The complaint alleged that Brandon was an
+abused, dependent, and neglected child due to a skull fracture and an epidural
+hematoma. The complaint further alleged that Melanie was a dependent child due
+to the abuse of Brandon and the instability of her biological father. After an
+emergency hearing, the trial court ordered that the children be placed in the
+temporary custody of SCDHS and that appellee undergo a psychological
+                             SUPREME COURT OF OHIO
+
+
+
+
+evaluation. The trial court also issued a “no contact” order, prohibiting appellee
+from having any contact with her children.
+       {¶2} An adjudicatory hearing was held on June 29, 2000. At that hearing,
+appellee stipulated to a finding of abuse regarding Brandon and a finding of
+dependency relative to Melanie. Brandon remained in the temporary custody of
+SCDHS and was placed in foster care with Allen and Martha Miller. The trial court
+granted legal custody of Melanie to her paternal grandparents. Thereafter, the
+involvement of SCDHS with Melanie was terminated.
+       {¶3} In February 2001, appellant, Stark County Department of Job and
+Family Services (“SCDJFS”), filed a motion for permanent custody of Brandon and
+termination of appellee’s parental rights pursuant to R.C. 2151.414. Carol and
+Raymond Ritchey, relatives of appellee, also filed a motion for custody. On April
+17, 2001, the guardian ad litem filed a written report pursuant to R.C. 2151.414(C),
+which detailed her investigation of all parties involved in the dispute. The report
+was admitted into evidence by the trial court.
+       {¶4} The trial court hearing on the permanent custody motion, which began
+on May 29, 2001, was divided into two phases. The first phase focused on
+termination of appellee’s parental rights, while the second phase focused on the
+best interests of the child. Appellee, through her counsel, initially represented that
+she would stipulate to phase one. At that time, appellee specified that she intended
+to litigate the best-interest phase. Upon inquiry by the court, appellee requested a
+trial for both phases, and the case proceeded. SCDJFS called appellee as its sole
+witness in phase one; appellee called no witnesses.
+       {¶5} The best-interest phase was contested due to the fact that both the
+Ritcheys and the Millers sought placement pending an adoption. During this
+portion of the hearing, the guardian ad litem participated in the cross-examination
+of witnesses; however, the parties were not allowed to cross-examine the guardian
+pertaining to her report.
+
+
+
+
+                                          2
+                                January Term, 2002
+
+
+
+
+        {¶6} On June 22, 2001, the trial court issued a decision terminating
+appellee’s parental rights, privileges, and obligations and granting permanent
+custody of Brandon to SCDJFS. Further, the trial court denied the Ritcheys’ motion
+for custody and ordered that Brandon remain with the Millers pending an adoption
+decree by the probate court. In reaching its decision, the trial court quoted portions
+of the guardian’s report as follows: “The guardian states, ‘The Millers have
+provided Brandon with a placement which is both emotionally and physically
+healthy. * * * While it is true that children can adapt to change, it is equally true *
+* * that children grieve at the loss of loved ones and that their grieving is
+commensurate to the attachment they have to their care takers. In this case, the
+grieving would be lengthy, unnecessary and contrary to Brandon’s best interest.’ ”
+        {¶7} The appellate court reversed and remanded the case, concluding,
+“[O]nce the trial court admitted the guardian’s report into evidence, the trial court
+was required to permit mother to cross-examine the guardian.”
+        {¶8} Appellant moved the court of appeals to certify a conflict to this court
+on the issue of whether, in a permanent custody action, a party may cross-examine
+the guardian ad litem, notwithstanding the language of R.C. 2151.414(C), which
+specifies, “A written report of the guardian ad litem * * * shall be submitted to the
+court * * * but shall not be submitted under oath.” The court of appeals granted
+appellant’s motion, finding its judgment to be in conflict with the judgment of the
+Court of Appeals for Wayne County in In re Fox (Sept. 27, 2000), Wayne App.
+Nos. 00CA0039, 00CA0038, 00CA0040 and 00CA0041, 2000 WL 1420276.
+        {¶9} The cause is now before this court upon our determination that a
+conflict exists.
+        {¶10} The question certified for our review is “whether, in a permanent
+custody action, a party may cross-examine the guardian ad litem, notwithstanding
+the language of R.C. 2151.414(C).” For the reasons that follow, we answer the
+
+
+
+
+                                          3
+                              SUPREME COURT OF OHIO
+
+
+
+
+certified question in the affirmative and therefore affirm the judgment of the court
+of appeals.
+       {¶11} R.C. 2151.414(C) states:
+       {¶12} “In making the determinations required by this section * * * a court
+shall not consider the effect the granting of permanent custody to the agency would
+have upon any parent of the child. A written report of the guardian ad litem of the
+child shall be submitted to the court prior to or at the time of the hearing * * * but
+shall not be submitted under oath.”
+       {¶13} From the plain language of the statute, it is reasonable to conclude
+that the purpose of enacting R.C. 2151.414(C) is to give the court information, in
+addition to that elicited at the hearing, to assist it in making sound decisions
+concerning permanent custody placements. This legislative enactment, however,
+cannot come at the expense of a parent’s opportunity to defend herself against the
+possibility of termination of her rights.
+       {¶14} In In re Hayes (1997), 79 Ohio St.3d. 46, 48, 679 N.E.2d 680, the
+court noted, “Permanent termination of parental rights has been described as ‘the
+family law equivalent of the death penalty in a criminal case.’ * * * Therefore,
+parents ‘must be afforded every procedural and substantive protection the law
+allows,’ ” quoting In re Smith (1991), 77 Ohio App.3d 1, 16, 601 N.E.2d 45.
+       {¶15} The United States Supreme Court has recognized that in permanent
+custody proceedings, parents must be afforded due process before their rights can
+be terminated. In Santosky v. Kramer (1982), 455 U.S. 745, 102 S.Ct. 1388, 71
+L.Ed.2d 599, parents appealed from the judgment of a family court that had found
+their children to be neglected. Id. at 751, 102 S.Ct. 1388, 71 L.Ed.2d 599. Based
+on that finding, the trial court permanently terminated the parents’ custody, and the
+appellate court affirmed. Id. at 752, 102 S.Ct. 1388, 71 L.Ed.2d 599.
+       {¶16} The United States Supreme Court vacated the judgment and noted,
+“The fundamental liberty interest of natural parents in the care, custody, and
+
+
+
+
+                                            4
+                                 January Term, 2002
+
+
+
+
+management of their child does not evaporate simply because they have not been
+model parents or have lost temporary custody of their child to the State. Even when
+blood relationships are strained, parents retain a vital interest in preventing the
+irretrievable destruction of their family life. If anything, persons faced with forced
+dissolution of their parental rights have a more critical need for procedural
+protections than do those resisting state intervention into ongoing family affairs.
+When the State moves to destroy weakened familial bonds, it must provide the
+parents with fundamentally fair procedures.” Id. at 753-754, 102 S.Ct. 1388, 71
+L.Ed.2d 599.
+        {¶17} In Lassiter v. Dept. of Social Serv. of Durham Cty., North Carolina
+(1981), 452 U.S. 18, 24-25, 101 S.Ct. 2153, 68 L.Ed.2d 640, the United States
+Supreme Court stated, “For all its consequence, ‘due process’ has never been, and
+perhaps can never be, precisely defined. * * * Rather, the phrase expresses the
+requirement of ‘fundamental fairness,’ a requirement whose meaning can be as
+opaque as its importance is lofty. Applying the Due Process Clause is therefore an
+uncertain enterprise which must discover what ‘fundamental fairness’ consists of
+in a particular situation by first considering any relevant precedents and then by
+assessing the several interests that are at stake.”
+        {¶18} While the issue of cross-examination of guardians ad litem in
+permanent custody proceedings is one of first impression in this court, other states
+have concluded that due process concerns dictate that parties should be given the
+opportunity to cross-examine persons who prepare investigative reports for the
+court’s consideration.
+        {¶19} In Collins v. Collins (1984), 283 S.C. 526, 324 S.E.2d 82, the wife
+appealed from the judgment of the court in her divorce action, which granted
+custody of the parties’ daughter to the husband. The wife contended that the court’s
+in camera receipt of the recommendation of the guardian ad litem, and her resulting
+inability to cross-examine, denied her due process. Id. at 528, 324 S.E.2d 82.
+
+
+
+
+                                           5
+                             SUPREME COURT OF OHIO
+
+
+
+
+Although the error was ultimately ruled harmless, the court held, “We believe that
+the ends of justice are better served by permitting cross-examination of a guardian
+ad litem. * * * [W]e hold that where the report contains statements of fact, the
+litigants are entitled to cross-examine the guardian ad litem and any witnesses
+whose testimony formed the basis of the guardian’s recommendation. The family
+court’s failure * * * to permit proper cross-examination is reversible error * * *.”
+Id. at 530, 324 S.E.2d 82.
+       {¶20} In Mazur v. Lazarus (App.D.C.1964), 196 A.2d 477, the court
+determined that the action of the court in basing its decision, at least in part, on
+investigative reports without opportunity for the parties to cross-examine the
+persons who prepared them violated due process requirements.                The court
+expounded, “[T]he courts of this jurisdiction sometimes call to their aid
+experienced and disinterested trained social workers * * * to make unbias[ed]
+examinations of the qualifications of those seeking custody of children, and the
+circumstances of the children themselves. But it has never been the practice to
+receive such reports after trial, with no opportunity for the parties to read them or
+to cross-examine the persons who prepared them.            There is an obvious and
+fundamental unfairness in receiving evidence in this manner, for it violates due
+process requirements.     It amounts to a private investigation by the court in
+assembling or receiving evidence, out of the sight and hearing of the parties, who
+are thus deprived of the opportunity to test, explain or rebut it.” Id. at 479.
+       {¶21} In State ex rel. Fisher v. Devins (1972), 294 Minn. 496, 200 N.W.2d
+28, the Supreme Court of Minnesota also upheld the right to cross-examine a
+probation officer who had prepared a report for custody proceedings. In Fisher, a
+long-term foster mother appealed the decision of the trial court to award custody of
+a son to the natural mother. Id. Specifically, the foster mother contended that she
+should have been given the opportunity to cross-examine the probation officer who
+prepared a report relating to custody of the child. Id. The court agreed with the
+
+
+
+
+                                           6
+                                  January Term, 2002
+
+
+
+
+foster mother, stating, “Counsel for appellant was not permitted to cross-examine
+the probation officer to ascertain the basis for her opinion * * * . Under our
+decisions it was error to deny appellant’s counsel an opportunity to cross-examine
+the probation officer in order to ascertain the basis of her opinion that the child
+should be removed from the custody of [the foster mother].” Id. at 499-500, 200
+N.W.2d 28. The court added, “If the report is to be used as a basis, wholly or in
+part, for a determination as to what is best for the welfare of the child, the one who
+made the report should be subject to cross-examination in order to ascertain what
+it is based on.” Id. at 501, 200 N.W.2d 28.
+       {¶22} Likewise, in Stanford v. Stanford (1963), 266 Minn. 250, 258, 123
+N.W.2d 187, the court said, “We do not condemn the practice of using court
+agencies to make investigations and reports on custody questions. Where the sole
+issue is what will best serve the welfare of the child, such reports are an invaluable
+aid to the court in determining the question. Their use should be encouraged, but
+care should be taken to give fair notice of the contents of such reports to the parties
+involved so as to afford them every opportunity to test the credibility of the reporter
+through cross-examination or otherwise and to meet or answer every adverse fact
+or inference included therein.”
+       {¶23} Finally, in In re Dolly D. (1995), 41 Cal.App.4th 440, 48 Cal Rptr.2d
+691, the child was adjudicated a dependent of the juvenile court. The trial court
+denied the father’s request to cross-examine the social worker who had prepared
+the report relating to custody.     The appellate court reversed the trial court’s
+judgment, stating, “In dependency proceedings, as in other civil proceedings,
+parties have a due process right to cross-examine and confront witnesses.” Id. at
+444, 48 Cal.Rptr.2d 691.
+       {¶24} Applied to the case at bar, Brandon was adjudged an abused,
+dependent, and neglected child. During the best-interest phase of the permanent
+custody hearing, appellee requested that the guardian ad litem be called to testify
+
+
+
+
+                                          7
+                              SUPREME COURT OF OHIO
+
+
+
+
+about her report. That request was denied by the court. In the alternative, appellee
+requested that the court allow her to cross-examine the guardian ad litem regarding
+the contents of her report, which request was also denied.
+        {¶25} Due process necessitates that appellee should have had the right to
+cross-examine the guardian ad litem, since the trial court relied upon the report. As
+such, notwithstanding R.C. 2151.414(C), we hold that in a permanent custody
+proceeding in which the guardian ad litem’s report will be a factor in the trial court’s
+decision, parties to the proceeding have the right to cross-examine the guardian ad
+litem concerning the contents of the report and the basis for a custody
+recommendation. Without these safeguards, there are no measures to ensure the
+accuracy of the information provided and the credibility of those who made
+statements.
+        {¶26} We remand this cause to the trial court for a proceeding in which the
+guardian ad litem may be subject to cross-examination.
+                                                                   Judgment affirmed.
+        MOYER, C.J., DOUGLAS, F.E. SWEENEY, PFEIFER and LUNDBERG STRATTON,
+JJ., concur.
+        COOK, J., concurs in judgment only.
+                                __________________
+        Michael B. Vaccaro, for appellant.
+        Christopher M. VanDevere, for appellee.
+                                __________________
+
+
+
+
+                                           8
+

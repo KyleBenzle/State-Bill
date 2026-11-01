@@ -1,0 +1,460 @@
+Source: same official PDF (retrieved 2026-10-04). Parenting coordination: former Sup.R. 90-90.13 -> Sup.R. 16.60-16.66 (eff. Jan 1, 2023) -> current Sup.R. 6.40-6.46 (July 1, 2026). Definitions at Sup.R. 6.00(I)-(J).
+
+                     SECTION 6.             DISPUTE RESOLUTION.
+
+
+RULE 6.00. Definitions.
+
+As used in Sup.R. 6.00 through 6.46:
+
+       (A)    Civil stalking protection order case
+
+              “Civil stalking protection order case” means a proceeding under R.C. 2903.214.
+
+       (B)    Domestic abuse
+
+              “Domestic abuse” means aggressive behaviors directed toward a current or former
+              intimate partner that are physical, sexual, economic, spiritual, or coercively
+              controlling. “Domestic abuse” may occur as a single aggressive behavior or a
+              combination of aggressive behaviors and may vary from family to family in terms
+              of frequency, recency, severity, intention, circumstance, and consequence.
+
+       (C)    Domestic violence
+
+              “Domestic violence” has the same meaning as in R.C. 3113.31(A)(1).
+
+       (D)    Evaluator
+
+              “Evaluator” means an individual who conducts a neutral evaluation.
+
+       (E)    Facilitation
+
+              “Facilitation” means a process in which a neutral party moderates discussions by
+              ensuring the fluid and orderly exchange of information and ideas from all
+              participants and that is primarily concerned with assisting individuals in refining
+              their communication and organizational skills so that they may learn to work more
+              efficiently with one another in a group setting.
+
+       (F)    Mediation
+
+              “Mediation” means a process in which a neutral third party helps the parties
+              communicate and negotiate with each other to help them reach a voluntary
+              agreement regarding their dispute by helping the parties clarify their positions and
+              interests, identifying underlying concerns, and creating practical solutions for
+              resolving their dispute.
+
+       (G)    Mediator
+
+              "Mediator" means an individual who conducts a mediation.
+       (H)    Neutral evaluation
+
+              “Neutral evaluation” means a process in which the parties to a dispute present their
+              claims or defenses and describe the principal evidence on which their claims or
+              defenses are based to a neutral third party who then shares impressions about the
+              strengths and weaknesses of each matter.
+
+       (I)    Parenting coordination
+
+              “Parenting coordination” means a child-focused dispute resolution process ordered
+              by a court of common pleas or division of the court to assist parties in implementing
+              a parental rights and responsibilities or companionship time order using
+              assessment, education, case management, conflict management, coaching, or
+              decision-making. “Parenting coordination” is not mediation subject to R.C.
+              Chapter 2710 or Sup.R. 6.01 through 6.06.
+
+       (J)    Parenting coordinator
+
+              “Parenting coordinator” means an individual who conducts parenting coordination.
+
+                                   Commentary (July 1, 2026)
+
+        Rule 16.14 was renumbered to Rule 6.00 as part of the 2026 restructuring of the Rules of
+Superintendence.
+
+
+
+Effective Date: January 1, 2020
+Amended: April 15, 2021; January 1, 2023
+RULE 6.01. Application.
+
+Sup.R. 6.01 through 6.06 shall apply when a court elects to use mediation.
+
+                                   Commentary (July 1, 2026)
+
+        Rule 16.20 was renumbered to Rule 6.01 as part of the 2026 restructuring of the Rules of
+
+..........
+Rules 6.36 through 6.39 are reserved for future use.
+RULE 6.40. Application.
+
+Sup.R. 6.40 through 6.46 shall apply to a court of common pleas or division of the court that elects
+to use parenting coordination and to a parenting coordinator conducting parenting coordination.
+
+                                    Commentary (July 1, 2026)
+
+        Rule 16.60 was renumbered to Rule 6.40 as part of the 2026 restructuring of the Rules of
+Superintendence.
+
+
+
+Effective Date: January 1, 2023
+RULE 6.41. Local Parenting Coordination Rule.
+
+A court or division of a court shall adopt a local rule governing parenting coordination. The local
+rule shall do all of the following:
+
+       (A)     Identify the case types eligible for parenting coordination and those that are
+               precluded from parenting coordination, if any;
+
+       (B)     Specify that, except as provided by law, communications made as part of parenting
+               coordination shall not be confidential or privileged;
+
+       (C)     Include procedures for the selection and referral of a case to parenting coordination
+               at any point after an interim or final parental rights and responsibilities or
+               companionship time order is filed;
+
+       (D)     Prohibit the use of parenting coordination in domestic violence cases under R.C.
+               2919.25, 2919.26, 2919.27, and 3113.31. Nothing in this division shall prohibit the
+               use of parenting coordination in either of the following cases:
+
+                      (1)     A subsequent divorce or custody case, even though the case may
+                              result in the termination of the provisions of a protection order under
+                              R.C. 3113.31;
+
+                      (2)     A juvenile delinquency case.
+
+       (E)     Establish procedures for and encourage appropriate referrals to legal counsel,
+               counseling, parenting courses, and other support services for all parties, including
+               victims and suspected victims of domestic abuse and domestic violence;
+
+       (F)     Address other issues as the court or division considers necessary and appropriate.
+
+                                    Commentary (July 1, 2026)
+
+        Rule 16.61 was renumbered to Rule 6.41 as part of the 2026 restructuring of the Rules of
+Superintendence.
+
+
+
+Effective Date: January 1, 2023
+Amended: November 13, 2025
+RULE 6.42. Ordering of Parenting Coordination.
+
+(A)   Reasons to order parenting coordination
+
+      A court or division of a court may order parenting coordination when one or more of the
+      following factors are present:
+
+             (1)    The parties have disagreements about the implementation of a parental
+                    rights and responsibilities or companionship time order and need assistance;
+
+             (2)    There is a history of parental conflict that has been unresolved by previous
+                    litigation or other interventions and from which a child of the parties is
+                    adversely affected;
+
+             (3)    The parties have a child whose parenting time schedule requires frequent
+                    adjustments, specified in an order of the court or division, to maintain age-
+                    appropriate contact with both parties, and the parties have been previously
+                    unable to reach agreements on their parenting time schedule without
+                    intervention by the court or division;
+
+             (4)    The parties have a child with a medical or psychological condition or
+                    disability who requires frequent decisions regarding treatment or frequent
+                    adjustments in the parenting time schedule, specified in an order of the court
+                    or division, and the parties have been previously unable to reach agreements
+                    on their parenting time schedule without intervention by the court or
+                    division;
+
+             (5)    One or both parties suffer from a medical or psychological condition or
+                    disability that results in an inability to reach agreements or to adjust their
+                    parenting time schedule without assistance, even when minor in nature;
+
+             (6)    Any other factor as determined by the court or division.
+
+(B)   Reasons not to order parenting coordination
+
+      A court or division shall not order parenting coordination to determine any of the
+      following:
+
+             (1)    Changes in the designation of the residential parent or legal custodian;
+
+             (2)    Changes in the school placement of a child, in the case of shared parenting;
+
+             (3)    Substantive changes in parenting time;
+
+             (4)    The modification of child support or the allocation of tax exemptions or
+                    benefits or the division of uncovered medical expenses.
+                                   Commentary (July 1, 2026)
+
+        Rule 16.62 was renumbered to Rule 6.42 as part of the 2026 restructuring of the Rules of
+Superintendence.
+
+
+
+Effective Date: January 1, 2023
+Amended: November 13, 2025
+RULE 6.43. Responsibilities of Parenting Coordinator.
+
+(A)   General responsibilities
+
+      In order to provide a fair parenting coordination process for the parties, a parenting
+      coordinator shall comply with the “2019 Revised Guidelines for Parenting Coordination”
+      developed by the Association of Family and Conciliation Courts Task Force on Parenting
+      Coordination. Wherever a conflict exists between the guidelines and Sup.R. 6.40 through
+      6.46, the rules shall control.
+
+(B)   Conflicts of interest
+
+      (1)    A parenting coordinator shall avoid any actual or apparent conflicts of interest
+             arising from any relationship activity, including but not limited to those of
+             employment or business or from professional or personal contacts with parties or
+             others involved in the case. A parenting coordinator shall avoid self-dealing or
+             associations from which the parenting coordinator may directly or indirectly benefit
+             except from compensation for services as a parenting coordinator.
+
+      (2)    Upon becoming aware of any actual or apparent conflict of interest, a parenting
+             coordinator shall notify the appointing court or division of the court and the parties
+             of the action taken to resolve the conflict and, if unable to do so, seek the direction
+             of the court or division.
+
+      (3)    A parenting coordinator shall avoid serving in multiple roles with the same family,
+             even with the consent of the parties.
+
+(C)   Legal advice
+
+      A parenting coordinator shall not offer legal advice.
+
+(D)   Satisfaction of training requirements
+
+      (1)    A parenting coordinator shall meet the qualifications and comply with all training
+             requirements of Sup.R. 6.44 and local court rules governing parenting coordinators
+             and parenting coordination adopted under Sup.R. 6.41.
+
+      (2)    A parenting coordinator shall meet the qualifications for parenting coordinators for
+             each court or division in which the parenting coordinator serves and promptly
+             notify the court or division of any grounds for disqualification or any issues
+             affecting the ability to serve.
+
+      (3)    Upon request, a parenting coordinator shall provide a court or division from which
+             the parenting coordinator receives appointments documentation indicating
+             compliance with all training and education requirements so that the court may meet
+             the requirements of Sup.R. 6.44(A)(4). The documentation shall include
+              information detailing the date, location, contents, credit hours, and sponsor of any
+              relevant trainings.
+
+(E)    Compliance with appointment order
+
+       A parenting coordinator shall comply with the requirements of and act in accordance with
+       the appointment order issued by a court or division under Sup.R. 6.45(B).
+
+(F)    Competence or ability to perform
+
+       A parenting coordinator shall decline or withdraw from an appointment or request
+       appropriate assistance in either of the following situations:
+
+              (1)     The facts and circumstances of the case are beyond the skill or expertise of
+                      the parenting coordinator;
+
+              (2)     Personal circumstances, including but not limited to medical, mental health,
+                      or substance misuse or dependence, exist that compromise the ability of the
+                      parenting coordinator to perform his or her role.
+
+(G)    Ex parte communications
+
+       A parenting coordinator shall have no ex parte communications with the appointing court
+       or division regarding substantive matters or issues on the merits of the case.
+
+(H)    Recordkeeping of fees and costs
+
+       A parenting coordinator shall maintain records necessary to document charges for services
+       and expenses. A parenting coordinator shall issue invoices for services and expenses to the
+       parties no less than once per month.
+
+                                   Commentary (July 1, 2026)
+
+        Rule 16.63 was renumbered to Rule 6.43 as part of the 2026 restructuring of the Rules of
+Superintendence.
+
+
+
+Effective Date: January 1, 2023
+Amended: November 13, 2025
+RULE 6.44. Parenting Coordinator Education and Training.
+
+(A)   General
+
+      (1)   Prior to accepting appointment of a court or division of a court to serve as a
+            parenting coordinator, an individual shall meet all of the following qualifications:
+
+                   (a)     Be an independently licensed mental health professional, be
+                           licensed to practice law in Ohio, or otherwise have education and
+                           experience satisfactory to the appointing court or division;
+
+                   (b)     Possess extensive practical and professional experience with
+                           situations involving children. This experience may include
+                           counseling, casework, or legal representation in complex family law
+                           matters; serving as a guardian ad litem or mediator; or other
+                           equivalent experience satisfactory to the court or division.
+
+                   (c)     Complete “Fundamentals of Mediation Training” approved by the
+                           Supreme Court Dispute Resolution Section in accordance with
+                           standards established by the Commission on Dispute Resolution
+                           under Sup.R. 6.04(A)(1) or qualify for an exception as provided in
+                           Sup.R. 6.04(A)(2);
+
+                   (d)     Complete “Specialized Family or Divorce Mediation Training”
+                           approved by the Supreme Court Dispute Resolution Section in
+                           accordance with standards established by the Commission on
+                           Dispute Resolution under Sup.R. 6.04(B)(1)(c);
+
+                   (e)     Complete “Specialized Domestic Abuse Issues in Mediation
+                           Training” approved by the Supreme Court Dispute Resolution
+                           Section in accordance with standards established by the
+                           Commission on Dispute Resolution under Sup.R. 6.04(B)(1)(d);
+
+                   (f)     Complete “Parenting Coordination Training” approved by the
+                           Supreme Court Dispute Resolution Section in accordance with
+                           standards established by the Commission on Dispute Resolution.
+
+      (2)   Prior to accepting appointment of a court or division to serve as a parenting
+            coordinator in an abuse, neglect, or dependency case, an individual shall meet both
+            of the following qualifications:
+
+                   (a)     Complete the requirements of division (A)(1) of this rule;
+
+                   (b)     Complete “Specialized Child Protection Mediation” that has been
+                           approved by the Supreme Court Dispute Resolution Section in
+                             accordance with standards established by the Commission on
+                             Dispute Resolution under Sup.R. 6.04(B)(2)(c).
+
+(B)    Continuing education
+
+       (1)    A parenting coordinator shall complete at least six hours per calendar year of
+              continuing education relating to children, mediation, or diversity. The diversity
+              training may include awareness and responsiveness; cultural and racial diversity;
+              and the effects of a parenting coordinator’s personal biases, values, and styles on
+              the parenting coordination process. The continuing education may include
+              continuing education for lawyers, social workers, psychologists, or other licensed
+              mental health professionals and professional development events that are
+              acceptable to the court or division appointing the parenting coordinator.
+
+       (2)    If a parenting coordinator fails to comply with the continuing education
+              requirement of division (B)(1) of this rule, the parenting coordinator shall not be
+              eligible to serve as a parenting coordinator until the requirement is satisfied.
+
+                                   Commentary (July 1, 2026)
+
+        Rule 16.64 was renumbered to Rule 6.44 as part of the 2026 restructuring of the Rules of
+Superintendence.
+
+
+
+Effective Date: January 1, 2023
+Amended: November 13, 2025
+RULE 6.45. Responsibilities of Court.
+
+(A)   General
+
+      In order to ensure only qualified individuals perform the duties of a parenting coordinator
+      and the requirements of Sup.R. 6.40 through 6.46 are met, a court of common pleas or
+      division of a court that elects to use parenting coordination shall do all of the following:
+
+             (1)     Establish screening procedures for the capacity of the parties to participate
+                     in parenting coordination;
+
+             (2)     Establish procedures for monitoring and evaluating parenting coordination
+                     to ensure the quality of the parenting coordinators to which cases are
+                     referred;
+
+             (3)     Develop a process and designate a person for accepting and considering
+                     written comments and complaints regarding the performance of parenting
+                     coordinators appointed by the court or division of the court. A copy of
+                     comments and complaints submitted to the court or division shall be
+                     provided to the parenting coordinator who is the subject of the complaint or
+                     comment. The parenting coordinator may submit a written response to the
+                     comment or complaint. The comment or complaint, and any written
+                     response submitted by the parenting coordinator, shall be forwarded to the
+                     administrative judge of the court or division, as applicable, for consideration
+                     and appropriate action. Dispositions by the court or division shall be made
+                     promptly. The court or division shall maintain a written record in the
+                     parenting coordinator’s file regarding the nature and disposition of any
+                     comment or complaint and shall notify the person making the comment or
+                     complaint and the parenting coordinator of the disposition.
+
+             (4)     Allow parenting coordination to proceed only if the parenting coordinator
+                     meets the qualifications, education, and training requirements of Sup.R.
+                     6.44;
+
+             (5)     Prohibit parenting coordination when domestic abuse or domestic violence
+                     is alleged, suspected, or present, unless all of the following conditions are
+                     satisfied:
+
+                            (a)     Screening is conducted, both before and during parenting
+                                    coordination, for domestic abuse and domestic violence and
+                                    for the capacity of the parties to engage in parenting
+                                    coordination;
+
+                            (b)     The person who is or may be the victim of domestic abuse
+                                    or domestic violence is fully informed about the parenting
+                                    coordination process; the right to decline participation in the
+                                     parenting coordination process; and, at the discretion of the
+                                     parenting coordinator, the right to have any other individuals
+                                     attend and participate in parenting coordination sessions;
+
+                             (c)     The parties have the capacity to participate in the parenting
+                                     coordination process without fear of coercion or control;
+
+                             (d)     The court has taken reasonable precautions to create a safe
+                                     parenting coordination environment for the parties and all
+                                     other persons involved in the parenting coordination
+                                     process;
+
+                             (e)     Procedures are in place for the parenting coordinator to
+                                     terminate a parenting coordination session if there is a threat
+                                     of domestic abuse, domestic violence, or coercion between
+                                     the parties.
+
+(B)    Appointment order
+
+       When ordering parenting coordination, the court or division shall issue an appointment
+       order that does all of the following:
+
+              (1)     Includes the name and contact information of the parenting coordinator and
+                      outlines the definition and purpose of the parenting coordinator;
+
+              (2)     Specifies the scope of authority of the parenting coordinator;
+
+              (3)     Sets forth the term of the appointment;
+
+              (4)     Allocates the responsibility for fees and expenses related to parenting
+                      coordination;
+
+              (5)     Addresses procedures for decision-making of the parenting coordinator;
+
+              (6)     Addresses procedures for objections to parenting coordinator decisions;
+
+              (7)     Addresses other provisions as the court considers necessary and
+                      appropriate;
+
+              (8)     Orders the parties to contact the parenting coordinator within the time
+                      period specified by the court.
+
+                                   Commentary (July 1, 2026)
+
+        Rule 16.65 was renumbered to Rule 6.45 as part of the 2026 restructuring of the Rules of
+Superintendence.
+Effective Date: January 1, 2023
+Amended: November 13, 2025
+RULE 6.46. Public Access.
+
+The files maintained by a parenting coordinator but not filed with a clerk or submitted to a court
+shall not be available for public access under Sup.R. 11.09 through 11.16.
+
+                                   Commentary (July 1, 2026)
+
+        Rule 16.66 was renumbered to Rule 6.46 as part of the 2026 restructuring of the Rules of
+Superintendence.
+
+
+
+Effective Date: January 1, 2023

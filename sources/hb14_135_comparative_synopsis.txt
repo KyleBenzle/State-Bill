@@ -1,0 +1,188 @@
+                                          OHIO LEGISLATIVE SERVICE COMMISSION
+                                                  Office of Research                         Legislative Budget
+                     www.lsc.ohio.gov               and Drafting                                   Office
+
+
+                                  Substitute Bill Comparative Synopsis
+                                                                 Sub. H.B. 14
+                                                          135th General Assembly
+                                                            House Families & Aging
+
+ Chenwei Zhang, Attorney
+
+       This table summarizes how the substitute version of the bill differs from the As Re-referred by House Rules and Reference
+version. It addresses only the topics on which the two versions differ substantively. It does not list topics on which the two bills are
+substantively the same.
+
+                          Previous Version                                                        Latest Version
+           (As Re-referred by House Rules and Reference)                                           (l_135_1898)
+
+Evidentiary standard
+
+Provides that the evidentiary standard is “clear and convincing” for    Changes the standard from “clear and convincing” to “a
+determining the following:                                              preponderance of the evidence” (R.C. 3109.0410, 3109.0412(A),
+                                                                        3109.0420, 3109.0423, 3109.0424, 3109.0425, 3109.0436(B),
+       Rebutting a presumption that a shared parenting agreement is
+                                                                        3109.0440(B), 3109.0451, and 3109.0483(C)).
+        in the best interest of the child;
+       Rebutting a presumption that equal decision-making rights and
+        responsibilities between the parents, with both parents
+        remaining legal custodians and residential parents, is in the
+Office of Research and Drafting                                             LSC                         Legislative Budget Office
+
+
+
+                            Previous Version                                      Latest Version
+             (As Re-referred by House Rules and Reference)                         (l_135_1898)
+        best interest of the child, when the parents do not submit a
+        shared parenting agreement;
+       Rebutting a presumption that equal parenting time is in the
+        best interest of the child, when the parents do not submit a
+        shared parenting agreement;
+       Whether it would be detrimental to the child to incorporate
+        into a temporary order allocating parental rights and
+        responsibilities (temporary order) the terms that the parents
+        jointly requested;
+       Whether it would be detrimental to the child to require equal
+        parenting time or equal decision-making rights and
+        responsibilities when the parents do not agree on the terms of
+        a temporary order;
+       Whether a court should terminate a shared parenting order when
+        one parent demonstrates a pattern of willfully creating conflict to
+        disrupt a shared parenting agreement, if the court determines that
+        it is unable to enter a shared parenting order that reduces areas of
+        conflict caused by the disruptive parent and the disruptive behavior
+        is a material change in circumstances;
+       When a court has not issued a shared parenting or parental rights
+        and responsibilities order under which both parents are the
+        residential parent and legal custodian of the child, whether it would
+        be detrimental to the child to permit the parent who is not the
+        residential parent to have parenting time with the child;
+       When a temporary order issued as a result of a parent’s active
+        military service is terminated, whether a parent has
+        demonstrated that resuming the prior order would be
+        detrimental to the child.
+(R.C. 3109.0410, 3109.0412(A), 3109.0420, 3109.0423, 3109.0424,
+
+
+P a g e |2                                                                           Sub. H.B. 14, Sub. Bill Comparative Synopsis
+Office of Research and Drafting                                            LSC                                                      Legislative Budget Office
+
+
+
+                            Previous Version                                                              Latest Version
+             (As Re-referred by House Rules and Reference)                                                 (l_135_1898)
+3109.0425, 3109.0436(B), 3109.0440(B), 3109.0451, and
+3109.0483(C).)
+
+Equal parenting time and decision-making rights and responsibilities
+
+Specifies throughout the bill “equal parenting time” and “equal              Refers instead to “substantially equal” parenting time and decision-
+decision-making rights and responsibilities” regarding the policy of the     making rights and responsibilities throughout the bill (R.C. 3109.0440,
+state, parental rights and responsibilities orders, temporary orders,        3109.0420, 3109.0421, 3109.0422, 3109.0424, 3109.0425, 3109.0426,
+and parenting time orders (R.C. 3109.0440, 3109.0420, 3109.0421,             3109.0436(B), 3109.0467(D), and 3109.12(B)(1)).
+3109.0422, 3109.0424, 3109.0425, 3109.0426, 3109.0436(B),
+3109.0467(D), and 3109.12(B)(1)).
+
+Exception to equal parenting time in temporary orders for nursing mothers
+
+No provision.                                                                Creates a reasonable exception to the requirement of substantially
+                                                                             equal parenting time under a temporary order if the child is 12 months
+                                                                             of age or younger and the mother is nursing the child.
+                                                                             Specifies that under this circumstance, a parent does not need to
+                                                                             object and prove, and a court does not need to find, that substantially
+                                                                             equal parenting time would be detrimental to the child in order for the
+                                                                             court to allocate the majority of the parenting time to the mother.
+                                                                             (R.C. 3109.0436(B)(2)(a) to (b).)
+
+Clarification of court determination
+
+Requires that when the parents have not entered into a shared                Same, but limits the “other circumstances” to those “as determined by
+parenting agreement, each parent must provide to the court, among            the court” (R.C. 3109.0419(A)(4)).
+other information, “[a]ny other circumstances that are relevant to
+determining the allocation of parental rights and responsibilities and
+an appropriate parenting time schedule to maximize the child’s time
+with each parent” (R.C. 3109.0419(A)(4)).
+
+
+P a g e |3                                                                                                       Sub. H.B. 14, Sub. Bill Comparative Synopsis
+Office of Research and Drafting                                         LSC                                                 Legislative Budget Office
+
+
+
+                            Previous Version                                                          Latest Version
+             (As Re-referred by House Rules and Reference)                                             (l_135_1898)
+
+Requires the court, in determining whether to grant parenting time or     Same, but limits the “other circumstances” to those “as determined by
+companionship or visitation rights, establishing a specific parenting     the court” (R.C. 3109.0453(P)).
+time or visitation schedule, and determining other parenting time or
+visitation matters, to consider all factors established in the bill,
+including “[a]ny other factor in the best interest of the
+child.” (R.C. 3109.0453(P)).
+
+Court inquiry to parents before determining whether a presumption is rebutted
+
+No provision.                                                             Requires a court, before determining whether a presumption of
+                                                                          substantially equal decision-making rights and responsibilities or
+                                                                          substantially equal parenting time is rebutted, to ask each parent
+                                                                          whether that parent is requesting substantially equal decision-making
+                                                                          rights and responsibilities or substantially equal parenting time,
+                                                                          respectively.
+                                                                          (R.C. 3109.0420.)
+
+Court factors for determining whether a presumption is rebutted
+
+No provision.                                                             Adds as a factor for a court to consider, when determining whether a
+                                                                          presumption of substantially equal decision-making rights and
+                                                                          responsibilities or substantially equal parenting time has been
+                                                                          rebutted, the response of each parent to the court’s inquiry about
+                                                                          whether the parent is requesting substantially equal decision-making
+                                                                          rights and responsibilities or substantially equal parenting time,
+                                                                          respectively.
+                                                                          (R.C. 3109.0421(F) and 3109.0422(K).)
+
+
+
+
+P a g e |4                                                                                               Sub. H.B. 14, Sub. Bill Comparative Synopsis
+ Office of Research and Drafting                                    LSC                                                  Legislative Budget Office
+
+
+
+                                   Previous Version                                                Latest Version
+                    (As Re-referred by House Rules and Reference)                                   (l_135_1898)
+
+ Court inquiry to parents before determining whether parenting time for a nonresidential parent would be detrimental
+
+ No provision.                                                         Requires a court, before determining whether it would be detrimental
+                                                                       to permit a parent who is not the residential parent and legal
+                                                                       custodian of a child under a parental rights and responsibilities order
+                                                                       to have parenting time with the child, to ask each parent whether that
+                                                                       parent is requesting substantially equal parenting time.
+                                                                       (R.C. 3109.0451.)
+
+ Court inquiry to parents before allocating parenting time when child is born to an unmarried woman
+
+ No provision.                                                         Prohibits a court, when the child is born to an unmarried woman, from
+                                                                       allocating unequal parenting time unless it inquires of each parent
+                                                                       whether that parent is requesting substantially equal parenting time.
+                                                                       (R.C. 3109.12(B)(1).)
+
+ Court factor for determining parenting time issues
+
+ No provision.                                                         Adds the response of each parent to a court’s inquiry about whether
+                                                                       the parent is requesting substantially equal parenting time as a factor
+                                                                       for the court to consider when doing any of the following regarding a
+                                                                       nonresidential parent or when a child is born to an unmarried mother:
+                                                                              Determining whether to grant parenting time;
+                                                                              Establishing a parenting time schedule;
+                                                                              Determining other parenting time matters.
+                                                                       (R.C. 3109.0453(P).)
+
+
+SUHB0014-1-135/ts
+
+
+
+ P a g e |5                                                                                           Sub. H.B. 14, Sub. Bill Comparative Synopsis
+

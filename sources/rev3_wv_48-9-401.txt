@@ -1,0 +1,14 @@
+Source: https://code.wvlegislature.gov/48-9-401/
+Retrieved: 2026-10-04
+
+§48-9-401. Modification upon showing of changed circumstances or harm.
+
+(a) Except as provided in §48-9-402 or §48-9-403 of this code, a court shall modify a parenting plan order if it finds, on the basis of facts that were not known or have arisen since the entry of the prior order and were not anticipated in the prior order, that a substantial change has occurred in the circumstances of the child or of one or both parents and a modification is necessary to serve the best interests of the child.
+(b) In exceptional circumstances, a court may modify a parenting plan if it finds that the plan is not working as contemplated and in some specific way is manifestly harmful to the child, even if a substantial change of circumstances has not occurred.
+(c) Unless the parents have agreed otherwise, the following circumstances do not justify a significant modification of a parenting plan except where harm to the child is shown:
+(1) Circumstances resulting in an involuntary loss of income, by loss of employment or otherwise, affecting the parent’s economic status;
+(2) A parent’s remarriage or cohabitation, except under the circumstances set forth in §48-9-209(f) of this code; and
+(3) Choice of reasonable caretaking arrangements for the child by a legal parent, including the child’s placement in day care.
+(d) For purposes of subsection (a) of this section, the occurrence or worsening of a limiting factor, as defined in §48-9-209(a) of this code, after a parenting plan has been ordered by the court constitutes a substantial change of circumstances and measures shall be ordered pursuant to §48-9-209 of this code to protect the child or the child’s parent.
+
+Previous§48-9-303. Interview of the child by the court.

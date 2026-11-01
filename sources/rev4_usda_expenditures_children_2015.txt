@@ -1,0 +1,1866 @@
+               United States
+               Department of
+               Agriculture
+
+
+Center for
+Nutrition Policy and
+Promotion
+                         Expenditures on Children
+Miscellaneous Report
+No. 1528-2015
+                         by Families, 2015
+                         Mark Lino
+January 2017
+Revised March 2017       Kevin Kuczynski
+                         Nestor Rodriguez
+                         TusaRebecca Schap
+Center for Nutrition Policy and Promotion
+www.cnpp.usda.gov
+
+Access this report online:
+https://www.cnpp.usda.gov/sites/default/files/expenditures_on_children_by_families/crc2015.pdf
+
+Recommended citation format for this publication:
+Lino, M., Kuczynski, K., Rodriguez, N., and Schap, T. (2017). Expenditures on Children by
+Families, 2015. Miscellaneous Publication No. 1528-2015. U.S. Department of Agriculture,
+Center for Nutrition Policy and Promotion.
+
+Editor’s Note (March 8, 2017): Child care and education values for ages 0-2 and 3-5 years for
+the regional estimates in tables 2-5 have been revised.
+
+
+
+
+In accordance with Federal civil rights law and U.S. Department of Agriculture (USDA) civil rights regulations and policies, the
+USDA, its Agencies, offices, and employees, and institutions participating in or administering USDA programs are prohibited from
+discriminating based on race, color, national origin, religion, sex, gender identity (including gender expression), sexual orientation,
+disability, age, marital status, family/parental status, income derived from a public assistance program, political beliefs, or reprisal or
+retaliation for prior civil rights activity, in any program or activity conducted or funded by USDA (not all bases apply to all programs).
+Remedies and complaint filing deadlines vary by program or incident.
+
+Persons with disabilities who require alternative means of communication for program information (e.g., Braille, large print,
+audiotape, American Sign Language, etc.) should contact the responsible Agency or USDA’s TARGET Center at (202)
+720-2600 (voice and TTY) or contact USDA through the Federal Relay Service at (800) 877-8339. Additionally, program
+information may be made available in languages other than English.
+
+To file a program discrimination complaint, complete the USDA Program Discrimination Complaint Form, AD-3027, found
+online at How to File a Program Discrimination Complaint and at any USDA office or write a letter addressed to USDA
+and provide in the letter all of the information requested in the form. To request a copy of the complaint form, call (866)
+632-9992. Submit your completed form or letter to USDA by: (1) mail: U.S. Department of Agriculture, Office of the Assistant
+Secretary for Civil Rights, 1400 Independence Avenue, SW, Washington, D.C. 20250-9410; (2) fax: (202) 690-7442; or (3)
+email: program.intake@usda.gov.
+
+USDA is an equal opportunity provider, employer, and lender.
+Expenditures on Children by
+Families, 2015
+Mark Lino, PhD
+Kevin Kuczynski, MS RD
+Nestor Rodriguez, PhD
+TusaRebecca Schap, PhD MPH RD
+
+
+Abstract
+Since 1960, the U.S. Department of Agriculture has provided estimates of expenditures on children
+from birth through age 17. This technical report presents the most recent estimates for married-
+couple and single-parent families using data from the 2011-15 Consumer Expenditure Survey (all
+data presented in 2015 dollars). Data and methods used in calculating annual child-rearing expenses
+are described. Estimates are provided for married-couple and single-parent families with two children
+for major components of the budget by age of child, family income, and region of residence. For the
+overall United States, annual child-rearing expense estimates ranged between $12,350 and $13,900
+for a child in a two-child, married-couple family in the middle-income group. Adjustment factors for
+households with less than or greater than two children are also provided. Expenses vary considerably
+by household income level, region, and composition, emphasizing that a single estimate may not be
+applicable to all families. Results of this study may be of use in developing State child support and
+foster care guidelines, as well as public health and family-centered educational programs.
+
+
+
+
+                                        i
+                    Expenditures on Children by Families, 2015
+Executive Summary
+Since 1960, the U.S. Department of Agriculture (USDA) has provided estimates of annual expen-
+ditures on children from birth through age 17. This technical report presents the 2015 estimates for
+married-couple and single-parent families. Results are shown in tables 1-7 at the end of this report.
+Expenditures are provided by age of children, household income level, major budgetary component
+(housing, food, etc.), and region (for married-couple families).
+
+
+Methods
+Data used to estimate expenditures on children are from the 2011-15 Consumer Expenditure Survey‒
+Interview (CE), administered by the U.S. Census Bureau, U.S. Department of Commerce, under
+contract with the Bureau of Labor Statistics (BLS), U.S. Department of Labor. This survey is the most
+comprehensive source of information on household expenditures available at the national level. The
+sample consisted of 23,297 married-couple households and 7,030 single-parent households and was
+weighted to reflect the U.S. population of interest by using BLS weighting methods.
+
+
+The CE collects overall household expenditure data for some budgetary components (housing, food,
+transportation, health care, and miscellaneous goods and services) and child-specific expenditure data for
+other components (clothing, child care, and education). Child-specific expenses were allocated directly
+to children. Food and health care expenses were allocated to children based on findings from Federal
+surveys on children’s budget shares. Family-related transportation expenses and miscellaneous expenses
+were allocated by using a per capita method. This method is preferable over a marginal cost method that
+measures child-rearing expenditures as the difference in expenses between equivalent couples with and
+without children. The average cost of an additional bedroom approach was used to estimate housing
+expenses on a child. All data are presented in 2015 dollars for comparison across years.
+
+
+Selected Results
+
+   • Annual child-rearing expenses varied considerably by household income level and generally
+      increased with age of the child. For a child in a two-child (the standard in the United States),
+      married-couple family with before-tax income less than $59,200, annual expenses ranged
+      from $9,330 to $9,980 (depending on age of the child). For the same type of households with
+      before-tax income between $59,200 and $107,400, annual expenses ranged from $12,350 to
+      $13,900 (depending on age of the child). And for the same type of households with before-tax
+      income over $107,400, annual expenses ranged from $19,380 to $23,380 (depending on age
+      of the child). These income groups represent the lower, middle, and upper thirds of the income
+      distribution.
+
+   • The estimated expense to raise a child from birth through age 17 is $233,610 (in 2015 dollars)
+      for a middle-income (before-tax income between $59,200 and $107,400), married-couple family
+      with two children.
+
+   • As a proportion of total child-rearing expenses, housing accounted for the largest share across
+      income groups, comprising 26 to 33 percent of total expenses on a child in a two-child,
+      married-couple family. For families in the middle-income group, food and child care/education
+      (for those with the expense) were the next largest average expenditures on a child, accounting for
+      18 and 16 percent of child-rearing expenses, respectively.
+
+
+                                         ii
+                     Expenditures on Children by Families, 2015
+   • Overall, married-couple families in the urban Northeast had the highest child-rearing expenses,
+       followed by similar families in the urban West and urban South. Married-couple families in the urban
+       Midwest and rural areas had the lowest child-rearing expenses.
+
+   • Expenditures by married-couple households with only one child averaged 27 percent more than
+       expenditures per child in a two-child, married-couple family. Expenditures by married-couple
+       households with three or more children averaged 24 percent less per child than expenditures on
+       each child in a two-child, married-couple family.
+
+   • Child-rearing expenses of single-parent households with a before-tax income less than $59,200
+       were about the same as those of married-couple households in the same income group. Most
+       single-parent households were in this income group (compared with about one-third of
+       married-couple families).
+
+   • Expenditures between two 5-year periods, 2010-14 and 2011-15, were determined using the
+       methods described in this report. The results are referred to as the 2014 and 2015 results.
+       Expenditures on a child increased 3.0 percent from 2014 to 2015. The increase in child-rearing
+       expenditures exceeded the inflation rate during this time, which was negligible (0.1 percent).
+       However, the percentage increase in total child-rearing expenses from 2014 to 2015 is below the
+       historic annual rate increase of 4.3 percent since 1960.
+
+
+Other Expenditures on Children
+Expenditures for major budgetary components estimated in this study consisted of direct parental
+expenses made on children from birth through age 17. Notably, these expenditures exclude college costs
+and other parental expenses on children after age 17. Indirect costs involved in child rearing by parents
+(time costs and foregone earnings and career opportunities) are also not included in the estimates.
+
+
+Conclusion
+This technical report presents the most recent child-rearing expense estimates for married-couple and
+single-parent families using data from the 2011-15 Consumer Expenditure Survey. Expenditures for
+major budgetary components estimated in this study consisted of direct parental expenses made on
+children from birth through age 17. The 2015 estimate for child-rearing expenses from birth through
+age 17 in a two-child, middle-income, married-couple family is $233,610. Expenses vary considerably
+by household income level and composition. The large variation in expenditures on children under-
+scores that there is not a standard cost to raise a child in the United States. The direct and indirect costs
+of raising children are considerable, absorbing a major share of the household budget.
+
+
+
+
+                                         iii
+                     Expenditures on Children by Families, 2015
+Contents
+Executive Summary.......................................................................................................................... i
+Introduction. .....................................................................................................................................1
+Estimating and Allocating Expenditures on Children. .................................................................2
+    Data..............................................................................................................................................2
+    Determining Food, Transportation, Health Care, Clothing,
+    Child Care and Education, and Miscellaneous Expenses on Children........................................4
+    Determining Housing Expenses on Children. .............................................................................9
+Results..............................................................................................................................................10
+     Married-Couple Families..........................................................................................................10
+    Single-Parent Families. .............................................................................................................13
+Adjustments for Older Children and Household Size.................................................................14
+Alternative Estimates of Expenditures on Children. ..................................................................16
+Estimating Future Costs. ...............................................................................................................19
+Expenditures Not Included............................................................................................................20
+Conclusion.......................................................................................................................................22
+References........................................................................................................................................22
+
+
+
+
+                                                            iv
+                               Expenditures on Children by Families, 2015
+Expenditures on Children by Families, 2015
+
+Introduction
+The U.S. Department of Agriculture (USDA) has provided estimates of expenditures on children
+from birth through age 17 since 1960. This report presents 2015 estimated child-rearing expenses by
+married-couple and single-parent families. The estimates for 2015 are shown in tables 1-7. These
+estimates may be used in developing State child support guidelines and foster care payments, as well
+as in public health and family-centered education programs. The 2015 USDA estimates are not directly
+comparable to previous estimates (USDA, 1981; Lino, 2008; Lino, 2014) due to methodological
+changes in the analysis. However, a comparison between analyses for 2010-14 expenditure estimates
+in 2014 dollars and 2011-15 expenditure estimates in 2015 dollars is provided.
+
+
+For married-couple families, child-rearing expenses are presented for three income groups and for
+single-parent families, two income groups. To adjust partially for price differentials and varying
+patterns of expenditures, USDA also provides estimates for married-couple families in various regions,
+as well as the United States overall. For single-parent families, estimates are provided only for the
+United States overall because of limitations in sample size. For all families, expenditures on children
+are estimated for the major budgetary components: housing, food, transportation, clothing, health care,
+child care and education, and miscellaneous goods and services (entertainment, personal care items, etc.).
+
+
+This report presents the USDA methodology for deriving expenditures on children and the results.
+First, data used in determining child-rearing expenditures are described. These data contain overall
+household expenditures for some budgetary components and child-specific expenditures for other
+components. Overall household expenditures must be allocated among family members to determine
+expenses on children. Second, the allocation methods used by USDA are explained, along with general
+estimation techniques. Third, an overview of the results is given. Fourth, a comparison between
+USDA estimates on child-rearing expenses and the results of alternative methodologies on estimating
+child-rearing expenses is discussed. The report ends with an explanation of how future child-rearing
+expenses may be determined and a discussion on other expenses on children that are not included in
+this report.
+
+
+This report presents the latest information on USDA’s family expenditures on children series using the
+Consumer Expenditure Survey (CE) from the Bureau of Labor Statistics (BLS) (www.bls.gov/cex).
+Beginning with this report, it is the intention of the series to use the 5 most current years of the CE
+adjusted for inflation using the Consumer Price Index-All Urban Consumers (CPI-U). The previous
+six reports used base data from 2005-06 and were updated with the CPI-U through 2013. Now, with
+the annual use of the most recent data, the series will fully reflect changes in expenditure patterns with
+each subsequent release. The previous reports did not fully capture changes in expenditure patterns
+over time. It should be noted that the data presented in the current report reflect spending patterns that
+occurred after the Recession of 2007-09.
+
+
+For these reasons, the latest child-rearing expense estimates are not directly comparable to the last
+published estimates from USDA pertaining to 2013. A more direct comparison would be between the
+present estimates using the 2011-15 CE (in 2015 dollars) to estimates derived using the same meth-
+odology for the 2010-14 CE (in 2014 dollars). A comparison of child-rearing expense results for a
+middle-income family between these two time points is included in Box 1.
+                                         1
+                     Expenditures on Children by Families, 2015
+  Box 1: A Comparison of Expenditures on Children Between 2014 and 2015
+  Expenditures on a child in a middle-income, married-couple family between two 5-year periods,
+  2010-14 and 2011-15, were determined using the methods described in this report using the
+  Consumer Expenditure Survey (see data section of this report for a description of the survey). The
+  2010-14 results are reported in 2014 dollars and the 2011-15 results are reported in 2015 dollars.
+  The results are referred to as the 2014 and 2015 results, respectively.
+
+
+   Dollar change in average annual expenditures per child between 2014 and 2015
+   Overall expenses                                                            +$380
+   Housing expenses                                                            +$130
+   Food expenses                                                               +$60
+   Transportation expenses                                                     -$140
+   Clothing expenses                                                           +$130
+   Health care expenses                                                        +$115
+   Child care and education expenses                                           +$100
+   Miscellaneous expenses                                                         0
+
+
+  Expenditures on a child increased $380 from 2014 to 2015. The increase in child-rearing expendi-
+  tures exceeded the inflation rate during this time, which was negligible (0.1 percent). However, the
+  percentage increase in total child-rearing expenses from 2014 to 2015 is below the historic annual
+  rate increase of 4.3 percent since 1960.
+
+
+  The budgetary components with the highest dollar increases were housing, clothing, and health
+  care. Clothing expenses tend to vary more from year to year, as compared with the other child-
+  rearing expenses, reflecting changing tastes and trends. The increase in health care expenses has
+  been documented in the CE data (Foster, 2016). On an annual basis, the increase in health care
+  expenses amounts to about $115 for an average child.
+
+
+
+
+Estimating and Allocating Expenditures on Children
+Data
+Since 1960, the first year USDA produced child-rearing expense estimates, the Consumer Expenditure
+Survey (CE) from the Bureau of Labor Statistics (www.bls.gov/cex) has been used as the basis for
+the estimates. The CE is also used in alternative methodologies on estimating child-rearing expenses.
+CE data are the most comprehensive source of information on household expenditures available at the
+national level, containing expenditure data for housing, food, transportation, clothing, health care, child
+care and education, and miscellaneous goods and services. Box 2 describes the specific items in each
+expenditure component.
+
+
+
+
+                                         2
+                     Expenditures on Children by Families, 2015
+  Box 2: Categories of Household Expenditures
+
+  Housing expenses consist of shelter (mortgage payments, property taxes, or rent; maintenance
+  and repairs; and insurance), utilities (gas, electricity, fuel, cell/telephone, and water), and house
+  furnishings and equipment (furniture, floor coverings, major appliances, and small appliances).
+  Mortgage payments included principal and interest payments. Overall, principal payments constituted
+  11 percent of overall housing expenses.
+
+
+  Food expenses consist of food and nonalcoholic beverages purchased at grocery, convenience,
+  and specialty stores, including purchases with Supplemental Nutrition Assistance Program (SNAP)
+  benefits; dining at restaurants; and household expenditures on school meals.
+
+
+  Transportation expenses consist of the monthly payments on vehicle loans (principal and
+  interest), down payments, gasoline and motor oil, maintenance and repairs, insurance, and public
+  transportation (including airline fares).
+
+
+  Clothing expenses consist of children’s apparel such as diapers, shirts, pants, dresses, and suits;
+  footwear; and clothing services such as alterations and repair.
+
+
+  Health care expenses consist of medical and dental services not covered by insurance, prescription
+  drugs and medical supplies not covered by insurance, and health insurance premiums not paid by
+  an employer or other organization. Medical services include those related to physical and mental
+  health.
+
+
+  Child care and education expenses consist of day care tuition and supplies; babysitting; and
+  elementary and high school tuition, books, fees, and supplies. Books, fees, and supplies may be for
+  private or public schools.
+
+
+  Miscellaneous expenses consist of personal care items (haircuts, toothbrushes, etc.), entertainment
+  (portable media players, sports equipment, dance lessons, computer games, etc.), and reading
+  materials (nonschool books, magazines, etc.).
+
+
+USDA’s latest estimates are based on data from the 2011-15 CE‒Interview Survey component.
+Administered by the U.S. Census Bureau, U.S. Department of Commerce, under contract with BLS,
+U.S. Department of Labor, the CE collects information on characteristics, income, and expenditures
+of consumer units. For this study, the terms “households” and “families” are used for consumer units.
+During most of 2011-15, about 7,000 households were interviewed each quarter, bringing the total number
+of interviews in each year’s survey to over 28,000. Due to the rotating sample design of the Interview
+Survey, each sample household could be interviewed up to four consecutive quarters over the 5-year
+period. Households report expenditures for the 3 months prior to the interview month. Since the house-
+holds interviewed each quarter are deemed an independent sample by BLS, the 3-month expenditures they
+report may be annualized (U.S. Department of Labor, 2016a) for analytical purposes.
+
+
+
+
+                                        3
+                    Expenditures on Children by Families, 2015
+Child-rearing expenses of 23,297 married-couple1 and 7,030 single-parent families where the parents
+were ages 20 to 60 were examined. These households had at least one child age 17 or under in the
+household, and there were no other related or unrelated people present in the household. Most single-
+parent families (85 percent) were headed by a woman. Methods recommended by BLS were used to
+weight all data to reflect the U.S. population of interest.
+
+
+Although based on 2011-15 data, all data are presented in 2015 dollars. The 2011-14 income and
+expenditure data were updated to 2015 dollars by using the Consumer Price Index-All Urban Consumers
+(CPI-U) prior to analysis. Income levels of households were adjusted for inflation to 2015 dollars by
+using the all-items category of the CPI-U, and expenditures were updated by using the CPI-U for the
+corresponding budgetary component (e.g., the CPI-U for housing, food, etc.). Regional CPI-Us were
+used to update the regional estimates, including household income, to 2015 dollars. For rural areas, the
+CPI-U for all nonmetropolitan urban areas was used because a rural price index is not published.
+
+
+Even though the CE provides the best available and most comprehensive data for estimating spending on
+children, it has its limitations. The CE contains overall household expenditure data for some budgetary
+components (housing, food, transportation, health care, and miscellaneous goods and services) and
+child-specific expenditure data for other components (children’s clothing, child care, and education).
+Thus, to estimate child-rearing expenses, these household-level expenditures must be allocated among
+family members. The next sections describe the methodology used by USDA to allocate these household
+expenditures. Two different models were used, one to determine food, transportation, health care,
+clothing, child care and education, and miscellaneous expenses on children, and the other to determine
+housing expenses on children.
+
+
+Determining Food, Transportation, Health Care, Clothing, Child
+Care and Education, and Miscellaneous Expenses on Children
+For the budgetary components of food, transportation, health care, clothing, child care and education,
+and miscellaneous expenses, multivariate analyses were used to estimate household and child-specific
+expenditures. These analyses accounted for income level, family size, and age of the youngest child
+so that estimates could be made for families with these varying characteristics. The estimation model,2
+conducted separately for married-couple and single-parent households, for the overall United States was:
+
+
+(1) Ei = f(Y, HS, CA)
+     where:
+     Ei = household expenditures on a particular budgetary component (food, transportation, health
+          care, children’s clothing, child care and education, and miscellaneous goods and services)
+     Y = household before-tax income (divided into three categorical variable groups for married-
+         couple families: <$59,200, $59,200 to $107,400, and >$107,400 in 2015 dollars, and two
+         groups for single-parent families: <$59,200 and $59,200 or more in 2015 dollars)
+
+
+
+1
+ For the 2011-13 CE data, married-couple families were defined as only opposite-sex, married couples; for the
+2014-15 CE, married-couple families were defined as both opposite-sex and same-sex married couples.
+2
+  The model was used to obtain predicted values of expenditures by families accounting for income, household
+size, children’s age, and region (when appropriate). Since data were weighted, almost all variables were statistically
+significant. Model results are available on request.
+                                              4
+                       Expenditures on Children by Families, 2015
+     HS = number of children in the household (divided into three categorical variable groups: 1 child,
+          2 children, and 3 or more children)
+     CA = age of the youngest child (divided into six categorical variable age groups: 0-2, 3-5, 6-8,
+          9-11, 12-14, and 15-17)
+For the regional estimates of expenditures on children in married-couple households, the model was:
+(2) Ei = f(Y, HS, CA, RG)
+     where Ei through CA are the same as before and
+     RG = region (divided into five categorical variable regions: urban Northeast, urban South,
+          urban Midwest, urban West, and rural areas)
+
+
+Ordinary Least Squares analysis was used to estimate expenditures on food, transportation, child care
+and education, and miscellaneous goods and services. For the child care and education category, only
+families with the expense were examined. Hence, the sample size was smaller for the child care/
+education analysis. The rationale for only looking at families with the expense is discussed in the next
+sections. For the six other budgetary components, the entire sample was used. Tobit analysis was used
+to estimate expenditures on health care and children’s clothing because although most households
+had an expenditure on these budgetary components, over 10 percent reported zero expenses.3 Because
+of these zero expenditures, Tobit analysis yields statistically better (unbiased) estimates than does
+Ordinary Least Squares analysis. The procedure outlined by McDonald and Moffitt (1980) was used to
+transform the estimates resulting from the Tobit analysis into dollars. The coefficients of the estimates
+were used to calculate the expenditures for the budgetary components for each income group, age of
+the younger child, and region (for married-couple families) for a two-child family. Households with
+two children were selected as the standard because two children was the average for married-couple and
+single-parent families in 2011-15 based on CE data. Age of the older child was not accounted for so
+results would be applicable to families with an older child in general and not of a set age. Also, addi-
+tional analysis focused on the older child (see “Adjustments for Older Children and Household Size”
+section). On average, the older child was 4 years older than the younger child and under age 18.
+
+
+The three income groups of married-couple households (before-tax income under $59,200, between
+$59,200 and $107,400, and over $107,400 in 2015 dollars) were determined by dividing the sample of
+married-couple families for the overall United States into equal thirds. Income intervals for 2011-15 data
+are consistent with previous USDA studies. These three income groups will be referred to as the lower
+(although most families in this group are above the poverty threshold), middle, and higher income
+groups. These income groups were also used for the regional analysis of child-rearing expenditures.
+Income groups of single-parent households (before-tax income under $59,200 and $59,200 and over in
+2015 dollars) were selected to correspond with the income groups used for married-couple households
+for comparison purposes, that is, to see how child-rearing expenditures differed between married-couple
+and single-parent households in the same income group. This income includes child-support payments.
+The two higher income groups used with married-couple families were combined in the case of single-
+parent families because only 17 percent of these households had a before-tax income of $59,200 and
+over.
+
+
+
+
+3
+  After examining various estimation techniques in place of the Tobit model, it was decided that the Tobit model
+yielded the best estimates. Future analysis and subsequent reports will continue to examine alternative models to
+the Tobit model to see what model specification yields the best estimates.
+                                            5
+                      Expenditures on Children by Families, 2015
+Estimates were made for six age categories of younger children (0-2, 3-5, 6-8, 9-11, 12-14, and 15-17
+years) because spending on children differs by age of the child. These age categories approximate the
+different stages of childhood and have historically been used. The focus was on the younger child in a
+household because the older child was sometimes over age 17. If the older child had been selected as
+the household member of interest, expenditures may be different. Also, if households with one or three
+or more children had been selected, per-child expenditures would reflect the differences in family size.
+As the number of children in a family increases, the allocation of resources among children changes.
+To adjust expenditures for the older child and number of children, see section “Adjustments for Older
+Children and Household Size.”
+
+
+For married-couple families, estimates are provided for the urban Northeast, urban South, urban Midwest,
+urban West, and rural areas overall, as well as for the overall United States.Urban areas are defined in the
+CE as Metropolitan Statistical Areas (MSAs) and other places of 2,500 or more people outside an MSA;
+rural areas are places of fewer than 2,500 people outside an MSA. Sample sizes were not sufficient to
+conduct regional analysis for single-parent families. Once the expenditures on the budgetary components
+were estimated, they were allocated to children. The allocation methods varied by budgetary component
+and are described below.
+
+
+                                   Clothing. The CE collected data on how much families are spending on
+                                   children’s shoes, pants, dresses, and so on. Hence, estimated expendi-
+                                   tures for clothing may be readily assigned to children. It was assumed
+                                   these expenses were equally allocated to each child in the two-child
+                                   household when both children were less than age 18. CE data on
+                                   children’s clothing expenditures were for children age 15 and under.
+                                   For the estimates, it was assumed the clothing expenditures of a 16- or
+                                   17-year-old were similar to those of a 15-year-old; thus, these older
+                                   teenagers were assigned the expenditures of a 15-year-old.
+
+
+                                   Child care and education. Child care and education was the only
+                                   budgetary component for which more than half of all households
+                                   reported no expenditure. For married-couple families, only 26 percent
+                                   in the lower income group had this expenditure, compared with 41 and
+                                   52 percent in the middle and higher income groups; for single-parent
+                                   families, only 30 percent of the lower income group and 41 percent of
+                                   the higher income group had child care and education expenses.
+Thus, the estimates were derived using three collapsed age categories (0-5, 6-11, and 12-17 years) given
+the reduced sample size of families with the expense. For families without child care/education expenses,
+this budgetary component would equal to zero. Only families with the expense were used in the analysis
+here in order to make the estimates applicable to those with child care or education expenditures. Again,
+for all other budgetary components, the entire sample was used for the estimates.
+
+
+Participants in the CE were asked about their child-specific expenditures for child care and education.
+It was assumed these expenses were equally allocated to each child in the two-child household when
+both children were less than age 18. For preschool children, most of this budgetary-component expen-
+diture is for child care, whereas for older children, most of this expenditure is for education. The two
+components are combined; otherwise, many age categories would have a negligible expense either for
+one or the other. The estimated child care figures include families with sporadic babysitting, as well as
+part- and full-time child care; therefore, these expenses may appear low when compared to full-time
+                                         6
+                     Expenditures on Children by Families, 2015
+care expenses that many parents experience. A more detailed analysis of average weekly child care
+expenses for families with the expense, particularly part- and full-time care, is included in the U.S.
+Census Bureau report “Who’s Minding the Kids” (2011). The Census child care expenses are higher
+than those derived from the CE data because the former only examines expenditures incurred on a regular
+basis; sporadic expenses such as babysitting are not included. Similarly, the CE education expenses
+include families with private school tuition expenses as well as families sending children to public
+school, but incurring book and school supply expenses. For families with private school tuition, child
+care and education expenses are likely higher than those reported here.
+
+
+                                    Food. The CE collected expenditures on food at the household level.
+                                    Thus, data from the December 2015 USDA Food Plans: Cost of Food
+                                    at Home (U.S. Department of Agriculture, 2016) were used to
+                                    calculate the shares of total household food expenses spent on children.
+                                    Specifically, shares from the USDA Low-Cost, Moderate-Cost, and
+                                    Liberal Food Plans were applied to each successive income group.
+                                    These shares were used to apportion household food expenses by age
+                                    of the household member, household size, and income. The USDA
+                                    food plans are based on household food use and individual intake, as
+                                    well as food expenditure data. The food plans also reflect the cost of
+                                    a nutritious diet, which accounts for food costs, nutritional needs, and
+                                    consumption behavior. These food budget shares, as derived from
+                                    the USDA food plans, were applied to estimated CE household food
+                                    expenditures to determine food expenses on children. The shares of the
+food budget spent on children ranged between 17 to 25 percent per child for a child in a two-child, married-
+couple family. For a two-child, single-parent family, these shares are higher, 25 to 34 percent per child,
+because there is one less person in a single-parent family. The share of the food budget spent on children
+generally increased with the age of the child with little variation by household income level.
+
+
+                                   Health care. Expenditures on health care were collected at the
+                                   household level in the CE. Data from the U.S. Department of Health
+                                   and Human Services 2012 Medical Expenditure Panel Survey
+                                   (MEPS) show household out-of-pocket health care expenses spent
+                                   on children (U.S. Department of Health and Human Services, 2016).
+                                   MEPS is a nationally representative longitudinal survey that collects
+                                   detailed information on health care utilization and expenditures,
+                                   health insurance, and health status, as well as a wide variety of
+                                   social, demographic, and economic characteristics for the civilian
+                                   noninstitutionalized population. MEPS is the only Federal survey
+                                   that collects detailed individual household member data on health
+                                   care expenses. Prototype families were examined and the shares of
+                                   health care expenditures allocated to children were derived.
+
+
+These health care budget shares, as derived from the MEPS survey, were applied to estimate household
+health care expenditures to determine health care expenses on children. The share of the health care
+budget ranged between 15 to 20 percent per child for a child in a two-child, married-couple family
+and 23 to 26 percent per child for a child in a two-child, single-parent family (these shares again being
+higher for a three-person household). Health care budget shares generally increased by household
+income level.
+
+                                         7
+                     Expenditures on Children by Families, 2015
+                                  Transportation. Transportation expenses attributed to family-related
+                                  activities were examined when determining child-rearing transpor-
+                                  tation expenses. These activities accounted for 75 percent of total
+                                  transportation, according to a U.S. Department of Transportation study
+                                  (Santos et al., 2011). Other transportation expenses, mainly those due
+                                  to employment, are not directly related to expenses on children, so
+                                  these types of transportation expenses were excluded.
+
+
+                                    Unlike data for food and health care, no other data source shows the
+                                    share of transportation expenses associated with child rearing. To
+                                    allocate these expenses, the per capita method was used to determine
+                                    family-related transportation expenses on a child by allocating the
+                                    expenses among household members in equal proportions. Most
+                                    family-related transportation is used in common by family members
+in the form of vehicle trips. It was assumed that parents and children share equally in these trips and
+each group was assigned 50 percent of the expense. Similarly, for single-parent households, the parent
+was assigned 50 percent of the expense. Transportation expenses were then assigned to children on a
+per capita basis. Although the per capita method has its limitations, it was preferred over alternative
+approaches (see the “Alternative Estimates of Expenditures on Children” section of this report). For a
+child in a two-child, married-couple or single-parent family, the per capita method resulted in approxi-
+mately 19 percent of total transportation expenses being allocated to the child.
+
+
+                                  Miscellaneous expenses. As with expenditures on transportation,
+                                  miscellaneous expenses were collected at the household level in the
+                                  CE, and no other data show the share of miscellaneous expenses
+                                  (personal care products and services, such as haircuts, toothbrushes,
+                                  etc.; entertainment, such as portable media players, sports equipment,
+                                  video games, etc.; and reading materials, such as nonschool books,
+                                  magazines, etc.) attributed to child rearing. Therefore, a per capita
+                                  method was used to apportion miscellaneous expenses among family
+                                  members. For many of the goods and services in this budgetary
+                                  component, such as videos and personal care items, the per capita
+                                  method is reasonable because such goods and services are likely to
+                                  be equally shared by family members.
+
+
+It should be noted that the Consumer Expenditure Survey‒Interview component does not collect
+expense data on a small number of personal care items, such as soap and detergent. Given that children
+use a share of such items, miscellaneous expenses are therefore underestimated. Such items, however,
+account for a very small proportion of miscellaneous expenses.
+
+
+
+
+                                        8
+                    Expenditures on Children by Families, 2015
+                                   Determining Housing Expenses on Children
+                                   Although the CE does not track families over time to see how their
+                                   housing expenses change, it was assumed that families increase
+                                   their housing expenditures as they move to larger residences to
+                                   accommodate children. Child-related housing expenses must be
+                                   inferred using the CE data for annual family housing expenses.
+
+
+                                     Based on the rationale that the presence of a child in a home does
+                                     not affect the number of kitchens or living rooms, but does affect
+                                     the number of bedrooms (analysis of CE data confirmed this), the
+                                     average cost of an additional bedroom approach was used to esti-
+                                     mate housing expenses on a child in married-couple and single-parent
+                                     households. Prior to 2008, a per capita approach was used by USDA
+to estimate children’s housing expenses, where housing expenses were assigned to household members
+in equal proportions. Because more data on housing characteristics have been made available in the CE
+survey over time, the average cost of an additional bedroom approach has been used for estimating these
+expenditures since 2008. Specifically, this approach calculates child-rearing housing expenses as the
+extra housing costs associated with an additional bedroom in a home for families with children and in
+each income interval. Multivariate analysis was used to determine the average additional costs by
+regressing housing expenditures on the number of bedrooms in a home controlling for income level.
+The analysis was conducted separately for married-couple and single-parent families. Housing expenses
+were adjusted to account for regional variation in the case of married-couple families. Because most
+families with children resided in a three- or four-bedroom home, housing expenses on a child were
+calculated as the average additional cost of one (but not both) of these bedrooms. It was assumed that
+children in a two-child family do not share a bedroom. With this method, housing expenses on a child
+include the costs of utilities and furniture associated with the additional bedroom. These expenses do not
+vary by age of the child because costs due to the bedroom would not be expected to differ much by age.
+
+Using the average cost of an additional bedroom is a conservative estimate of housing expenses on children
+because it does not account fully for the fact that some families pay more for housing to live in a community
+with preferred schools or other amenities for children. Part of this expense is captured in the cost of the
+additional bedroom, but parents may be spending more to live in certain communities than they would
+without children. In addition, it is a conservative estimate because it does not account fully for parents
+purchasing of a home with a larger yard, a playroom, or child-specific furnishings in other rooms of the
+home because of children in the household; however, data on these housing characteristics are limited.
+
+
+Another possible way to factor in preferred schools, larger yards, etc., would be to compare the extra
+housing expenses of couples with children to the expenses of couples without children. Ultimately, this
+approach was not used because of difficulties in establishing a comparison group of childless families
+not composed of “empty nest” households at various income levels. In addition, younger couples without
+children may buy larger houses in anticipation of having children. Comparing the expenditures of these
+couples with those of similar couples with children could lead to underestimates of housing expenditures
+on children because couples without children have incorporated possible future children in their housing
+expenditures. For single-parent households, selection of a comparison group is difficult. Single
+individuals (with no children) would include many people spending more on housing because they
+do not have child-rearing obligations. Using the housing expense difference between these people
+and single-parent families could lead to severe underestimates of housing expenditures on children in
+single-parent families.
+                                          9
+                     Expenditures on Children by Families, 2015
+  Results
+  Complete estimates of child-rearing expenditures by married-couple and single-parent families are
+  contained in tables 1-7. The following sections discuss major findings regarding these child-rearing
+  expenditures.
+
+
+  Married-Couple Families
+  Child-Rearing Expenses and Household Income Are Positively Correlated
+  In 2015, estimated annual average expenses on the younger child in two-child, married-couple families
+  increased as income level rose (fig. 1). Depending on age of the child, annual expenses ranged from
+  $9,330 to $9,980 for families with a before-tax income less than $59,200; from $12,350 to $13,900 for
+  families with a before-tax income between $59,200 and $107,400; and from $19,380 to $23,380 for
+  families with a before-tax income more than $107,400.
+
+
+  Figure 1.
+  Family expenditures on a child, by income level and age of child,1 2015
+                          $25,000
+
+
+
+                          $20,000
+Expenditures on a child
+
+
+
+
+                          $15,000
+
+
+
+                          $10,000
+
+
+
+                           $5,000
+
+
+
+                              $0
+                                     0-2        3-5         6-8          9-11        12-14      15-17
+                                                              Age of child
+
+                                    Less than $59,200      $59,200 to $107,400         More than $107,400
+
+
+     1
+                 U.S. average for the younger child in married-couple families with children.
+
+
+
+  On average, households in the lowest income group spent 27 percent of their before-tax income on a
+  child, those in the middle-income group spent 16 percent, and those in the highest group spent 11 percent.
+  The range among these percentages would be narrower if after-tax income was considered.
+
+
+  The aggregate amount spent on a child by families in the highest income group, on average, was more
+  than twice the amount spent by families in the lowest income group. This amount varied by budgetary
+  component. In general, expenses on a child for goods and services considered to be necessities (e.g.,
+  food and clothing) did not vary as much as those considered to be discretionary (e.g., miscellaneous
+  expenses) among households in the three income groups.
+
+
+
+
+                                                                  10
+                                           Expenditures on Children by Families, 2015
+Housing Is the Largest Expense on a Child
+Housing accounted for the largest share of total child-rearing expenses. Figure 2 illustrates shares of
+each expenditure component for the younger child in married-couple, middle-income families with
+two children. Based on expenses incurred among all age groups, housing accounted for 33 percent of
+child-rearing expenses for a child in the lowest income group, 29 percent in the middle-income group,
+and 26 percent in the highest income group for married-couple families.
+
+
+Food was the second largest expense on a child for married-couple families in the lowest and middle-
+income groups, accounting for 20 and 18 percent of total expenditures, respectively. Child care and
+education was the second largest expense on a child for families in the highest income group, accounting
+for 23 percent of the total expense. As previously discussed, child care and education was the only
+budgetary component for which many households had zero expenditures. The USDA estimates only
+include families with positive child care and education expenditures.
+
+
+Figure 2.
+Expenditure shares on a child from birth through age 17
+as a percentage of total child-rearing expenditures,1 2015
+
+
+
+        Housing                         29%
+
+           Food               18%
+
+Transportation              15%
+
+        Clothing       6%
+
+    Health Care         9%
+
+    Child Care &
+                             16%
+      Education
+
+Miscellaneous          7%
+
+
+                                                                  vvvvvvvv
+                   0               10           20              30              100
+                                              Percent
+
+1
+  U.S. average for the younger child in middle-income, married-couple families with
+two children. Child care and education expenses only for families with expense.
+
+
+Transportation was the third largest expense on a child for families in the lowest income group,
+accounting for 14 percent of the total expense. Child care and education was the third largest expense
+for married-couple families in the middle-income group (16 percent of the total), whereas food was the
+third largest expense for families in the highest income group (15 percent of the total). For the lowest
+income group, child care and education made up 12 percent of total child-rearing expenses (again for
+those households with the expense). These families may be purchasing less expensive forms of child
+care or it may be provided by relatives at no cost; the Census Bureau report (2011) on child care found
+a greater number of lower income families relied on grandparents or other relatives for child care.
+
+
+Across the three income groups, health care accounted for 8 to 9 percent of total expenses on children.
+This consists of out-of-pocket expenses only, including insurance premiums not paid by an employer
+or other organization, and not that portion covered by health insurance. Clothing accounted for 5 to 7
+
+                                                  11
+                            Expenditures on Children by Families, 2015
+percent of total expenses, and miscellaneous goods and services accounted for 6 to 9 percent of total
+expenses across income groups.
+
+
+Expenses Increase as a Child Ages
+Expenditures on a child in married-couple families were generally lower in the younger age categories
+and higher in the older age categories, as shown in figure 3 for families in the middle-income group.
+This relationship was consistent across income groups. For all three income groups, food, transportation,
+clothing, and health care expenses on a child generally increased as the child grew older. Transportation
+expenses were highest for a child age 15 to 17, possibly because he or she would start driving or be
+involved in more activities further away from the home. Child care and education expenses were
+generally highest for a child under age 6. Most of this expense may be attributed to child care prior to
+full day school.
+
+
+Figure 3.
+Total expenses and expenditure shares on a child (as a percentage
+of total child-rearing expenditures), by age of child,1 2015
+       $12,680 $12,730 $12,350 $13,180 $13,030 $13,900
+100%
+                                                                Miscellaneous
+
+                                                                Child care & education
+ 80%
+                                                                Health care
+                                                                Clothing
+ 60%
+                                                                Transportation
+
+
+ 40%
+                                                                Food
+
+
+
+ 20%
+                                                                Housing
+
+
+  0%
+          0-2      3-5       6-8     9-11     12-14     15-17
+                             Age of child
+
+ 1 U.S. average for the younger child in middle-income, married-couple families with
+ two children. Child care and education expenses only for families with expense.
+
+
+
+
+Child-Rearing Expenses Are Highest in the Urban Northeast
+Region-specific child-rearing expenses reflect patterns similar to those observed in the overall United States
+for married-couple families. In each region, expenses on a child increased with household income level
+and typically with age of the child. Figure 4 shows total child-rearing expenses by region and age of a
+child for the younger child in middle-income, two-child families. Overall, child-rearing expenses were
+highest in the urban Northeast, followed by the urban West and urban South. Child-rearing expenses
+were lowest in the urban Midwest and rural areas. Comparing the region with the highest expenditures
+to the lowest, child-rearing expenses were 27 percent lower in rural areas than the urban Northeast.
+Much of the regional difference in expenses on a child was related to housing costs and child care and
+education expenses. Total housing expenses on a child were highest in the urban Northeast and urban
+West and lowest in rural areas. Child care and education expenses were highest for families in the
+urban Northeast.
+
+
+                                                   12
+                          Expenditures on Children by Families, 2015
+  Figure 4.
+  Family expenditures on a child, by region and age of child,1 2015
+
+                          $20,000
+
+
+                          $17,500
+                                                                                               Urban Northeast
+
+Expenditures on a child
+                          $15,000                                                              Urban West
+                                                                                               Urban South
+                                                                                               Urban Midwest
+                          $12,500
+                                                                                               Rural
+
+                          $10,000
+
+
+                           $7,500
+
+
+                           $5,000
+                                    0-2         3-5        6-8              9-11   12-14   15-17
+                                                                 Age of child
+
+
+   1 Regional averages for the younger child in middle-income, married-couple families with two children.
+
+
+
+  Single-Parent Families
+  Expenses on a child in single-parent families generally followed the same pattern as expenses on a
+  child in married-couple families. Expenses increased as household income level rose; housing, food,
+  and child care/education (for those with the expense) accounted for the largest budgetary shares; and
+  more was spent as children grow older.
+
+
+  Figure 5 presents a comparison of estimated expenditures on a younger child in a two-child, married-
+  couple and single-parent household with a before-tax income less than $59,200. As previously discussed,
+  83 percent of single-parent families and 33 percent of married-couple families were in this lower income
+  group and this income included child support payments. Total expenditures per child up to age 18
+  were, on average, almost the same in single-parent households and married-couple households. However,
+  average income for single-parent families in the lower income group was $24,400, compared with $36,300
+  for married-couple families. Because single-parent families have one less potential earner, their total house-
+  hold income is lower and child-rearing expenses consume a greater percentage of income.
+
+
+  Figure 5.
+  Total family expenditures on a child from birth through age 17,
+  by single-parent and married-couple households with before-tax
+  income below $59,200,1 in 2015 dollars
+
+
+                Single parent                 $172,200
+
+  Married-couple                               $174,690
+
+
+  1 U.S. average for the younger child in two-child families.
+
+
+
+
+                                                             13
+                                          Expenditures on Children by Families, 2015
+For single-parents, the estimates only cover out-of-pocket child-rearing expenditures made by the
+parent who has primary care of the child. The estimates do not include child-related expenditures made
+by the parent without primary care or by others, such as grandparents. The parent with whom the child
+does not reside the majority of the time may incur transportation, food, and entertainment expenses
+during visitation days and maintain a larger living unit because the child stays with him or her on
+weekends. The parent without primary care could also contribute to the child’s clothing and health care
+expenses. Although it would be ideal to include these expenditures, such expenditures could not be
+estimated from the CE data. Overall expenses paid by both parents on a child in a single-parent
+household, therefore, are likely to be greater than this study’s estimates.
+
+
+Adjustments for Older Children and Household Size
+The estimates of expenses on children in previous sections of this report represent expenditures on
+the younger child in a married-couple and single-parent household with two children. Expenses on the
+older child may be different for the two family types. To determine the extent of this difference and how
+expenditures may be adjusted to estimate expenses on an older child, the methodology used to estimate
+expenditures on children was essentially repeated with the focus on an older child in each family type.
+Household income and region of residence (in the case of married-couple households) were not
+accounted for and the sample was weighted to reflect the U.S. population of interest.
+
+
+The analysis indicated that the data in tables 1-6 reflect total expenditures on both an older child and
+a younger child in a married-couple, two-child family. Therefore, annual expenditures on children in
+a married-couple, two-child family may be estimated by summing the total expenses for the specific
+age categories of the two children. For example, annual expenditures on a younger child age 11 and
+an older child age 16 in a married-couple, two-child family in the middle-income group for the overall
+United States would be $27,080 (= $13,180 + $13,900) (table 8).
+
+
+Unlike married-couple families, single-parent households with two children, on average, spend about
+4 percent less on the older child than on the younger child at a given age category. Also, some of these
+expenses may be covered by the parent without primary care or another friend or relative. Therefore, annual
+expenditures on children in a single-parent, two-child family may be estimated from table 7 by: (1) taking
+the age category of the older child and adjusting the total expenses downward by 4 percent, and then (2)
+summing the total expenses for the specific age categories of the two children. For example, annual expen-
+ditures on a younger child age 8 and an older child age 16 in a single-parent, two-child family in the lower
+income group for the overall United States would be $18,920 (= $8,800 + ($10,540 X 0.96)) (table 8). It
+should be noted that for specific budgetary components, annual expenses on an older child in married-
+couple and single-parent families varied, compared with those on a younger child in a two-child family.
+
+
+The estimates should also be adjusted if a household has only one child or more than two children.
+Families may spend more or less per child, depending on the number of other children in the house-
+hold (income being spread over fewer or more children) and as a result of economies of scale within
+the household. To derive these adjustments, the methodology used to estimate expenditures on children
+was replicated for both married-couple and single-parent families with one child and three or more
+children. The maximum number of children was restricted to three or more because only a small
+percentage of families had four or more children. Household income and region of residence (in the case
+of married-couple households) were not accounted for in order for findings to apply generally to all U.S.
+families. For families with three or more children, the possibility of children sharing a bedroom was
+factored in by examining the number of bedrooms and number of children in the household.
+                                         14
+                     Expenditures on Children by Families, 2015
+Table 8.
+Estimated annual expenditures on one, two, or three children by married-couple and single-parent families,
+overall United States, 2015
+								
+Married-couple family*						Annual expenditure
+One-child household				
+Age of child									
+    2		                    $12,680 x 1.27 = $16,100 			
+    5		                     12,730 x 1.27 = 16,170 			
+    8		                     12,350 x 1.27 = 15,680				
+   11		                     13,180 x 1.27 = 16,740			
+   14                       13,030 x 1.27 = 16,550			
+   17		                     13,900 x 1.27 = 17,650			
+
+Two-child household
+Age of younger child      Age of older child					
+    2                            16           $12,680 + $13,900 = $26,580
+    5                            16             12,730 + 13,900 = 26,630
+    8                            16             12,350 + 13,900 = 26,250
+   11                            16             13,180 + 13,900 = 27,080
+   14                            16             13,030 + 13,900 = 26,930
+   15                            16             13,900 + 13,900 = 27,800
+
+Three-child household
+Age of youngest child Age of older children					
+    2                        13,16          ($12,680 + $13,030 + $13,900) x .76 = $30,100
+    5                        13,16             (12,730 + 13,030 + 13,900) x .76 = 30,140
+    8                        13,16             (12,350 + 13,030 + 13,900) x .76 = 29,850
+   11                        13,16             (13,180 + 13,030 + 13,900) x .76 = 30,480
+   12                        13,16             (13,030 + 13,030 + 13,900) x .76 = 30,370		
+
+*Estimates are for married-couple families with 2015 before-tax income between $59,200 and $107,400.
+
+Single-parent family**						Annual expenditure
+One-child household				
+Age of child									
+    2		                     $9,090 x 1.26 = $11,450 			
+    5		                      9,310 x 1.26 = 11,730 			
+    8		                      8,800 x 1.26 = 11,090			
+   11		                      9,550 x 1.26 = 12,030			
+   14                       10,110 x 1.26 = 12,740			
+   17		                     10,540 x 1.26 = 13,280				
+
+Two-child household
+Age of younger child       Age of older child					
+    2                            16             $9,090 + ($10,540 x .96)                = $19,210
+    5                            16               9,310 + (10,540 x .96)                = 19,430
+    8                            16               8,800 + (10,540 x .96)                = 18,920		
+   11                            16               9,550 + (10,540 x .96)                = 19,670
+   14                            16              10,110 + (10,540 x .96)                = 20,230
+   15                            16              10,540 + (10,540 x .96)                = 20,660
+
+Three-child household
+Age of youngest child Age of older children					
+    2                        13,16         ($9,090 + ($10,110 x .96) + ($10,540 x .96)) x .78    = $22,550
+    5                        13,16             (9,310 + (10,110 x .96) + (10,540 x .96)) x .78   = 22,720
+    8                        13,16             (8,800 + (10,110 x .96) + (10,540 x .96)) x .78   = 22,330
+   11                        13,16             (9,550 + (10,110 x .96) + (10,540 x .96)) x .78   = 22,910
+   12                        13,16            (10,110 + (10,110 x .96) + (10,540 x .96)) x .78   = 23,350
+
+**Estimates are for single-parent families with 2015 before-tax income less than $59,200.
+
+
+
+                                                              15
+                                           Expenditures on Children by Families, 2015
+Compared with expenditures for each child in a married-couple, two-child family, households with one
+child spend an average of 27 percent more on the single child, and those with three or more children
+spend an average of 24 percent less on each child. For single-parent families, those with one child spend
+an average of 26 percent more on the single child than on a child in a two-child family, and those
+with three or more children spend an average of 22 percent less on each child. As families have more
+children, the children can share a bedroom, clothing and toys can be handed down to younger children,
+food can be purchased in larger and more economical packages, and private schools or child care centers
+may offer sibling discounts.
+
+
+Therefore, to estimate annual overall expenditures on an only child by using data in tables 1-7, 27
+percent should be added to the total expense for each age category for married-couple families and 26
+percent should be added to the total expense for each age category for single-parent families. To estimate
+expenses on three or more children in married-couple families, 24 percent should be subtracted from the
+total expense for each child’s age category and these totals should be summed. For single-parent families
+with three or more children, 22 percent should be subtracted from the total expense for each child’s
+age category (after adjusting the expenses on the older children downward), and these totals should be
+summed. As family size increases, costs per child for food decrease less than for housing and transportation.
+Much housing space is used in common, and car trips can serve more than one child.
+
+
+Examples of adjustments needed for one, two, and three children in married-couple families with
+before-tax income between $59,200 and $107,400 are presented in table 8. Similar examples are given
+for one, two, and three children in single-parent families with income less than $59,200. In the example
+for married-couple families, the age of the older child is 16 in the two-child household and the ages
+of the older children are 13 and 16 in the three-child household. As can be seen, less is spent per child
+as family size increases. The estimated annual expense on a child age 2 with no siblings is $16,100;
+for two children ages 2 and 16, $26,580; and for three children ages 2, 13, and 16, $30,100. The major
+difference in the mechanics of the adjustment for single-parent, compared with married-couple house-
+holds, is that the expenses on older children need to be adjusted downward by 4 percent.
+
+
+                        Alternative Estimates of Expenditures
+                        on Children
+                      The methodology used in this report to estimate child-rearing expenses is based
+                      on several steps: (1) assigning child-specific expenses (clothing, child care, and
+                      education) in the CE data to children, (2) allocating household-level expenses
+                      based on findings from authoritative research (food and health care) or on a
+                      per capita basis (transportation and miscellaneous items), and (3) calculating
+                      housing expenses by using an approach that accounts for the average cost of an
+                      additional bedroom. An alternative method to estimate expenditures on children
+                      is a marginal cost method. The marginal cost method measures expenditures on
+                      children as the difference in expenses between families with children and
+                      equivalent families without children. While there is no generally accepted
+equivalency measure in the economics literature, two of the most commonly used are the Engel and
+Rothbarth approaches. (See the U.S. Department of Health and Human Services report (1990) for more
+detailed information on these two approaches.) The Engel approach assumes that if two families spend
+an equal percentage of their total expenditures on food, they are equally well-off. The Rothbarth
+approach assumes that if two families spend an equal amount on luxuries (e.g., alcohol, tobacco,
+entertainment, and sweets) and have the same level of savings, they are equally well-off.
+
+                                         16
+                     Expenditures on Children by Families, 2015
+One limitation of the Engel and Rothbarth estimators is that they are not true marginal cost approaches.
+A true marginal cost approach examines additional expenditures a family makes because of the presence
+of a child in the household—how much more the family spends on housing, food, and other items
+because of the child. A true marginal cost approach would track the same sample of families over time.
+Marginal cost approaches, as implemented, do not do this. They examine two different sets of families,
+those with children and those without children, at one point in time. Hence, the term “marginal cost”
+approach is somewhat of a misnomer.
+
+
+Another limitation with the Rothbarth and Engel approaches is that they do not consider substitution
+effects. Both approaches assume parents do not alter their expenditures on themselves after a child is
+added to a household. This could lead to problems when applying such an approach to individual
+budgetary components. For example, many families may reduce the number of high-cost vacations
+they take once they have children. However, with a “marginal cost” method, transportation expenses
+of these families without children (and high vacation costs) would be compared with expenses of
+families with children, likely leading to underestimates of transportation expenses on a child.
+
+
+These limitations are likely more significant if used to calculate miscellaneous expenses on a child.
+Published data show entertainment expenses, one of the major components of the miscellaneous
+category, were greater for married-couple families without children than for married-couple families
+with young children as well as married-couple families with an oldest child over age 18 living in the
+household (U.S. Department of Labor, 2016b). Using a “marginal cost” method in this case could lead
+to the questionable result of having negative entertainment expenditures on a child.
+
+
+Since 2000, several studies have estimated child-rearing expenses by using both the Engel and Rothbarth
+estimators and applying them to Consumer Expenditure Survey data (Comanor, 2015; Judicial Council
+of California, 2001 and 2011; Venohr, 2006; McCaleb, 2008).4 Table 9 shows the child-rearing expense
+estimates produced by these studies for married-couple families by number of children and as a percentage
+of total family expenditures; these studies estimated child-rearing expenses as a percentage of total
+expenditures and did not examine expenses by budgetary component. It should be noted that the Rothbarth
+method was usually implemented by using only adult clothing as the equivalency method so it is not
+a full implementation of the Rothbarth approach. It is unknown how results would differ if a more
+complete Rothbarth approach were implemented. An earlier study found the results of the Rothbarth
+approach to vary considerably depending on the budgetary items included in the equivalency scale
+definition and concluded this revealed a significant weakness in the practical application of the approach
+(Lancaster and Ray, 1998).
+
+
+
+
+4
+  A 2015 study by Comanor et al. examined expenditures on children using a marginal cost approach without a set
+equivalence scale. The results of this study did not include health care expenses so it is not included in table 9. Even
+with excluding health care expenses from the studies referred to in table 9, the child-rearing expense estimates of
+the Comanor et al. study are much lower than those of USDA and the various Engel and Rothbarth approaches. In
+fact, the Comanor et al. study found that “… except for low-income married households… adding a single child to
+the household does not substantially increase average food costs.” (p. 229).
+                                             17
+                       Expenditures on Children by Families, 2015
+The range in estimates resulting from the various studies implementing the Rothbarth and Engel
+approaches is striking. For one child, the estimates ranged between 21 to 32 percent of household
+expenditures being spent on the child; for two children, 31 to 47 percent; and for three children, 38
+to 57 percent (almost a 20-percentage-point difference).5 When using the “marginal cost” method in
+estimating expenditures on children, a researcher’s choice of an equivalency scale is crucial because
+different measures yield different results. Even using the same equivalency measure can result in
+different estimates, depending on the years of data used and model specification. For example, the
+2011 study based on the Rothbarth estimator found that for two-child families, 37 percent of total
+family expenditures went to goods and services for children (Judicial Council of California, 2011),
+while the 2008 study using the Rothbarth estimator found that 47 percent of expenditures went to
+goods and services for two children (McCaleb et al., 2008). The 2008 study found the Rothbarth
+estimator to be the most sensitive to underlying data and sample restrictions. Also, the 2011 study
+calls into question the validity of the Engel approach.
+
+
+Table 9 also presents the 2015 USDA CNPP’s estimates along with estimates derived using various
+Rothbarth and Engel approaches undertaken since 2000. The estimates are within the range of Roth-
+barth and Engel estimates. For married-couple families with one child, USDA estimates 26 percent
+of total family expenditures are spent on the child; the various Rothbarth and Engel approaches range
+from 21 to 32 percent, with an average of 26 percent. For married-couple families with two children,
+USDA estimates 39 percent of total family expenditures are spent on the child; the various Rothbarth
+and Engel approaches range from 31 to 47 percent, with an average of 39 percent. For married-couple
+families with three children, USDA estimates 49 percent of total family expenditures are spent on the
+child; the various Rothbarth and Engel approaches range from 38 to 57 percent, with an average of 46
+percent.
+
+ Table 9.
+ Average percent of household expenditures attributable to children in married-couple
+ families, by estimator and number of children
+ Number of children                      One                         Two                         Three
+ Estimator                                                          Percent
+                1
+ Engel (2001)                            30                           44                           52
+                    1
+ Rothbarth (2001)                        26                           36                           42
+                    2
+ Rothbarth (2006)                        25                           37                           44
+                3
+ Engel (2008)                            21                           31                           38
+                    3
+ Rothbarth (2008)                        32                           47                           57
+
+ Rothbarth (2011)   4                    24                           37                           45
+ Average of above                        26                           39                           46
+ USDA/CNPP (2016)                        26                           39                           49
+ 1
+   From Judicial Council of California (2001).
+ 2
+   From Policy Studies Inc. (2006).
+ 3
+   From McCaleb, Macpherson, and Norrbin (2008).
+ 4
+   From Judicial Council of California (2011).
+
+
+
+
+5
+  A study by researchers at Rutgers University (2013) examined expenditures on children using a Rothbarth
+approach but included single-parent as well as husband-wife families so it is not included here. This study found
+that the percentage of household expenditures going to children by number of children was 22 percent for one
+child, 26 percent for two children, and 33 percent for three children.
+                                            18
+                        Expenditures on Children by Families, 2015
+Estimating Future Expenditures
+The estimates presented so far represent household expenditures on a child of a certain age in 2015.
+What would be the total expenses on a child born in 2015 through age 17, factoring in inflation? To
+estimate these expenses over time, future price changes need to be incorporated. To do this, a future
+cost formula is used:
+
+
+Cf =        Cp (1 + i)n
+where:
+Cf =        projected future annual dollar expenditure on a child of a particular age
+Cp =        present (2015) annual dollar expenditure on a child of a particular age
+i   =       projected annual inflation (or deflation) rate
+n   =       number of years from present until child will reach a particular age
+
+An example of estimated future expenditures on the younger child in a married-couple family with
+two children is presented in table 10. The example assumes a child is born in 2015 and reaches age 17
+in the year 2032, and the average annual inflation rate over this time is 2.2 percent (the average annual
+inflation rate over the past 20 years) (U.S. Department of Labor, 2016c). Total family expenses on a
+child from birth through age 17 adjusted for future inflation would be $212,300 for households in the
+lowest income group, $284,570 for those in the middle-income group, and $454,770 for those in the
+highest income group. However; in present 2015 dollar values, these figures are $174,690, $233,610,
+and $372,210, respectively.
+
+ Table 10.
+ Future estimated annual expenditures* on a child born in 2015 by income group,
+ overall United States
+                                                                                          Income group
+          Year                        Age                        Lowest                        Middle                       Highest
+          2015                         <1                         $9,690                      $12,680                       $19,770
+          2016                          1                           9,910                       12,960                        20,210
+          2017                          2                         10,130                        13,250                        20,660
+          2018                          3                         10,360                        13,600                        21,140
+          2019                          4                         10,590                        13,900                        21,620
+          2020                          5                         10,830                        14,210                        22,100
+          2021                          6                         10,650                        14,100                        22,120
+          2022                          7                         10,890                        14,410                        22,620
+          2023                          8                         11,130                        14,730                        23,120
+          2024                          9                         12,150                        16,070                        25,250
+          2025                         10                         12,420                        16,430                        25,810
+          2026                         11                         12,690                        16,800                        26,380
+          2027                         12                         12,470                        16,980                        27,430
+          2028                         13                         12,750                        17,360                        28,040
+          2029                         14                         13,030                        17,740                        28,660
+          2030                         15                         13,890                        19,350                        32,550
+          2031                         16                         14,200                        19,780                        33,270
+          2032                         17                         14,520                        20,220                        34,020
+          Total                                                $212,300                      $284,570                      $454,770
+
+ *Estimates are for the younger child in married-couple families with two children and assume an average annual inflation rate of 2.2 percent.
+
+                                                      19
+                            Expenditures on Children by Families, 2015
+Inflation rates other than 2.2 percent could be used in the formula if inflation projections change. Also,
+it is somewhat unrealistic to assume that households remain in one income category as a child grows
+older. For some families, income rises over time, so a family may move from one income group to
+another. For other families, a job loss or divorce may cause a decline in income. In addition, such
+inflation projections assume child-rearing expenditures change only with inflation. Parental expenditure
+patterns also change over time.
+
+
+Expenditures Not Included
+Expenditures estimated in this study are made on children from birth through age 17 for seven major
+budgetary components. One of the largest excluded expenses is the cost of a college education. The
+College Board (2016) estimated that in 2016-17, annual average (enrollment-weighted) tuition and fees
+were $9,650 at 4-year public colleges (in-State tuition) and $33,480 at 4-year private (non-profit)
+colleges; annual room and board was $10,440 at 4-year public colleges and $11,890 at 4-year private
+colleges. For 2-year colleges in 2016-17, annual average tuition and fees were $3,520 at public colleges.
+College-related expenses on children may even take place before children are college age in the form
+of savings. Other expenses that are not included are prenatal care, fertility care, child birth and adoption
+expenses, or any costs made on children after age 17. These parental expenses on children after age 17
+could include those associated with children living at home or if children do not live at home, gifts and
+other contributions to them. Expenses related to life insurance on parents are also not included in the
+estimates. Although these expenses are not made directly on children, it is likely that they are primarily
+incurred for the benefit of children.
+
+
+Not all government expenditures on children are included. Examples of excluded expenses would be
+public education, Medicaid, and subsidized school meals. The actual expenditures on children (by
+parents and the government), therefore, would be higher than reported in this study, especially for
+children in the lowest income group. Expenditures on children made by people not in the household,
+such as grandparents and other relatives, were not factored in the estimates. Indirect costs involved in
+child rearing were not included in the estimates. Although these costs are typically more difficult to
+measure than direct expenditures, they may be substantial. The time involved in rearing children is
+considerable and has a cost attached to it. One study found that the imputed value of parental time
+spent on children exceeded the direct cash expenditures on them (Folbre, 2008). In addition, to care
+for children, current earnings and future career opportunities may be diminished because of job choice
+or reduced time in the labor force for one or both parents. These situations also have a cost attached to
+them.
+
+
+
+
+                                        20
+                     Expenditures on Children by Families, 2015
+Expenditures on Children: 1960 versus 2015
+
+The U.S. Department of Agriculture first           Expenditures on a child from birth through age 17, total
+provided estimates of child-rearing expendi-       expenses and budgetary component shares, 1960 versus 20151
+tures in 1960. The current estimates are not                             2015 (Total = $233,610)
+precisely comparable to previous estimates                               1960 (Total = $202,020 in 2015 dollars)
+because of methodology changes; for example,
+housing expenses are now determined by
+                                                                                                                    29%
+using the average cost of an additional                   Housing                                                     31%
+bedroom as opposed to a per capita approach,                                                        18%
+                                                             Food                                            24%
+and food expenses are now based on what
+households spend as opposed to a suggested                                                       15%
+                                                   Transportation                                 16%
+standard. Although these types of method-
+                                                                                 6%
+ological changes exist, a general comparison              Clothing                         11%
+is possible.                                                                          9%
+                                                     Health Care            4%
+                                                    Child Care &                                 16%
+In 1960, average expenditures on a child              Education          2%
+in a middle-income, married-couple family          Miscellaneous                 7%
+                                                                                           12%
+amounted to $25,229, or $202,020 in 2015
+dollars. By 2015, these estimated expen-                                                                             vvvvvvvv
+ditures climbed 16 percent in real terms to                          0                10             20             30      100
+                                                                                                   Percent
+$233,610 (assuming a family had child care
+                                                   1 U.S. average for a child in middle-income, married-couple families.
+and education expenses on a child).
+
+
+Housing was the largest expense on a child in both time periods and increased in real terms over this time. Food was the
+second largest expense in both time periods, but decreased in real terms. Changes in agriculture over the past 50 years
+have resulted in family food budgets being a lower percentage of household income. Transportation expenses on a child
+increased about 10 percent in real terms from 1960 to 2015.
+
+
+Clothing and miscellaneous expenses on a child decreased as a percentage of total child-rearing expenses and in real terms
+from 1960 to 2015. Reduced real expenses on children’s clothing may reflect technological changes and globalization that
+have made clothing less expensive in real terms. The growth in real terms of housing and other expenses on a child may be
+the cause of the decline in miscellaneous expenses on a child, which are often seen as discretionary.
+
+
+Health care expenses on a child more than doubled as a percentage of total child-rearing costs, as well as increasing in real
+terms, from 1960 to 2015. The most significant change in child-rearing expenses over time relates to child care and education
+expenses. It should be noted that in 1960, child care/education expenses included families with and without the expense.
+Even so, these expenses grew from 2 percent of total child-rearing expenditures in 1960 (for families with and without the
+expense) to 16 percent (for families with the expense) in 2015. Much of this growth is likely related to child care. In 1960,
+child care costs were negligible, mainly consisting of in-the-home babysitting. Since then, the labor force participation of
+women has greatly increased, leading to the need for more child care. Child-rearing expense estimates were not provided for
+single-parent families in 1960, likely because of the small percentage of children residing in such households at the time.
+
+
+
+
+                                                                 21
+                                          Expenditures on Children by Families, 2015
+Conclusion
+This technical report presents the most recent child-rearing expense estimates for married-couple and
+single-parent families using data from the 2011-15 Consumer Expenditure Survey (all data updated to
+2015 dollars). Expenditures for major budgetary components estimated in this study consisted of direct
+parental expenses made on children from birth through age 17. The 2015 estimate for child-rearing
+expenses for raising a child from birth through age 17 in a two child, middle-income, married-couple
+family is $233,610. However, expenses vary considerably by household income level, region, and
+composition, emphasizing that a single estimate may not be applicable to all families. The direct and
+indirect costs of raising children are considerable, absorbing a major share of the household budget.
+
+
+References
+The College Board. (2016). Trends in College Pricing 2016. Retrieved November 10, 2016, from
+https://trends.collegeboard.org/sites/default/files/2016-trends-college-pricing-web_0.pdf.
+
+
+Comanor, W.S., Sarro, M., and Rogers, R.M. (2015). The Monetary Cost of Raising Children. Research
+in Law and Economics, Vol. 27, 209-251.
+
+
+Folbre, N. (2008). Valuing Children: Rethinking the Economics of the Family. Cambridge, MA: Harvard
+University Press.
+
+
+Foster, A. (2016). Household healthcare spending in 2014. Beyond the Numbers: Prices and Spending,
+Vol. 5, No. 13 (U.S. Bureau of Labor Statistics, August 2016) http://www.bls.gov/opub/btn/volume-5/
+pdf/household-healthcare-spending-in-2014.pdf.
+
+
+Judicial Council of California. (2001). Review of Statewide Uniform Child Support Guideline. Retrieved
+March 27, 2009 at http://www.courtinfo.ca.gov/programs/cfcc/pdffiles/ChildSupport-2001Uniform-
+ChildSupportGuideline.pdf.
+
+
+Judicial Council of California. (2011). Review of Statewide Uniform Child Support Guideline 2010.
+Retrieved March 14, 2012, from http://www.courts.ca.gov/documents/review-sucsg-0611.pdf.
+
+
+Lancaster, G. and Ray, R. (1998). Comparison of alternative models of household equivalence scales:
+The Australian evidence on unit record data. The Economic Record, 74(224), 1-14.
+
+
+Lino, M. (2008). Expenditures on Children by Families, 2007. U.S. Department of Agriculture, Center for
+Nutrition Policy and Promotion. (Miscellaneous Publication Number 1528-2007).
+
+
+Lino, M. (2014). Expenditures on Children by Families, 2013. U.S. Department of Agriculture, Center for
+Nutrition Policy and Promotion. (Miscellaneous Publication Number 1528-2013).
+
+
+McCaleb, T.S., Macpherson, D.A., and Norrbin, S.C. (2008). Review and Update of Florida’s Child
+Support Guidelines. Report to the Florida Legislature, November17, 2008.
+
+
+
+
+                                       22
+                    Expenditures on Children by Families, 2015
+McDonald, J.F. and Moffitt, R.A. (1980). The uses of Tobit analysis. The Review of Economics and
+Statistics, 62(2), 318-321.
+
+
+Policy Studies Inc. (Venohr, J., Betson, D., Price, D., Zoller, M., and Washington, L.) (2006). State
+of Oregon Child Support Guidelines Review: Updated Obligation Scales and Other Considerations.
+Submitted to U.S. Department of Justice, Division of Child Support on June 26, 2006.
+
+
+Rutgers, The State University of New Jersey, New Jersey Child Support Institute, New Jersey Supreme
+Court Family Practice Committee and the Office of Child Support Services. (2013, March 22).
+Quadrennial Review: Final Report. Retrieved April 8, 2014, from http://www.judiciary.state.nj.us/re-
+ports2013/F0_NJ+QuadrennialReview-Final_3.22.13_complete.pdf.
+
+
+Santos, A., McGuckin, N., Nakamoto, H.Y., Gray, D., and Liss, S. (2011). Summary of Travel Trends:
+2009 National Household Travel Survey. U.S. Department of Transportation, Federal Highway
+Administration.
+
+
+U.S. Census Bureau. (2011). Who’s Minding the Kids? Child Care Arrangements: Spring 2010—
+Detailed Tables. Retrieved March 7, 2012, from https://www.census.gov/data/tables/2008/
+demo/2010-tables.html.
+
+
+U.S. Department of Agriculture, Agricultural Research Service. (1981). USDA Estimates of the Cost of
+Raising a Child: A Guide to Their Use and Interpretation. (Miscellaneous Publication No. 1411).
+
+
+U.S. Department of Agriculture, Center for Nutrition Policy and Promotion. (2016). Official USDA
+Food Plans: Cost of Food at Home at Four Levels, see http://www.cnpp.usda.gov/sites/default/files/
+CostofFoodDec2015.pdf.
+
+
+U.S. Department of Health and Human Services. (2016). Medical Expenditure Panel Survey. Retrieved
+August 30, 2016 from https://meps.ahrq.gov/mepsweb/data_stats/MEPS_topics.jsp?topicid=5Z-1.
+
+
+U.S. Department of Health and Human Services, Office of the Assistant Secretary for Planning and
+Evaluation. (1990). Estimates of Expenditures on Children and Child Support Guidelines.
+
+
+U.S. Department of Labor, Bureau of Labor Statistics. (2016a). Consumer Expenditure Public Use
+Microdata Documentation. Retrieved October 4, 2016 from http://www.bls.gov/cex/2015/csxintvw.pdf.
+
+
+U.S. Department of Labor, Bureau of Labor Statistics. (2016b). Composition of Consumer Unit: Average
+Annual Expenditures and Characteristics, Consumer Expenditure Survey, 2015. Retrieved August 31,
+2016, from http://www.bls.gov/cex/2015/combined/cucomp.pdf.
+
+
+U.S. Department of Labor, Bureau of Labor Statistics. (2016c). Consumer Price Index Detailed Report
+Tables. Table 24. Retrieved September 28, 2016, from http://www.bls.gov/cpi/cpid1512.pdf.
+
+
+
+
+                                       23
+                    Expenditures on Children by Families, 2015
+Table 1. Estimated annual expenditures on a child by married-couple families, overall United States, 2015
+
+							                                                                                Child care
+                   Total					                                                   Health    and
+Age of child     expense       Housing        Food      Transportation Clothing  care  educationa Miscellaneousb
+								
+Before tax income: Less than $59,200 (Average = $36,300)		
+ 0-2              $9,690		      $3,160		      $1,310		      $1,200                 $670            $820          $2,080           $450
+ 3-5               9,700		       3,160		       1,350		       1,250                   540            760           2,080            560
+ 6-8               9,330		       3,160		       1,930		       1,310                   540            790             920            680
+ 9 - 11            9,960		       3,160		       2,200		       1,350                   690            900             920            740
+12 - 14            9,570		       3,160		       2,290		       1,500                   740            860             440            580
+15 - 17            9,980		       3,160		       2,300		       1,690                   720            910             640            560
+Total expenses $174,690		      $56,880		     $34,140		     $24,900               $11,700        $15,120         $21,240        $10,710
+								
+Before tax income: $59,200 to $107,400 (Average = $81,700)
+ 0-2            $12,680		      $3,680		      $1,580		       $1,790                  $750         $1,180          $2,870           $830
+ 3-5              12,730		      3,680		       1,690		        1,840                   600          1,110           2,870            940
+ 6-8              12,350		      3,680		       2,280		        1,900                   600          1,130           1,710          1,050
+ 9 - 11           13,180		      3,680		       2,680		        1,940                   780          1,280           1,710          1,110
+12 - 14           13,030		      3,680		       2,780		        2,090                   860          1,240           1,430            950
+15 - 17           13,900		      3,680		       2,790		        2,270                   830          1,300           2,090            940
+Total expenses $233,610		     $66,240		     $41,400		      $35,490               $13,260        $21,720         $38,040        $17,460
+								
+Before tax income: More than $107,400 (Average = $185,400)
+ 0-2            $19,770		            $5,460		       $2,210		        $2,590        $1,110         $1,580          $5,170         $1,650
+ 3-5             19,790		             5,460		        2,320		         2,640           940          1,490           5,170          1,770
+ 6-8             19,380		             5,460		        2,960		         2,690           940          1,440           4,010          1,880
+ 9 - 11          20,700		             5,460		        3,570		         2,740         1,180          1,800           4,010          1,940
+12 - 14          21,050		             5,460		        3,560		         2,890         1,310          1,740           4,310          1,780
+15 - 17          23,380		             5,460		        3,720		         3,070         1,280          1,820           6,270          1,760
+Total expenses $372,210		           $98,280		      $55,020		       $49,860       $20,280        $29,610         $86,820        $32,340
+
+Estimates are based on 2011-15 Consumer Expenditure Survey data (all data updated to 2015 dollars by using the Consumer Price Index‒
+All Urban Consumers). For each age category, the expense estimates represent average child-rearing expenditures for each age (e.g., the
+expense for the 3-5 age category, on average, applies to the 3-year-old, the 4-year-old, or the 5-year-old). The Total expenses (0 - 17) row
+represents the expenditure sum of all ages (0, 1, 2, 3, ...17) in 2015 dollars. The figures represent estimated expenses on the younger child
+in a two-child family. Estimates are about the same for the older child, so to calculate expenses for two children, figures should be summed
+for the appropriate age categories. To estimate expenses for an only child, multiply the total expense for the appropriate age category
+by 1.27. To estimate expenses for each child in a family with three or more children, multiply the total expense for each appropriate age
+category by 0.76. For expenses on all children in a family, these totals should be summed.
+
+a Includes only families with child care and education expenses.
+b
+    Includes personal care items, entertainment, and reading materials.
+
+
+
+
+                                                                      24
+                                                 Expenditures on Children by Families, 2015
+Table 2. Estimated annual expenditures on a child by married-couple families, urban Northeast, 2015
+
+							                                                          Child care
+               Total					                                 Health    and
+Age of child expense Housing Food Transportation Clothing  care  educationa Miscellaneousb
+
+Before-tax income: Less than $59,200 (Average = $36,000)
+ 0-2             $11,240        $3,770        $1,360       $1,200    $960    $720  $2,740                                            $490
+ 3-5              11,220         3,770         1,390        1,240     810     670   2,740                                              600
+ 6-8              10,850         3,770         1,990        1,300     810     690   1,570                                              720
+ 9 - 11           11,520         3,770         2,270        1,340   1,000     800   1,570                                              770
+12 - 14           11,330         3,770         2,350        1,490   1,080     760   1,260                                              620
+15 - 17           12,120         3,770         2,370        1,680   1,050     810   1,840                                              600
+Total expenses $204,840        $67,860       $35,190      $24,750 $17,130 $13,350 $35,160                                          $11,400
+								
+Before-tax income: $59,200 to $107,400 (Average = $83,000)							
+ 0-2             $14,220        $4,380       $1,620        $1,780  $1,030  $1,060  $3,490                                             $860
+ 3-5              14,270         4,380        1,730         1,830     880     990   3,490                                              970
+ 6-8              13,920         4,380        2,340         1,890     880   1,020   2,320                                            1,090
+ 9 - 11           14,760         4,380        2,740         1,930   1,090   1,160   2,320                                            1,140
+12 - 14           14,820         4,380        2,850         2,080   1,200   1,110   2,210                                              990
+15 - 17           16,040         4,380        2,860         2,270   1,170   1,170   3,220                                              970
+Total expenses $264,090        $78,840      $42,420       $35,340 $18,750 $19,530 $51,150                                          $18,060
+								
+Before-tax income: More than $107,400 (Average = $191,500)							
+ 0-2                 $21,610         $6,510          $2,240          $2,590          $1,430         $1,440          $5,720          $1,680
+ 3-5                  21,610          6,510           2,350           2,630           1,250          1,360           5,720           1,790
+ 6-8                  21,240          6,510           3,010           2,690           1,250          1,320           4,550           1,910
+ 9 - 11               22,560          6,510           3,620           2,730           1,540          1,650           4,550           1,960
+12 - 14               23,090          6,510           3,610           2,880           1,700          1,590           4,990           1,810
+15 - 17               25,720          6,510           3,780           3,070           1,660          1,660           7,260           1,780
+Total expenses      $407,490       $117,180         $55,830         $49,770         $26,490        $27,060         $98,370         $32,790
+
+Estimates are based on 2011-15 Consumer Expenditure Survey data (all data updated to 2015 dollars by using the Northeast region
+Consumer Price Index‒All Urban Consumers). For each age category, the expense estimates represent average child-rearing expenditures
+for each age (e.g., the expense for the 3-5 age category, on average, applies to the 3-year-old, the 4-year-old, or the 5-year-old). The Total
+expenses (0 - 17) row represents the expenditure sum of all ages (0, 1, 2, 3, ...17) in 2015 dollars. The figures represent estimated expenses
+on the younger child in a two-child family. Estimates are about the same for the older child, so to calculate expenses for two children, figures
+should be summed for the appropriate age categories. To estimate expenses for an only child, multiply the total expense for the appropriate
+age category by 1.27. To estimate expenses for each child in a family with three or more children, multiply the total expense for each
+appropriate age category by 0.76. For expenses on all children in a family, these totals should be summed.
+
+The Northeastern region consists of Connecticut, Maine, Massachusetts, New Hampshire, New Jersey, New York, Pennsylvania,
+Rhode Island, and Vermont.
+
+a
+    Includes only families with child care and education expenses.
+b
+    Includes personal care items, entertainment, and reading materials.
+
+
+
+
+                                                                       25
+                                                 Expenditures on Children by Families, 2015
+Table 3. Estimated annual expenditures on a child by married-couple families, urban West, 2015
+
+                         						                                          Child care
+                       Total					                                 Health    and
+Age of child         expense Housing Food Transportation Clothing  care  educationa Miscellaneousb
+
+Before-tax income: Less than $59,200 (Average = $35,100)
+ 0-2                 $10,340         $3,710         $1,340          $1,190          $840            $740         $2,020           $500
+ 3-5                  10,340          3,710          1,370           1,240           700             690          2,020             610
+ 6-8                   9,970          3,710          1,960           1,300           710             710            850             730
+ 9 - 11               10,590          3,710          2,230           1,340           860             820            850             780
+12 - 14               10,240          3,710          2,320           1,490           930             790            370             630
+15 - 17               10,610          3,710          2,340           1,680           900             830            540             610
+Total expenses      $186,270        $66,780        $34,680         $24,720       $14,820         $13,740        $19,950         $11,580
+
+Before-tax income: $59,200 to $107,400 (Average = $80,300)							
+ 0-2                 $13,340         $4,310         $1,600          $1,780          $910          $1,090         $2,780            $870
+ 3-5                  13,390          4,310          1,710           1,830           760           1,020          2,780             980
+ 6-8                  13,030          4,310          2,310           1,890           760           1,050          1,610           1,100
+ 9 - 11               13,850          4,310          2,710           1,930           950           1,190          1,610           1,150
+12 - 14               13,700          4,310          2,810           2,080         1,040           1,140          1,320           1,000
+15 - 17               14,510          4,310          2,830           2,270         1,010           1,200          1,920             970
+Total expenses      $245,460        $77,580        $41,910         $35,340       $16,290         $20,070        $36,060         $18,210
+
+Before-tax income: More than $107,400 (Average = $189,500)							
+ 0-2                 $20,670         $6,400         $2,220          $2,580        $1,290          $1,480         $5,010          $1,690
+ 3-5                  20,680          6,400          2,330           2,630         1,120           1,390          5,010           1,800
+ 6-8                  20,290          6,400          2,980           2,690         1,120           1,350          3,830           1,920
+ 9 - 11               21,570          6,400          3,590           2,730         1,370           1,680          3,830           1,970
+12 - 14               21,910          6,400          3,580           2,880         1,500           1,630          4,100           1,820
+15 - 17               24,150          6,400          3,750           3,070         1,470           1,700          5,970           1,790
+Total expenses      $387,810       $115,200        $55,350         $49,740       $23,610         $27,690        $83,250         $32,970
+
+Estimates are based on 2011-15 Consumer Expenditure Survey data (all data updated to 2015 dollars by using the West region Consumer
+Price Index‒All Urban Consumers). For each age category, the expense estimates represent average child-rearing expenditures for each
+age (e.g., the expense for the 3-5 age category, on average, applies to the 3-year-old, the 4-year-old, or the 5-year-old). The Total expenses
+(0 - 17) row represents the expenditure sum of all ages (0, 1, 2, 3, ...17) in 2015 dollars. The figures represent estimated expenses on the
+younger child in a two-child family. Estimates are about the same for the older child, so to calculate expenses for two children, figures
+should be summed for the appropriate age categories. To estimate expenses for an only child, multiply the total expense for the appropriate
+age category by 1.27. To estimate expenses for each child in a family with three or more children, multiply the total expense for each
+appropriate age category by 0.76. For expenses on all children in a family, these totals should be summed.
+
+The Western region consists of Alaska, Arizona, California, Colorado, Hawaii, Idaho, Montana, Nevada, New Mexico, Oregon, Utah,
+Washington, and Wyoming.
+
+a
+    Includes only families with child care and education expenses.
+b
+    Includes personal care items, entertainment, and reading materials.
+
+
+
+
+                                                                      26
+                                                 Expenditures on Children by Families, 2015
+Table 4. Estimated annual expenditures on a child by married-couple families, urban Midwest, 2015
+
+							                                                                                                          Child care
+               Total					                                 Health                                                    and
+Age of child expense Housing Food Transportation Clothing  care                                                  educationa Miscellaneousb
+
+Before-tax income: Less than $59,200 (Average = $37,600)
+ 0-2              $9,460        $3,010        $1,220       $1,120    $820    $800  $1,970                                           $520
+ 3-5                9,460        3,010         1,260        1,170     680     740   1,970                                             630
+ 6-8                9,060        3,010         1,820        1,230     680     770     800                                             750
+ 9 - 11             9,690        3,010         2,080        1,270     840     890     800                                             800
+12 - 14             9,310        3,010         2,160        1,420     910     850     310                                             650
+15 - 17             9,660        3,010         2,180        1,610     880     900     450                                             630
+Total expenses $169,920        $54,180       $32,160      $23,460 $14,430 $14,850 $18,900                                         $11,940
+								
+Before-tax income: $59,200 to $107,400 (Average = $81,700)							
+ 0-2             $12,370        $3,500       $1,490        $1,710    $890  $1,160  $2,730                                            $890
+ 3-5              12,420         3,500        1,600         1,760     740   1,090   2,730                                           1,000
+ 6-8              12,030         3,500        2,170         1,820     740   1,120   1,560                                           1,120
+ 9 - 11           12,830         3,500        2,550         1,860     930   1,260   1,560                                           1,170
+12 - 14           12,680         3,500        2,650         2,010   1,020   1,220   1,260                                           1,020
+15 - 17           13,470         3,500        2,670         2,200   1,000   1,280   1,830                                             990
+Total expenses $227,400        $63,000      $39,390       $34,080 $15,960 $21,390 $35,010                                         $18,570
+								
+Before-tax income: More than $107,400 (Average = $177,300)							
+ 0-2                 $19,310         $5,200         $2,110           $2,510         $1,260         $1,570          $4,950          $1,710
+ 3-5                  19,320          5,200          2,220            2,560          1,090          1,480           4,950           1,820
+ 6-8                  18,900          5,200          2,840            2,620          1,090          1,430           3,780           1,940
+ 9 - 11               20,200          5,200          3,440            2,660          1,350          1,780           3,780           1,990
+12 - 14               20,540          5,200          3,430            2,810          1,490          1,730           4,040           1,840
+15 - 17               22,730          5,200          3,590            3,000          1,450          1,800           5,880           1,810
+Total expenses      $363,000        $93,600        $52,890          $48,480        $23,190        $29,370         $82,140         $33,330
+
+Estimates are based on 2011-15 Consumer Expenditure Survey data (all data updated to 2015 dollars by using the Midwest region Consumer
+Price Index‒All Urban Consumers). For each age category, the expense estimates represent average child-rearing expenditures for each
+age (e.g., the expense for the 3-5 age category, on average, applies to the 3-year-old, the 4-year-old, or the 5-year-old). The Total expenses
+(0 - 17) row represents the expenditure sum of all ages (0, 1, 2, 3, ...17) in 2015 dollars. The figures represent estimated expenses on the
+younger child in a two-child family. Estimates are about the same for the older child, so to calculate expenses for two children, figures should
+be summed for the appropriate age categories. To estimate expenses for an only child, multiply the total expense for the appropriate age
+category by 1.27. To estimate expenses for each child in a family with three or more children, multiply the total expense for each
+appropriate age category by 0.76. For expenses on all children in a family, these totals should be summed.
+
+The Midwestern region consists of Illinois, Indiana, Iowa, Kansas, Michigan, Minnesota, Missouri, Nebraska, North Dakota, Ohio,
+South Dakota, and Wisconsin.
+
+a
+    Includes only families with child care and education expenses.
+b
+    Includes personal care items, entertainment, and reading materials.
+
+
+
+
+                                                                      27
+                                                 Expenditures on Children by Families, 2015
+Table 5. Estimated annual expenditures on a child by married-couple families, urban South, 2015
+
+							                                                          Child care
+               Total					                                 Health    and
+Age of child expense Housing Food Transportation Clothing  care  educationa Miscellaneousb
+
+Before-tax income: Less than $59,200 (Average = $36,500)
+ 0-2                  $9,680         $2,890          $1,360          $1,260            $790           $770           $2,220            $390
+ 3-5                   9,710          2,890           1,400           1,310             660            720            2,220             510
+ 6-8                   9,320          2,890           2,000           1,370             660            740            1,040             620
+ 9 - 11                9,960          2,890           2,270           1,410             820            850            1,040             680
+12 - 14                9,650          2,890           2,360           1,560             880            820              610             530
+15 - 17               10,110          2,890           2,370           1,750             850            860              890             500
+Total expenses      $175,290        $52,020         $35,280         $25,980         $13,980        $14,280          $24,060          $9,690
+
+Before-tax income: $59,200 to $107,400 (Average = $82,000)							
+ 0-2                 $12,540         $3,360          $1,620          $1,850            $860         $1,120           $2,970           $760
+ 3-5                  12,610          3,360           1,730           1,900             720          1,050            2,970            880
+ 6-8                  12,240          3,360           2,340           1,950             720          1,080            1,800            990
+ 9 - 11               13,080          3,360           2,740           2,000             910          1,220            1,800          1,050
+12 - 14               12,980          3,360           2,850           2,140             990          1,180            1,560            900
+15 - 17               13,900          3,360           2,870           2,330             960          1,240            2,270            870
+Total expenses      $232,050        $60,480         $42,450         $36,510         $15,480        $20,670          $40,110        $16,350
+
+Before-tax income: More than $107,400 (Average = $183,500)
+ 0-2                 $19,420         $4,990          $2,250          $2,650          $1,230         $1,520           $5,200         $1,580
+ 3-5                  19,460          4,990           2,360           2,700           1,070          1,440            5,200          1,700
+ 6-8                  19,060          4,990           3,010           2,760           1,070          1,390            4,030          1,810
+ 9 - 11               20,350          4,990           3,620           2,800           1,310          1,730            4,030          1,870
+12 - 14               20,740          4,990           3,620           2,950           1,450          1,680            4,340          1,710
+15 - 17               23,090          4,990           3,790           3,140           1,410          1,750            6,320          1,690
+Total expenses      $366,360        $89,820         $55,950         $51,000         $22,620        $28,530          $87,360        $31,080
+
+Estimates are based on 2011-15 Consumer Expenditure Survey data (all data updated to 2015 dollars by using the South region Consumer
+Price Index‒All Urban Consumers). For each age category, the expense estimates represent average child-rearing expenditures for each
+age (e.g., the expense for the 3-5 age category, on average, applies to the 3-year-old, the 4-year-old, or the 5-year-old). The Total expenses
+(0 - 17) row represents the expenditure sum of all ages (0, 1, 2, 3, ...17) in 2015 dollars. The figures represent estimated expenses on the
+younger child in a two-child family. Estimates are about the same for the older child, so to calculate expenses for two children, figures should
+be summed for the appropriate age categories. To estimate expenses for an only child, multiply the total expense for the appropriate age
+category by 1.27. To estimate expenses for each child in a family with three or more children, multiply the total expense for each
+appropriate age category by 0.76. For expenses on all children in a family, these totals should be summed.
+
+The Southern region consists of Alabama, Arkansas, Delaware, District of Columbia, Florida, Georgia, Kentucky, Louisiana, Maryland,
+Mississippi, North Carolina, Oklahoma, South Carolina, Tennessee, Texas, Virginia, and West Virginia.
+
+
+a
+    Includes only families with child care and education expenses.
+b
+    Includes personal care items, entertainment, and reading materials.
+
+
+
+
+                                                                       28
+                                                 Expenditures on Children by Families, 2015
+Table 6. Estimated annual expenditures on a child by married-couple families, rural areas, 2015
+
+							                                                          Child care
+               Total					                                 Health    and
+Age of child expense Housing Food Transportation Clothing  care  educationa Miscellaneousb
+
+Before-tax income: Less than $59,200 (Average = $36,100)					
+ 0-2              $8,000        $2,060        $1,180       $1,180   $670     $820  $1,720                                             $370
+ 3-5                8,020        2,060         1,230        1,230     540     760   1,720                                              480
+ 6-8                7,650        2,060         1,770        1,280     540     780     620                                              600
+ 9 - 11             8,270        2,060         2,030        1,330     680     900     620                                              650
+12 - 14             8,200        2,060         2,110        1,470     740     860     460                                              500
+15 - 17             8,630        2,060         2,130        1,660     720     910     680                                              470
+Total expenses $146,310        $37,080       $31,350      $24,450 $11,670 $15,090 $17,460                                           $9,210
+								
+Before-tax income: $59,200 to $107,400 (Average = $79,500)							
+ 0-2             $10,380        $2,400       $1,450        $1,770    $740  $1,180  $2,100                                            $740
+ 3-5              10,440         2,400        1,560         1,820     600   1,110   2,100                                             850
+ 6-8              10,090         2,400        2,120         1,870     600   1,130   1,000                                             970
+ 9 - 11           10,880         2,400        2,500         1,910     770   1,280   1,000                                           1,020
+12 - 14           10,960         2,400        2,600         2,060     850   1,240     940                                             870
+15 - 17           11,590         2,400        2,620         2,250     820   1,290   1,370                                             840
+Total expenses $193,020        $43,200      $38,550       $35,040 $13,140 $21,690 $25,530                                         $15,870
+								
+Before-tax income: More than $107,400 (Average = $156,800)							
+ 0-2                 $14,940         $3,560         $2,080           $2,570         $1,080         $1,590           $2,510         $1,550
+ 3-5                  14,970          3,560          2,190            2,620            920          1,500            2,510          1,670
+ 6-8                  14,600          3,560          2,800            2,670            920          1,450            1,420          1,780
+ 9 - 11               15,880          3,560          3,380            2,720          1,150          1,810            1,420          1,840
+12 - 14               15,970          3,560          3,380            2,860          1,270          1,750            1,460          1,690
+15 - 17               17,000          3,560          3,540            3,050          1,240          1,830            2,120          1,660
+Total expenses      $280,080        $64,080        $52,110          $49,470        $19,740        $29,790          $34,320        $30,570
+
+Estimates are based on 2011-15 Consumer Expenditure Survey data (all data updated to 2015 dollars by using the Consumer Price Index for
+nonmetropolitan areas. For each age category, the expense estimates represent average child-rearing expenditures for each age (e.g., the
+expense for the 3-5 age category, on average, applies to the 3-year-old, the 4-year-old, or the 5-year-old). The Total expenses (0 - 17) row
+represents the expenditure sum of all ages (0, 1, 2, 3, ...17) in 2015 dollars. The figures represent estimated expenses on the younger child in
+a two-child family. Estimates are about the same for the older child, so to calculate expenses for two children, figures should be summed for
+the appropriate age categories. To estimate expenses for an only child, multiply the total expense for the appropriate age category by 1.27. To
+estimate expenses for each child in a family with three or more children, multiply the total expense for each appropriate age category by 0.76.
+For expenses on all children in a family, these totals should be summed.
+
+Rural areas are places of fewer than 2,500 people outside a Metropolitan Statistical Area.
+
+a
+    Includes only families with child care and education expenses.
+b
+    Includes personal care items, entertainment, and reading materials.
+
+				
+
+
+
+
+                                                                      29
+                                                 Expenditures on Children by Families, 2015
+Table 7. Estimated annual expenditures on a child by single-parent families, overall United States, 2015
+
+							                                                          Child care
+               Total					                                 Health    and
+Age of child expense Housing Food Transportation Clothing  care  educationa Miscellaneousb
+
+Before tax income: Less than $59,200 (Average = $24,400)						
+ 0-2              $9,090        $3,360       $1,610        $710   $400    $610  $1,940                                          $460
+ 3-5               9,310         3,360         1,550        880    290     690   1,940                                            600
+ 6-8               8,800         3,360         2,010        840    320     630     980                                            660
+ 9 - 11            9,550         3,360         2,230        940    450     750   1,030                                            790
+12 - 14           10,110         3,360         2,390      1,000    500     790   1,320                                            750
+15 - 17           10,540         3,360         2,350      1,080    460     850   1,790                                            650
+Total expenses $172,200        $60,480      $36,420     $16,350 $7,260 $12,960 $27,000                                        $11,730
+								
+Before tax income: More than $59,200 (Average = $99,000)							
+ 0-2                 $16,500          $5,500          $2,430          $1,570           $550          $1,140         $4,000          $1,310
+ 3-5                   16,740          5,500           2,390           1,730            420           1,250           4,000          1,450
+ 6-8                   16,370          5,500           2,900           1,700            450           1,160           3,150          1,510
+ 9 - 11                17,800          5,500           3,510           1,800            630           1,390           3,330          1,640
+12 - 14                18,740          5,500           3,540           1,850            730           1,450           4,070          1,600
+15 - 17                20,190          5,500           3,500           1,940            680           1,530           5,530          1,510
+Total expenses $319,020              $99,000         $54,810         $31,770        $10,380        $23,760         $72,240        $27,060
+						
+Estimates are based on 2011-15 Consumer Expenditure Survey data (all data updated to 2015 dollars by using the Consumer Price Index‒
+All Urban Consumers). For each age category, the expense estimates represent average child-rearing expenditures for each age (e.g.,
+the expense for the 3-5 age category, on average, applies to the 3-year-old, the 4-year-old, or the 5-year-old). The Total expenses (0 - 17)
+row represents the expenditure sum of all ages (0, 1, 2, 3, ...17) in 2015 dollars. The figures represent estimated expenses on the younger
+child in a single-parent, two-child family. For estimated expenses on the older child, multiply the total expense for the appropriate age
+category by 0.96. To estimate expenses for two children, the expenses on the younger child and older child after adjusting the expense on
+the older child downward should be summed for the appropriate age categories. To estimate expenses for an only child, multiply the total
+expense for the appropriate age category by 1.26. To estimate expenses for each child in a family with three or more children, multiply the
+total expense for each appropriate age category by 0.78 after adjusting the expenses on the older children downward. For expenses on all
+children in a family, these totals should be summed.
+
+a
+    Includes only families with child care and education expenses.
+b
+    Includes personal care items, entertainment, and reading materials.
+
+
+
+
+                                                                      30
+                                                 Expenditures on Children by Families, 2015
+

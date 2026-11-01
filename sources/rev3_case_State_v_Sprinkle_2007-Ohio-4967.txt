@@ -1,0 +1,513 @@
+[Cite as State v. Sprinkle, 2007-Ohio-4967.]
+
+
+
+                                      IN THE COURT OF APPEALS
+
+                            TWELFTH APPELLATE DISTRICT OF OHIO
+
+                                               WARREN COUNTY
+
+
+
+
+STATE OF OHIO,                                       :
+
+        Plaintiff-Appellee,                          :    CASE NO. CA2006-08-101
+
+                                                     :         OPINION
+    - vs -                                                      9/24/2007
+                                                     :
+
+JOHNNETTA SPRINKLE,                                  :
+
+        Defendant-Appellant.                         :
+
+
+       CRIMIAL APPEAL FROM WARREN COUNTY COURT OF COMMON PLEAS
+                            Case No. 05CR22511
+
+
+Rachel A. Hutzel, Warren County Prosecuting Attorney, Joshua A. Engel, 500 Justice Drive,
+Lebanon, Ohio 45036, for plaintiff-appellee
+
+Patricia J. Downing, 723 Dayton Street, Hamilton, Ohio 45011, for defendant-appellant
+
+
+
+        BRESSLER, P.J.
+
+        {¶1}     Defendant-appellant, Johnetta Sprinkle, appeals the decision of the Warren
+
+County Court of Common Pleas convicting her of interference with custody. We affirm
+
+appellant's conviction.
+
+        {¶2}     Appellant and Nicky McGuire married in 1995 and had a child, who was
+
+approximately eight years old at the time of the trial. Appellant and McGuire divorced in 1997
+
+and subsequently entered into a shared-parenting agreement ("the agreement"). Under the
+
+agreement, appellant was granted parenting time with the child every other weekend and on
+                                                                    Warren CA2006-08-101
+
+alternate weeks, Monday through Friday, 4:00 p.m. to 9:00 p.m. The agreement also
+
+provided appellant with parenting time with the child for two continuous weeks during the
+
+summer, but only upon 30-days written notice to McGuire. Either parent could modify the
+
+agreement upon the other’s consent.
+
+      {¶3}   In accordance with the agreement, appellant was scheduled to have parenting
+
+time with the child from Friday, July 15, 2005, until Sunday, July 17, 2005. McGuire was
+
+aware that appellant had planned to take the child with her to Corbin, Kentucky, and he
+
+agreed the child could remain with appellant until Monday, July 18, 2005.
+
+      {¶4}   Appellant failed to return with the child on July 18, 2005. McGuire contacted
+
+appellant in Kentucky several times throughout the week and reported appellant's violation of
+
+the agreement to Officer Smith of the Franklin Police Department on July 22, 2005. Officer
+
+Smith then contacted appellant and informed her of McGuire's complaint that she was in
+
+violation of the agreement. Appellant returned with the child on July 25, 2005, and was later
+
+arrested.
+
+      {¶5}   A Warren County Grand Jury indicted appellant on one count of interfering with
+
+custody in violation of R.C. 2919.23(A). The case proceeded to jury trial on July 11, 2006.
+
+The jury found appellant guilty as charged. As a result, the court sentenced appellant to 90
+
+days in jail with work release and three years of community control. Appellant timely
+
+appealed, raising two assignments of error.
+
+      {¶6}   Assignment of Error No. 1:
+
+      {¶7}   "THE TRIAL COURT IMPROPERLY ALLOWED A POLICE OFFICER TO
+
+SPECULATE ABOUT THE APPELLANT IN HIS TESTIMONY, WHICH UNFAIRLY
+
+PREJUDICED HER RIGHT TO A FAIR TRIAL."
+
+      {¶8}   Appellant argues that the trial court improperly admitted statements made by
+
+Officer Smith regarding what he thought appellant should have done under the
+                                              -2-
+                                                                    Warren CA2006-08-101
+
+circumstances and what he would have done if he were facing a criminal charge.
+
+Specifically, appellant argues that the following testimony given by Officer Smith in his re-
+
+direct examination was irrelevant, improper and unfairly prejudicial:
+
+       {¶9}   "Q: Did the defendant ever tell you that she had permission to keep the child
+
+for this eight or ten days?
+
+       {¶10} "A: No, she did not.
+
+       {¶11} "Q: That would be a reasonable thing for her to say after you told her you've
+
+got to bring the child back because you're facing charges, wouldn’t it be?
+
+       {¶12} "A: Yes, sir…
+
+       {¶13} "[Appellant’s attorney]: Objection, Judge, to the term 'reasonable' or not. I
+
+think that’s speculative.
+
+       {¶14} "The Court: Overruled.
+
+       {¶15} "[State's attorney]: You may answer.
+
+       {¶16} "A: Yes, it would.
+
+       {¶17} "Q: Why is that?
+
+       {¶18} "A: Well, if I was facing a criminal charge, I would try to explain why I was
+
+committing such a crime.
+
+       {¶19} "Q: And she never did, did she?
+
+       {¶20} "A: No."
+
+       {¶21} This testimony was given after appellant's attorney ended the cross-
+
+examination of the officer by asking whether, during his telephone conversation with
+
+appellant, he ever asked her if she had consent to keep the child. The officer replied that he
+
+did not ask her. Then, on re-direct, the state followed up with the challenged line of
+
+questioning quoted above.
+
+
+                                             -3-
+                                                                       Warren CA2006-08-101
+
+       {¶22} Generally, the decision to admit or exclude relevant evidence is within the
+
+sound discretion of the trial court. State v. Rivera-Carillo, Butler App. No. CA2001-03-054,
+
+2002-Ohio-1013. In this case, however, appellant's objection to the testimony during the trial
+
+only dealt with the term "reasonable" and whether it was speculative. Therefore, we review
+
+her challenge to the testimony's relevance and prejudicial value for plain error only. Id.
+
+       {¶23} An appellate court need not consider an error not called to the trial court's
+
+attention at a time when the error could have been avoided or corrected by that court. State
+
+v. Williams (1977), 51 Ohio St.2d 112, 117. "Accordingly, a claim of error in such a situation
+
+is usually deemed to be waived absent plain error." State v. Hill (2001), 92 Ohio St.3d 191,
+
+citing Crim.R. 52(B).
+
+       {¶24} Pursuant to Crim.R. 52(B), "[p]lain errors or defects affecting substantial rights
+
+may be noticed although they were not brought to the attention of the court." The rule places
+
+three limitations on an appellate court's decision to correct an error, despite the absence of a
+
+timely objection at trial: (1) there must be an error; (2) the error must be plain, or an "obvious
+
+defect in the trial proceedings"; and (3) the error must have affected the outcome of the trial.
+
+State v. Barnes (2001), 94 Ohio St.3d 21, 27, (citations omitted).
+
+       {¶25} Even if a forfeited error satisfies these requirements, however, Crim.R. 52(B)
+
+does not demand that an appellate court correct it. Id. Notice of plain error "is to be taken
+
+with the utmost caution, under exceptional circumstances, and only to prevent a manifest
+
+miscarriage of justice." State v. Haney, Clermont App. No. CA2005-07-068, 2006-Ohio-
+
+3899, at ¶50, quoting State v. Long (1978), 53 Ohio St.2d 91, paragraph three of the
+
+syllabus.
+
+       {¶26} Determining whether an error occurred is the starting point of the plain error
+
+inquiry. State v. Hill (2001), 92 Ohio St.3d 191. Relevant evidence is evidence that tends to
+
+make the existence of any fact of consequence to the outcome of the action more or less
+                                               -4-
+                                                                     Warren CA2006-08-101
+
+probable than it would be without that evidence. State v. Sage (1987), 31 Ohio St.3d 173,
+
+180; Ohio Evid.R. 401. Ohio Rule of Evidence 403(A) requires that evidence, although
+
+relevant, must be excluded when the danger of unfair prejudice substantially outweighs its
+
+probative value.
+
+       {¶27} In considering the officer's statement in the context of his entire testimony, we
+
+cannot find any obvious error in admitting the statement. The officer's testimony was given in
+
+a follow-up line of questioning by the prosecutor after the defense attorney purportedly
+
+attempted to elicit testimony that appellant, in her conversation with Officer Smith, did not
+
+have the opportunity to state she had consent to keep the child. Furthermore, this re-direct
+
+examination occurred after Officer Smith had already testified that he spoke to appellant on
+
+the phone after McGuire came into the police department to file a report and that appellant
+
+told him that McGuire needed "to do what he has to do because she wasn't coming back."
+
+Further, Officer Smith testified that he advised her of the charges and complaint and gave
+
+her an opportunity to bring the child back as soon as possible, but appellant refused.
+
+Therefore, in the context of Officer Smith's entire testimony, we cannot find that it was
+
+obvious error to admit the challenged testimony.
+
+       {¶28} Even if the court erred in admitting Officer Smith's testimony, and the error was
+
+obvious, appellant cannot show that the outcome of the trial would have been different had
+
+the trial court excluded the challenged testimony. There was ample evidence to support the
+
+jury's guilty finding independent of Officer Smith's challenged testimony. McGuire testified
+
+that in his conversation with appellant on Tuesday, July 19, 2005, appellant told him that she
+
+was not going to bring their daughter back immediately because McGuire "had enough time
+
+with her and it was [appellant's] time to spend with her," "it was her daughter, too," and that
+
+appellant "could do what she wanted to, regardless of what the parenting order stated." He
+
+also testified that he made several phone calls to appellant before he contacted the Franklin
+                                              -5-
+                                                                    Warren CA2006-08-101
+
+Police Department, and appellant hung upon him several times after he demanded she bring
+
+their daughter back home. He stated that he decided to go to the police after appellant told
+
+him that he would not see his daughter again. McGuire also testified that he had agreed to
+
+modify the agreement so that appellant could extend her parenting time until Monday, July
+
+18, 2005, but never consented to any additional modifications.
+
+       {¶29} In addition to the testimony by Officer Smith and McGuire, appellant herself
+
+acknowledged in her cross-examination that she kept her daughter in violation of the
+
+agreement. She testified that she was not exercising her summer parenting time or holiday
+
+time. Further, when asked, "So what you're saying is if you just told him you were going to
+
+stay, it didn’t matter if he agreed or not?" she answered, "Right. Because I am the mother. I
+
+did give birth to her. I think I have a right in this, too."
+
+       {¶30} Later, in her cross-examination, appellant gave the following testimony:
+
+       {¶31} "Q: So it's true, then, isn't it, that [McGuire] never specifically gave you
+
+permission to keep [the child] in Kentucky for seven days?
+
+       {¶32} "A: Not for seven days, no.
+
+       {¶33} "Q: So you're admitting, then, aren't you, that there was never an agreement
+
+between you and [McGuire] that you could keep [the child] for this length of time? [Objection
+
+omitted.]
+
+       {¶34} "A: Yes."
+
+       {¶35} It was never disputed that appellant kept the child beyond the time provided for
+
+in the agreement. Accordingly, we do not find that plain error occurred by admission of the
+
+challenged testimony. Appellant's first assignment of error is overruled.
+
+       {¶36} Assignment of Error No. 2:
+
+       {¶37} "THE TRIAL COURT'S [sic] IMPROPERLY DENIED APPELLANT'S MOTION
+
+TO DISMISS AND IT'S [sic] DECISION WAS AGAINST THE MANIFEST WEIGHT OF THE
+                                                 -6-
+                                                                      Warren CA2006-08-101
+
+EVIDENCE."
+
+       {¶38} In her second assignment of error, appellant first argues that the trial court
+
+erred in denying her Crim.R. 29(A) motion for judgment of acquittal, that R.C. 2919.23 was
+
+not intended to apply to her as a parent in a shared parenting agreement, and that the court's
+
+interpretation of the statute in conjunction with the facts of this case is contrary to law.
+
+       {¶39} Pursuant to Crim.R. 29(A), a court shall not enter a judgment of acquittal unless
+
+"the evidence is insufficient to sustain a conviction of such offense." In reviewing evidence
+
+for its sufficiency, a court assesses not whether the state's evidence is to be believed, but
+
+whether, if believed, the evidence against a defendant would support a conviction. State v.
+
+Thompkins, 78 Ohio St.3d 380, 390, 1997-Ohio-52. The relevant inquiry is whether, after
+
+viewing the evidence in a light most favorable to the prosecution, any rational trier of fact
+
+could have found the essential elements of the crime proven beyond a reasonable doubt.
+
+State v. Jenks (1991), 61 Ohio St.3d 259, paragraph two of the syllabus. A court should
+
+grant the Rule 29(A) motion "only where reasonable minds could not fail to find reasonable
+
+doubt." State v. Apanovitch (1987), 33 Ohio St.3d 19, 23.
+
+       {¶40} In order for the jury to find appellant guilty of R.C. 2919.23(A), the state of Ohio
+
+had to prove that appellant, knowing she was without privilege to do so or was reckless in
+
+that regard, took, kept, or harbored a child under the age of 18 from the parent, guardian or
+
+custodian of that child. Appellant asserts that the statute does not apply in the context of a
+
+shared parenting plan because she is the custodial parent of the child so long as the child is
+
+with her pursuant to R.C. 3109.04. Therefore, appellant argues, that although she allegedly
+
+kept the child in violation of the agreement, she had "custody" and could not have violated
+
+the criminal statute. We disagree.
+
+       {¶41} A parent with visitation rights under a court order can be charged with violating
+
+R.C. 2919.23 if she keeps her child without privilege to do so. State v. Brickles (Sept. 3,
+                                              -7-
+                                                                      Warren CA2006-08-101
+
+1999), Montgomery App. No. 98-CRB-1054, 1999 WL 957643; see, also, State v. West (Apr.
+
+24, 2002), Highland App. No. 01CA10, 2002-Ohio-2114. In Brickles, the primary case cited
+
+by appellant, a father kept his daughter in violation of a visitation order. The father argued
+
+that R.C. 2919.23 could not apply to a parent with visitation rights. The court of appeals,
+
+however, found that a plain reading of the statute "does not exclude parents with visitation
+
+from its reach." Brickles, 1999 WL 957643 at *5.
+
+       {¶42} Although appellant in this case attempts to distinguish Brickles by arguing that
+
+the father was a party to a visitation arrangement rather than a shared parenting plan, we find
+
+her argument without merit. In Brickles, the father attempted to distinguish his case from that
+
+of another case where the parent had no visitation rights and was convicted under the same
+
+statute. The court was unable "to draw a principled exception to the statute based solely on
+
+the existence of visitation rights." Brickles, 1999 WL 957643 at *5. The court found that in
+
+both cases, the parents' natural privileges regarding custody were limited by court order, and
+
+because the privileges granted by the visitation order were specific to the times listed, the
+
+father's situation was not distinguishable.
+
+       {¶43} As in Brickles, appellant's natural parenting privileges were limited by the court-
+
+ordered agreement. During appellant's trial, the state presented the agreement that specified
+
+McGuire as the residential parent for school and holiday purposes and provided that
+
+appellant have parenting time "alternate weekends, Friday 4:00 p.m. until Sunday 6:00 p.m.
+
+… and alternate weeks Monday through Friday 4:00 p.m. to 9:00 p.m." The agreement also
+
+gave appellant two weeks of uninterrupted summer parenting time upon 30-day prior written
+
+notice to McGuire. The plan specified that McGuire "shall have parenting time at all other
+
+times" and that the schedule "may be modified upon parent's [sic] mutual agreement."
+
+Therefore, we find appellant's argument that R.C. 2919.23 does not apply to her situation
+
+without merit.
+                                              -8-
+                                                                      Warren CA2006-08-101
+
+         {¶44} In addition, the state presented evidence sufficient to sustain a conviction of
+
+such offense pursuant to Crim.R. 29(A). McGuire testified that he had consented to allowing
+
+appellant to keep their daughter until Monday, July 18, 2005, but not until July 25, 2005. This
+
+testimony was supported by the fact that McGuire had only packed enough clothes for their
+
+daughter to last two or three days. Also, McGuire testified that appellant originally told him
+
+that she would return in "two or three days" or "a few days." Further, McGuire testified that in
+
+response to his phone call informing appellant that her parenting time was over, appellant
+
+told him that she was not coming back to Ohio and that he would not see his daughter again.
+
+         {¶45} McGuire's testimony was consistent with Officer Smith's testimony of his
+
+conversation with appellant. Officer Smith testified that in his conversation with appellant, he
+
+notified appellant of the complaint made by McGuire, to which appellant only responded by
+
+saying that McGuire could do what he had to do, because she was not coming back.
+
+Further, appellant herself denied that she was exercising the two-week summer parenting
+
+time provided for in the agreement. Appellant also admitted that she kept her daughter for
+
+ten days contrary to the agreement and had no justification for doing so other than her status
+
+as the child's mother. Therefore, the state presented sufficient evidence to show that
+
+appellant, in violating the agreement, knowingly kept her daughter from McGuire, the parent
+
+who was to have physical custody of the child pursuant to the agreement, without privilege to
+
+do so.
+
+         {¶46} Second, appellant argues that her conviction is against the manifest weight of
+
+the evidence. When reviewing the manifest weight of the evidence to determine whether
+
+reversal is warranted, the court reviews the entire record, weighs the evidence and all
+
+reasonable inferences, considers the credibility of witnesses, and determines whether, in
+
+resolving conflicts in the evidence, the jury clearly lost its way, creating such a manifest
+
+miscarriage of justice that the court must reverse the conviction and order a new trial. State
+                                              -9-
+                                                                    Warren CA2006-08-101
+
+v. Thompkins, 78 Ohio St.3d. 380, 387, 1997-Ohio-52. A court should only exercise its
+
+discretionary power to grant a new trial in the exceptional case in which the evidence weighs
+
+heavily against the conviction. Id. When reviewing the evidence, an appellate court must be
+
+mindful that the original trier of fact was in the best position to judge the credibility of
+
+witnesses and the weight to be given to the evidence. State v. DeHass (1967), 10 Ohio St.2d
+
+230, paragraph one of the syllabus.
+
+      {¶47} In reviewing the entire record and weighing the evidence and all reasonable
+
+inferences, we cannot determine that the jury clearly lost its way and created a manifest
+
+miscarriage of justice that would cause us to reverse appellant's conviction. As previously
+
+discussed, the state presented ample evidence to support appellant's conviction.
+
+Furthermore, the testimony of the state's witnesses combined with appellant's own
+
+admissions in her cross-examination proved beyond a reasonable doubt that (1) appellant did
+
+not have the right to keep her daughter during the week of July 19-25, 2005, (2) McGuire was
+
+the residential parent of their child during that time, and (3) appellant knew that she was
+
+keeping her daughter, without privilege to do so, in violation of R.C. 2919.23. Accordingly,
+
+appellant's second assignment of error is overruled.
+
+      {¶48} Judgment affirmed.
+
+
+      WALSH and POWELL, JJ., concur.
+
+
+
+
+                                            - 10 -
+[Cite as State v. Sprinkle, 2007-Ohio-4967.]
+

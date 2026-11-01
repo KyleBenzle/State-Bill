@@ -1,0 +1,243 @@
+Source: https://www.supremecourt.ohio.gov/docs/LegalResources/Rules/evidence/evidence.pdf
+Retrieved: 2026-10-04 (pdftotext extract)
+
+RULE 101.     Scope of Rules: Applicability; Privileges; Exceptions.
+
+(A)   Applicability
+
+      These rules govern proceedings in the courts of this state, subject to the exceptions stated
+      in division (D) of this rule.
+
+(B)   Privileges
+
+      The rule with respect to privileges applies at all stages of all actions, cases, and proceedings
+      conducted under these rules.
+
+(C)   Definitions
+
+      As used in these rules:
+
+              (1)     “Present” means the physical or remote presence of an individual.
+
+              (2)    “Remote presence” means the presence of a person who is using live two-
+              way video and audio technology.
+
+(D)   Exceptions
+
+      These rules (other than with respect to privileges) do not apply in the following situations:
+
+              (1)    Determinations prerequisite to rulings on the admissibility of evidence
+              when the issue is to be determined by the court under Evid.R. 104;
+
+              (2)     Proceedings before grand juries;
+
+              (3)    Proceedings for extradition or rendition of fugitives; sentencing; granting
+              or revoking probation; proceedings with respect to community control sanctions;
+              issuance of warrants for arrest, criminal summonses and search warrants; and
+              proceedings with respect to release on bail or otherwise;
+
+              (4)     Contempt proceedings in which the court may act summarily;
+
+              (5)     Proceedings for those mandatory arbitrations of civil cases authorized by
+              the rules of superintendence and governed by local rules of court;
+
+              (6)    Proceedings in which other rules prescribed by the Supreme Court govern
+              matters relating to evidence;
+                (7)   Special statutory proceedings of a non-adversary nature in which these rules
+                would by their nature be clearly inapplicable;
+
+                (8)      Proceedings in the small claims division of a county or municipal court.
+
+(E)     Court orders regarding physical appearance
+
+        As used in these rules, any option to use live two-way video and audio technology shall
+        not be construed to limit the power of a court to order that a party, attorney, or witness
+        physically appear at a proceeding without the use of live two-way video and audio
+        technology.
+
+
+----
+RULE 803.     Hearsay Exceptions; Availability of Declarant Immaterial.
+
+The following are not excluded by the hearsay rule, even though the declarant is available as a
+witness:
+
+       (1)    Present sense impression
+
+              A statement describing or explaining an event or condition made while the
+              declarant was perceiving the event or condition, or immediately thereafter unless
+              circumstances indicate lack of trustworthiness.
+
+       (2)    Excited utterance
+
+              A statement relating to a startling event or condition made while the declarant was
+              under the stress of excitement caused by the event or condition.
+
+       (3)    Then existing, mental, emotional, or physical condition
+
+              A statement of the declarant's then existing state of mind, emotion, sensation, or
+              physical condition (such as intent, plan, motive, design, mental feeling, pain, and
+              bodily health), but not including a statement of memory or belief to prove the fact
+              remembered or believed unless it relates to the execution, revocation, identification,
+              or terms of declarant's will.
+
+       (4)    Statements for purposes of medical diagnosis or treatment
+
+              Statements made for purposes of medical diagnosis or treatment and describing
+              medical history, or past or present symptoms, pain, or sensations, or the inception
+              or general character of the cause or external source thereof insofar as reasonably
+              pertinent to diagnosis or treatment.
+
+       (5)    Recorded recollection
+
+              A memorandum or record concerning a matter about which a witness once had
+              knowledge but now has insufficient recollection to enable him to testify fully and
+              accurately, shown by the testimony of the witness to have been made or adopted
+              when the matter was fresh in his memory and to reflect that knowledge correctly.
+              If admitted, the memorandum or record may be read into evidence but may not
+              itself be received as an exhibit unless offered by an adverse party.
+
+       (6)    Records of regularly conducted activity
+
+              A memorandum, report, record, or data compilation, in any form, of acts, events,
+              or conditions, made at or near the time by, or from information transmitted by, a
+              person with knowledge, if kept in the course of a regularly conducted business
+              activity, and if it was the regular practice of that business activity to make the
+       memorandum, report, record, or data compilation, all as shown by the testimony of
+       the custodian or other qualified witness or as provided by Rule 901(B)(10), unless
+       the source of information or the method or circumstances of preparation indicate
+       lack of trustworthiness. The term "business" as used in this paragraph includes
+       business, institution, association, profession, occupation, and calling of every kind,
+       whether or not conducted for profit.
+
+(7)   Absence of entry in record kept in accordance with the provisions of
+paragraph (6)
+
+       Evidence that a matter is not included in the memoranda, reports, records, or data
+       compilations, in any form, kept in accordance with the provisions of paragraph (6),
+       to prove the nonoccurrence or nonexistence of the matter, if the matter was of a
+       kind of which a memorandum, report, record, or data compilation was regularly
+       made and preserved, unless the sources of information or other circumstances
+       indicate lack of trustworthiness.
+
+(8)    Public records and reports
+
+       Records, reports, statements, or data compilations, in any form, of public offices or
+       agencies, setting forth (a) the activities of the office or agency, or (b) matters
+       observed pursuant to duty imposed by law as to which matters there was a duty to
+       report, excluding, however, in criminal cases matters observed by police officers
+       and other law enforcement personnel, unless offered by defendant, unless the
+       sources of information or other circumstances indicate lack of trustworthiness.
+
+(9)    Records of vital statistics
+
+       Records or data compilations, in any form, of births, fetal deaths, deaths, or
+       marriages, if the report thereof was made to a public office pursuant to requirement
+       of law.
+
+(10)   Absence of public record
+
+       Testimony—or a certification under Evid.R. 901(B)(10)—that a diligent search
+       failed to disclose a public record or statement if:
+
+              (a)     The testimony or certification is admitted to prove that:
+
+                      (i)     The record or statement does not exist; or
+
+                      (ii)    A matter did not occur or exist, if a public office regularly
+                      kept a record or statement for a matter of that kind; and
+
+              (b)    In a criminal case, a prosecutor who intends to offer a certification
+              provides written notice of that intent at least 14 days before trial, and the
+              defendant does not object in writing within 7 days of receiving the notice
+              — unless the court sets a different time for the notice or the objection.
+
+(11)   Records of religious organizations
+
+       Statements of births, marriages, divorces, deaths, legitimacy, ancestry, relationship
+       by blood or marriage, or other similar facts of personal or family history, contained
+       in a regularly kept record of a religious organization.
+
+(12)   Marriage, baptismal, and similar certificates
+
+       Statements of fact contained in a certificate that the maker performed a marriage or
+       other ceremony or administered a sacrament, made by a clergyman, public official,
+       or other person authorized by the rules or practices of a religious organization or by
+       law to perform the act certified, and purporting to have been issued at the time of
+       the act or within a reasonable time thereafter.
+
+(13)   Family records
+
+       Statements of fact concerning personal or family history contained in family Bibles,
+       genealogies, charts, engravings on rings, inscriptions on family portraits,
+       engravings on urns, crypts, or tombstones, or the like.
+
+(14)   Records of documents affecting an interest in property
+
+       The record of a document purporting to establish or affect an interest in property,
+       as proof of the content of the original recorded document and its execution and
+       delivery by each person by whom it purports to have been executed, if the record
+       is a record of a public office and an applicable statute authorizes the recording of
+       documents of that kind in that office.
+
+(15)   Statements in documents affecting an interest in property
+
+       A statement contained in a document purporting to establish or affect an interest in
+       property if the matter stated was relevant to the purpose of the document, unless
+       dealings with the property since the document was made have been inconsistent
+       with the truth of the statement or the purport of the document.
+
+(16)   Statements in ancient documents
+
+       Statements in a document that was prepared before January 1, 1998, and whose
+       authenticity is established.
+(17)   Market reports, commercial publications
+
+       Market quotations, tabulations, lists, directories, or other published compilations,
+       generally used and relied upon by the public or by persons in particular occupations.
+
+(18)   Learned treatises
+
+       To the extent called to the attention of an expert witness upon cross-examination or
+       relied upon by the expert witness in direct examination, statements contained in
+       published treatises, periodicals, or pamphlets on a subject of history, medicine, or
+       other science or art, established as a reliable authority by the testimony or admission
+       of the witness or by other expert testimony or by judicial notice. If admitted, the
+       statements may be read into evidence but may not be received as exhibits.
+
+(19)   Reputation concerning personal or family history
+
+       Reputation among members of the declarant’s family by blood, adoption, or
+       marriage or among the declarant’s associates, or in the community, concerning a
+       person’s birth, adoption, marriage, divorce, death, legitimacy, relationship by
+       blood, adoption or marriage, ancestry, or other similar fact of the declarant’s
+       personal or family history.
+
+(20)   Reputation concerning boundaries or general history
+
+       Reputation in a community, arising before the controversy, as to boundaries of or
+       customs affecting lands in the community, and reputation as to events of general
+       history important to the community or state or nation in which located.
+
+(21)   Reputation as to character
+
+       Reputation of a person's character among the person’s associates or in the
+       community.
+
+(22)   Judgment of previous conviction
+
+       Evidence of a final judgment, entered after a trial or upon a plea of guilty (but not
+       upon a plea of no contest or the equivalent plea from another jurisdiction),
+       adjudging a person guilty of a crime punishable by death or imprisonment in excess
+       of one year, to prove any fact essential to sustain the judgment, but not including,
+       when offered by the Government in a criminal prosecution for purposes other than
+       impeachment, judgments against persons other than the accused. The pendency of
+       an appeal may be shown but does not affect admissibility.
+        (23)     Judgment as to personal, family, or general history, or boundaries
+
+                 Judgments as proof of matters of personal, family or general history, or boundaries,
+                 essential to the judgment, if the same would be provable by evidence of reputation.
+
+Effective Date: July 1, 1980
+Amended: July 1, 2006; July 1, 2007; July 1, 2016; July 1, 2022
+

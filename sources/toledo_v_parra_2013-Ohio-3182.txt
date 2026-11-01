@@ -1,0 +1,338 @@
+[Cite as Toledo v. Parra, 2013-Ohio-3182.]
+
+
+
+
+                            IN THE COURT OF APPEALS OF OHIO
+                                SIXTH APPELLATE DISTRICT
+                                     LUCAS COUNTY
+
+
+City of Toledo                                   Court of Appeals No. L-12-1261
+
+        Appellee                                 Trial Court No. CRB-12-07360
+
+v.
+
+Mary Parra                                       DECISION AND JUDGMENT
+
+        Appellant                                Decided: July 19, 2013
+
+                                             *****
+
+        David L. Toska, City of Toledo Chief Prosecuting Attorney,
+        and Arturo Quintero, Assistant Prosecuting Attorney, for appellee.
+
+        Adam H. Houser for appellant.
+
+                                             *****
+
+        SINGER, P.J.
+
+        {¶ 1} Appellant appeals her conviction for interference with custody entered
+
+following a finding of guilty on a no contest plea in the Toledo Municipal Court.
+
+Because we conclude that a municipal interference with custody ordinance may be
+
+applicable in visitation disputes, we affirm.
+       {¶ 2} Appellant, Mary Parra, is the mother, and, by order of the Lucas County
+
+Court of Common Pleas, Domestic Relations Division, the sole residential parent and
+
+legal custodian of minor children. By the same order, the children’s father, Carlos
+
+Bonilla, was awarded parenting time.
+
+       {¶ 3} On May 1, 2012, Bonilla filed a complaint with the trial court alleging that
+
+appellant interfered with his custody of these children. Appellant pled not guilty and the
+
+court appointed an attorney to represent her.
+
+       {¶ 4} Appellant filed a motion to dismiss, arguing that since disputes concerning
+
+custody and visitation have a remedy in R.C. 2705.031, a criminal sanction should not be
+
+applied. As a matter of policy, appellant argued, this family law matter would be best
+
+handled by the domestic relations court which has already exercised jurisdiction. The
+
+trial court denied the motion, concluding that the motion required examination of the
+
+evidence beyond the face of the complaint.
+
+       {¶ 5} Following the court’s ruling, appellant amended her plea to no contest and
+
+was found guilty of interference with custody in violation of Toledo Municipal Code
+
+515.04. The court imposed a $50 fine and costs. This appeal followed. Appellant sets
+
+forth three assignments of error:
+
+              1. The conviction of the appellant was the result of an improper
+
+       interpretation of the statute by the trial court.
+
+
+
+
+2.
+              2. There was insufficient evidence to convict the appellant of
+
+       interference with custody.
+
+              3. The Toledo Municipal Court was the improper forum for the case
+
+       and was [sic] an abuse of discretion for the court to hear the case.
+
+                                 I. Interpretation of Law
+
+       {¶ 6} In her first assignment of error, appellant maintains that the trial court
+
+misinterpreted the ordinance defining the offense of interference with custody.
+
+       {¶ 7} In material part, Toledo Municipal Code 515.04 provides:
+
+              (a) No person, knowing he is without privilege to do so or being
+
+       reckless in that regard, shall entice, take, keep or harbor any of the
+
+       following persons from his parent, guardian or custodian:
+
+              (1) A child under the age of eighteen, or a mentally or physically
+
+       handicapped child under the age of twenty-one * * *.
+
+       {¶ 8} Except for some minor language modernization in the state version, Toledo
+
+Municipal Code 515.04 is identical to R.C. 2919.23. Appellant concedes that R.C.
+
+2919.23 has been held to be properly employed in the instance of a mother who failed to
+
+return a child to a father in violation of a shared parenting agreement, State v. Sprinkle,
+
+12th Dist. No. CA2006-08-101, 2007-Ohio-4967,¶ 42; see also State v. Brickles, 2d Dist.
+
+No. 17526, 1999 WL 957643 (Sept 3, 1999) (Failed to return daughter after visitation.),
+
+but insists that she has found no use of the law to prosecute a custodial parent who
+
+refuses to comply with an order granting a non-custodial parent parenting time.
+
+
+
+3.
+Moreover, appellant argues, the intent of the legislature is plain in the very title of the
+
+offense: the act prohibited is interference with the custody of a defined person. Since
+
+appellant is the legal custodian of the children at issue here, according to appellant, there
+
+can be no offense by her.
+
+       {¶ 9} It is a rule of statutory construction that, with exceptions inapplicable here,
+
+“Title, Chapter, and section headings * * * do not constitute any part of the law as
+
+contained in the ‘Revised Code,’” R.C. 1.01, thus, consideration of a statute’s title in
+
+ascertaining its meaning is “unnecessary and improper.” State v. Beener, 54 Ohio
+
+App.2d 14, 16, 374 N.E.2d 435 (2d Dist.1977). The principle is equally applicable to
+
+municipal ordinances. See State v. Short, 2d Dist. No. 1731, 2009-Ohio-1964, ¶ 5.
+
+Consequently, appellant’s argument that the title of the ordinance/statute excludes
+
+applicability to a legal custodian is not persuasive.
+
+       {¶ 10} What remains is the language of the ordinance/statute, which defines the
+
+offense, consisting of the following elements:
+
+              1. A person, acting with knowledge that he or she is without
+
+       privilege or being reckless in that regard;
+
+              2. Entices, takes, keeps, or harbors;
+
+              3. A child under age 18 or, if physically or mentally handicapped,
+
+       age 21;
+
+              4. From his or her parent, guardian or custodian.
+
+
+
+
+4.
+       {¶ 11} In this case it was stipulated that appellant was the legal custodian and
+
+residential parent of the children at issue by virtue of a domestic relations court order.
+
+The complainant was awarded parenting time by the same order. At the plea hearing, the
+
+prosecutor recited what the evidence would have shown had the matter gone to trial:
+
+              [The complainant] has repeatedly gone there to pick up the children
+
+       at his allotted time and even with police and even under those
+
+       circumstances, [appellant] has refused to allow him visitation; therefore,
+
+       she interfered with his custodial privileges, which were the visitation
+
+       privileges, which were given by the Court.
+
+       {¶ 12} The domestic relations court order defines the responsibilities and
+
+privileges of the complainant and appellant. If, as recited by the prosecutor, appellant
+
+withheld visitation with the minor children from the complainant during the time such
+
+visitation was ordered by the court, this constitutes acting with knowledge that she was
+
+without privilege to keep the children from the parent who, by court order, was entitled to
+
+their custody at that time. This may be criminally prosecuted. See State v. Skelly, 2d
+
+Dist. No. 13306, 1992 WL 361833 (Dec. 7, 1992). Accordingly, the court did not
+
+misinterpret the ordinance and appellant’s first assignment of error is not well-taken.
+
+                               II. Insufficiency of Evidence
+
+       {¶ 13} In his second assignment of error, appellant asserts that there was
+
+insufficient evidence to find her guilty of the offense of which she was convicted.
+
+
+
+
+5.
+       {¶ 14} In the normal course of considering whether there was sufficient evidence
+
+to support a conviction, we would look to see if the evidence submitted is legally
+
+sufficient to support all of the elements of the offense charged. The test would be,
+
+viewing the evidence in a light most favorable to the prosecution, could any rational trier
+
+of fact have found the essential elements of the crime proven beyond a reasonable doubt.
+
+State v. Thompkins, 78 Ohio St.3d 380, 390, 678 N.E.2d 541 (1997).
+
+       {¶ 15} In this matter, however, appellant entered a no contest plea to the allegations
+
+in the complaint. “[A] plea of no contest is not an admission of defendant’s guilt, but is an
+
+admission of the truth of the facts alleged in the indictment, information, or complaint * *
+
+*.” Crim.R. 11(B)(2). The complaint in this matter alleges:
+
+              Mary Para, the defendant, while knowing that she is without
+
+       privilege to do so and being reckless in that regard, did take, keep, and
+
+       harbor from their father, Carlos Bonilla, their children who are under the
+
+       age of 18. This event did take place in Toledo, Lucas County, Ohio.
+
+Since the complaint in this matter materially tracks the language of the ordinance,1
+
+appellant has essentially admitted the offense. Accordingly, appellant’s second assignment
+
+of error is not well-taken.
+
+
+
+
+1
+ Compare the language in the complaint in City of Toledo v. Jenkins, 6th Dist. No. L-12-
+1223, 2013-Ohio-3058, ¶ 13.
+
+
+6.
+                                  III. Improper Forum
+
+       {¶ 16} In his remaining assignment of error, appellant maintains that the proper
+
+forum for this complaint is a contempt proceeding in the domestic relations court.
+
+Consequently, the trial court erred in denying appellant’s motion to dismiss. Attached to
+
+appellant’s brief, in support of this argument is an order from a different judge in the
+
+Toledo Municipal Court granting such a motion in a different case because “judicial
+
+economy [so] dictates.”
+
+       {¶ 17} The order to which appellant refers is not in the record as having been
+
+presented to the trial court and consequently is not properly before this court. See App.R.
+
+9(A). It is certainly not an abuse of discretion for a court to decline to dismiss a case over
+
+which it has personal jurisdiction, subject matter jurisdiction and is the proper venue.
+
+While we may find understandable appellant’s position that custody and visitation
+
+matters are best addressed in a domestic relations setting, appellant has directed our
+
+attention to no authority that mandates deference to such court.
+
+       {¶ 18} The sometimes complicated evidentiary issues in proving an offense in
+
+which the element of knowledge of privilege, or absence thereof, is based on the
+
+interpretation of the order of another court may implicate prosecutorial discretion. There
+
+is nothing in the law, however, that dictates dismissal of a criminal offense properly
+
+before the court. Accordingly, appellant’s third assignment of error is not well-taken.
+
+
+
+
+7.
+       {¶ 19} On consideration whereof, the judgment of the Toledo Municipal Court is
+
+affirmed. It is ordered that appellant pay the court costs of this appeal pursuant to App.R.
+
+24.
+
+
+
+                                                                      Judgment affirmed.
+
+
+
+       A certified copy of this entry shall constitute the mandate pursuant to App.R. 27. See
+also 6th Dist.Loc.App.R. 4.
+
+
+
+
+Mark L. Pietrykowski, J.                       _______________________________
+                                                           JUDGE
+Arlene Singer, P.J.
+                                               _______________________________
+Thomas J. Osowik, J.                                       JUDGE
+CONCUR.
+                                               _______________________________
+                                                           JUDGE
+
+
+
+
+          This decision is subject to further editing by the Supreme Court of
+      Ohio's Reporter of Decisions. Parties interested in viewing the final reported
+           version are advised to visit the Ohio Supreme Court's web site at:
+                 http://www.sconet.state.oh.us/rod/newpdf/?source=6.
+
+
+
+
+8.
+

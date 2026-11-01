@@ -1,0 +1,29 @@
+Source: https://static.case.law/ohio-st-3d/9/cases/0192-01.json
+Case: Zakany, Appellant, v. Zakany et al., Appellees (9 Ohio St. 3d 192), decided 1984-02-22
+Retrieved: 2026-10-04
+
+Zakany, Appellant, v. Zakany et al., Appellees.
+[Cite as Zakany v. Zakany (1984), 9 Ohio St. 3d 192.]
+(No. 83-188
+Decided February 22, 1984.)
+Mr. Robert M. Fertel and Mr. Sanford J. Berger, for appellant.
+Mr. Carl H. Miller, for appellee Helen L. Zakany.
+Mr. John E. Shoop, prosecuting attorney, Mr. Gregory C. Sasse and Mr. Joseph M. Gurley, for appellee Lake County Bureau of Support.
+
+[majority - J. P. Celebrezze, J.]
+J. P. Celebrezze, J.
+The present appeal raises two issues.
+Appellant’s first proposition of law relates to R.C. 2301.37, a bureau of support statute which sets forth certain notice requirements and related procedures to be followed in the event of an obligor’s default. Appellant asserts that the trial court failed to follow this statutory scheme and therefore lacked authority to find appellant in contempt.
+Without addressing the merits of this argument or the propriety of using the bureau of support as a means of enforcing the court’s order, we note that appellant’s proposition was not assigned as error in the court below or briefed by either party. Accordingly, it is not properly before us for consideration now. Blausey v. Stein (1980), 61 Ohio St. 2d 264, 266-267 [15 O.O.2d 268]; Republic Steel Corp. v. Bd. of Revision (1963), 175 Ohio St. 179 [23 O.O.2d 462].
+Appellant’s remaining proposition of law asserts that he should not have been found in contempt of court as he did not disobey any court order. In support of this assertion, appellant notes that he borrowed on the insurance policy following the memorandum decision but before the final decree for divorce was actually rendered and journalized. Appellant theorizes that since a court “speaks through its journal” under Civ. R. 58, there was no actual order in existence at the time of appellant’s loan, and, hence, no basis for the trial court’s finding of contempt on his part.
+Appellant’s argument is defective as it rests upon the erroneous assumption that he was held in contempt of court for violating the provisions of the memorandum decision as opposed to the court’s final decree. The reality is that defendant was found to be in contempt of the order dated November 17, 1981, which commanded him to repay the insurance company or appellee, within ten days, all sums borrowed on the life insurance policy. This the appellant failed to do.
+R.C. 2705.02(A) provides, in material part, as follows:
+“A person guilty of any of the following acts may be punished as for a contempt:
+“(A) Disobedience of, or resistance to, a lawful writ, process, order, rule, judgment, or command of a court or an officer;”
+Clearly then, the trial court had the requisite authority under this section to hold appellant in contempt for his failure to comply with its order.
+Moreover, this court has consistently recognized that certain powers as are necessary for the orderly and efficient exercise of justice are inherent in a court. State, ex rel. Dow Chemical Co., v. Court (1982), 2 Ohio St. 3d 119; Hale v. State (1896), 55 Ohio St. 210, 213. Such inherent power includes the authority to punish the disobedience of the court’s orders with contempt proceedings. Harris v. Harris (1979), 58 Ohio St. 2d 303, 307 [12 O.O.3d 291]; State, ex rel. Turner, v. Albin (1928), 118 Ohio St. 527; Hale v. State, supra, paragraph one of the syllabus. The exercise of this power was appropriate under the circumstances of this case.
+On the basis of the foregoing, the judgment of the court of appeals is hereby affirmed.
+Judgment affirmed.
+Celebrezze, C.J., W. Brown, Sweeney, Locher, Holmes and C. Brown, JJ., concur.
+Civ. R. 58 provides in part:
+“Subject to the provisions of Rule 54(B), upon a generál verdict of a jury, or upon a decision announced, the court shall promptly cause the judgment to be prepared and, the court having signed it, the clerk shall thereupon enter it. A judgment is effective only when filed with the clerk for journalization. * * *”

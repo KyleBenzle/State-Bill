@@ -1,0 +1,288 @@
+                       OHIO LEGISLATIVE SERVICE COMMISSION
+                            Office of Research                                 Legislative Budget
+   www.lsc.ohio.gov           and Drafting                                           Office
+
+
+
+
+           H.B. 508
+                                         Fiscal Note &
+134th General Assembly              Local Impact Statement
+                                                   Click here for H.B. 508’s Bill Analysis
+
+Version: As Introduced
+Primary Sponsors: Reps. West and Creech
+Local Impact Statement Procedure Required: Yes
+Jamie Doskocil, Fiscal Supervisor, and other LBO staff
+
+                                         Highlights
+    Courts of common pleas will incur costs to adopt, implement, and administer rules on
+        standard parenting time guidelines related to the presumption in certain domestic
+        relations and juvenile cases that equal parenting time is in the best interest of the child.
+        The likely outcome is that courts will generally expend more time and effort to administer
+        such cases, including possible costs associated with additional hearings, expert testimony,
+        and guardian ad litem appointments. Some costs may be partially offset if fees are raised,
+        which would be at the discretion of each court.
+    Courts of common pleas will experience costs to establish and maintain a process to make
+        available the required annual parenting time report. At least one court has indicated that
+        this would necessitate additional staff to compile and update case information.
+    County child support enforcement agencies (CSEAs) could realize costs to modify child
+        support orders. The total cost will depend on the number of requests received and the
+        scope of review for requests.
+                                   Detailed Analysis
+        The bill makes changes to current law regarding the allocation of parental rights and
+responsibilities in a divorce, dissolution, annulment, or legal separation proceeding. The
+overarching effect of the bill is to establish state policy for the allocation of parental rights and
+responsibilities, equal decision-making responsibility and equal time spent with the child
+between each parent, when the parents do not submit an agreed upon parenting plan. The bill
+requires each court of common pleas (1) to adopt rules on standard parenting time guidelines as
+established in the bill and (2) to compile an annual report of data regarding division of parenting
+time.
+
+                                                                                             March 8, 2022
+Office of Research and Drafting                  LSC                             Legislative Budget Office
+
+Courts of common pleas
+  Allocation of parental rights and responsibilities
+        Courts of common pleas have jurisdiction over all proceedings involving divorce or
+dissolution of marriages, annulment, legal separation, spousal support, and allocation of parental
+rights and responsibilities for the care of children. The bill will affect divisions of the court with
+jurisdiction over domestic relations and juvenile cases, with the latter involving child custody
+matters where the parents are not married.
+        Existing law requires the court to allocate parental rights and responsibilities upon
+hearing the parents’ testimony and considering any mediation report. The bill repeals this
+existing law and instead establishes a new process that essentially sets as the default in cases
+regarding the allocation of parental rights and responsibilities, equal decision-making
+responsibility and equal time spent with the child between each parent, when the parents do not
+submit an agreed upon parenting plan.
+       Under the bill, a shared parenting plan for the custody and care of children that the
+parents jointly submit is rebuttably presumed to be in the best interest of the child and must be
+approved by the court, unless it is shown to be detrimental to the child. If no agreement exists,
+there is a rebuttable presumption that equal decision-making responsibilities and equal
+parenting time are in the best interest of the child and must be allocated accordingly, unless it is
+shown to be detrimental to the child.
+         Courts of common pleas will be required to rewrite their local rules to conform to the
+bill’s provisions regarding the allocation of parental rights and responsibilities. Polling of judges
+by the Ohio Judicial Conference has identified some of the bill’s potential cost components for
+the courts. The changes are expected to increase the number of hearings associated with cases
+involving parental rights and custody. Provisions related to the rebuttals could add time to cases
+as the standard is set at clear and convincing evidence and as such, more evidence may be
+submitted and reviewed.
+        Additional cases may require expert witness testimony if a court finds that a shared
+parenting agreement is detrimental to the children. More situations requiring the appointment
+of a guardian ad litem are likely. Under current practice, the cost of a guardian ad litem is set and
+assessed by the court. Typically, the costs are attached to the case and shared by the parties. If
+the parties are indigent though, those costs may be borne by the court or other local agencies. It
+is uncertain how many cases will or may qualify for a guardian ad litem. Costs and fees vary from
+court to court, but as one example, the Franklin County Court of Common Pleas requires an $800
+deposit by the parties, with the hourly rate set by the judge or magistrate.
+        The additional workload for the courts will be highly variable and depend, in part, on the
+current docket size. For a court that processes a high number of proceedings involving divorce or
+dissolution of marriages, annulment, legal separation, spousal support, and allocation of parental
+rights and responsibilities for the care of children, costs will likely be higher than a court that
+processes a relatively small number of such cases. It is uncertain if courts will opt to reexamine
+their local filing fees in order to offset any increase in case processing costs.
+        Since the bill states that current orders would be subject to the provisions of the bill, there
+is the potential for settled cases being reopened and reexamined using the new criteria and
+
+P a g e |2                                                                          H.B. 508, Fiscal Note
+Office of Research and Drafting                      LSC                              Legislative Budget Office
+
+guidelines. This would further affect court caseloads and costs. A review of similar legislation in
+Kentucky indicated that its enactment resulted in a one-time influx of new case reviews.
+  Parenting time reports
+        The bill requires each court that issues certain custody orders to compile an annual report
+of data regarding the division of parenting time, as tracked by overnight stays with a parent. This
+requirement includes (1) identifying the type of case involving parenting time, such as a shared
+parenting order, parental rights and responsibilities order, or a parenting time order, (2) tracking
+the number of cases of agreed judgment entries that were contested and ordered by the court,
+and (3) publishing the data on the court’s website or otherwise make it publicly available, upon
+request.
+        In order to implement these reporting requirements, courts of common pleas will need
+to develop and implement a means to collect and publish the parenting time data. Each court
+would have some manner of discretion in determining how best to compile and make the data
+available. At least one court has indicated that additional staff would be needed in order to
+compile and update the information as needed. These would be ongoing costs for each court.
+Child support services
+         The CSEA Directors’ Association believes that the legislation could result in additional
+requests for modifications or terminations of child support orders.1 There would be
+administrative costs to review and process any additional requests received. The total costs
+would depend on the number of requests received and the scope of review associated with each
+request. It is also possible that there could be an initial increase in requests shortly after
+enactment. Funding for child support enforcement agencies (CSEAs) consists of federal, state,
+and local dollars. Federal reimbursement (typically about 66%) can be received for cases that are
+Title IV-D eligible. In addition, an individual who receives assistance through the Ohio Works First
+(OWF) Program2 must assign their child support rights to the state to help offset associated state
+and federal costs.3 For those on Medicaid who receive cash medical support, the cash medical
+support is paid to the state.4 Thus, if any requests for child support review resulted in reductions
+or terminations of monetary support for applicable recipients, there could be a loss or reduction
+of such reimbursements.
+       The Ohio Department of Job and Family Services supervises Ohio’s Child Support Program
+while county CSEAs administer it at the local level. CSEA services are available to all residents
+who apply for services. However, public assistance recipients are automatically referred to CSEAs
+to establish paternity or support orders. Available CSEA services include location of noncustodial
+parents, establishment of paternity, establishment and enforcement of monetary and medical
+support orders, collection of support, and review and modification of support orders. In the case
+of divorcing couples, established support orders are sent from the court to CSEAs to administer
+
+
+1 The Ohio CSEA Directors’ Association is a statewide organization representing county child support
+
+enforcement agencies (CSEAs).
+2 Ohio Works First provides financial assistance to eligible families for specific timeframes.
+
+3 Ohio Administrative Code (O.A.C.) 5101:1-3-10.
+
+4 R.C. 5160.38.
+
+
+P a g e |3                                                                               H.B. 508, Fiscal Note
+Office of Research and Drafting                     LSC                               Legislative Budget Office
+
+and make modifications if warranted. However, CSEAs can establish and modify support orders
+in the case of unmarried couples or couples who are married but separated.
+Ohio court statistics
+        The information shown in the two tables below summarizes for courts and assigned
+judges, respectively, the number of parenting-related cases filed in courts of common pleas
+across the state from calendar years (CYs) 2015 through 2021. These are likely to be the types of
+cases affected by the bill. The data, including drill-through data for each county, is available on
+the Ohio Supreme Court’s website (Interactive Data Dashboard): www.supremecourt.ohio.gov.
+Of note is the general downturn in CY 2020 and 2021 case volumes, which was due to the impact
+of the COVID-19 pandemic on court operations statewide.
+
+                              Table 1. Parenting-Related Cases, CYs 2015-2021
+                                            Total Incoming Cases
+                               (New Filings plus Reactivations and Transfers)
+
+  Court Type/Case Type            2015     2016      2017       2018      2019           2020        2021*
+
+ Domestic Relations
+
+ Marriage Dissolutions             7,370    7,149     6,877      7,064     6,788          6,797        6,816
+ w/Children
+
+ Marriage Dissolutions            10,011    9,974     9,806      9,912     9,680          9,548        9,906
+ w/o Children
+
+ Marriage Terminations            13,194   12,921    12,415     12,305    12,209         10,513      11,040
+ w/Children
+
+ Marriage Terminations            13,123   12,839    12,897     12,582    12,596         11,067      11,451
+ w/o Children
+
+ Change of Custody                 6,582    6,124     6,264      6,133     6,399          5,500        5,865
+
+ Parentage                         1,440    1,275     1,282      1,314     1,250          1,117        1,594
+
+ Support – Enforce or             26,831   25,584    25,386     25,496    24,036         17,958      18,541
+ Modify
+
+ U.I.F.S.A.**                      1,060     966          889     864           890         650          776
+
+ Visitation – Enforce or           3,000    2,780     2,971      2,991     2,980          2,754        2,652
+ Modify
+
+                      Total       82,611   79,612    78,787     78,661    76,828         65,904      68,641
+
+
+
+
+P a g e |4                                                                               H.B. 508, Fiscal Note
+Office of Research and Drafting                                      LSC                                         Legislative Budget Office
+
+
+                                     Table 1. Parenting-Related Cases, CYs 2015-2021
+                                                   Total Incoming Cases
+                                      (New Filings plus Reactivations and Transfers)
+
+  Court Type/Case Type                  2015           2016            2017           2018           2019            2020          2021*
+
+ Juvenile
+
+ Custody/Visitation                     31,928         32,482          33,850         34,317          34,291         27,028         30,021
+
+ Parentage                                7,617          7,250          6,759           6,383          6,255           5,005          5,682
+
+ Support – Enforce or                   52,574         49,694          53,704         49,381          46,720         29,793         31,099
+ Modify
+
+ U.I.F.S.A.**                             1,129          1,118          1,459             946             944            677            709
+
+                           Total        93,248         90,544          95,772         91,027          88,210         62,503         67,511
+ *2021 data is incomplete (five outstanding monthly reports for domestic relations cases and 17 outstanding monthly reports for juvenile
+ cases).
+ **The Uniform Interstate Family Support Act (UIFSA) is a law which regulates the processing of all cases in which parties are located in more
+ than one state.
+
+
+
+
+                                     Table 2. Parenting-Related Cases, CYs 2015-2021
+                                         Average Total Incoming Cases Per Judge
+                                      (New Filings plus Reactivations and Transfers)
+
+  Court Type/Case Type                  2015            2016           2017           2018           2019            2020          2021*
+
+ Domestic Relations
+
+ Marriage Dissolutions                        55              54             52             54             51              51             51
+ w/Children
+
+ Marriage Dissolutions                        75              75             74             75             73              72             74
+ w/o Children
+
+ Marriage Terminations                        99              97             94             93             92              79             82
+ w/Children
+
+ Marriage Terminations                        99              97             98             95             95              83             85
+ w/o Children
+
+ Change of Custody                            49              46             47             46             48              41             44
+
+ Parentage                                    11              10             10             10               9              8             12
+
+ Support – Enforce or                        202            192            192            193             181            135            138
+ Modify
+
+P a g e |5                                                                                                           H.B. 508, Fiscal Note
+Office of Research and Drafting                                      LSC                                          Legislative Budget Office
+
+
+                                     Table 2. Parenting-Related Cases, CYs 2015-2021
+                                         Average Total Incoming Cases Per Judge
+                                      (New Filings plus Reactivations and Transfers)
+
+  Court Type/Case Type                  2015            2016           2017           2018            2019           2020          2021*
+
+ U.I.F.S.A.**                                   8              7               7              7              7              5               6
+
+ Visitation – Enforce or                      23              21             23             23             22              21             20
+ Modify
+
+                           Total             621            599            597            596             578            496             512
+
+ Juvenile
+
+ Custody/Visitation                          290            295            308            312             309            243             268
+
+ Parentage                                    69              66             61             58              56             45             51
+
+ Support – Enforce or                        478            452            488            449             421            268             278
+ Modify
+
+ U.I.F.S.A.**                                 10              10             13               9               9             6               6
+
+                           Total             847            823            870            828             795            562             603
+ *2021 data is incomplete (five outstanding monthly reports for domestic relations cases and 17 outstanding monthly reports for juvenile
+ cases).
+ **The Uniform Interstate Family Support Act (UIFSA) is a law which regulates the processing of all cases in which parties are located in more
+ than one state.
+
+
+
+
+HB0508IN/zg
+
+
+P a g e |6                                                                                                           H.B. 508, Fiscal Note
+

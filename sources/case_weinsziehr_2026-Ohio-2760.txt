@@ -1,0 +1,410 @@
+Source: https://www.supremecourt.ohio.gov/rod/docs/pdf/4/2026/2026-Ohio-2760.pdf (retrieved 2026-10-04)
+
+[Cite as Weinsziehr v. Lehman, 2026-Ohio-2760.]
+
+
+                            IN THE COURT OF APPEALS OF OHIO
+                               FOURTH APPELLATE DISTRICT
+                                    HOCKING COUNTY
+
+
+
+Coy Weinsziehr,                                   :   Case No.   25CA5
+
+        Plaintiff-Appellee,                       :   DECISION AND
+                                                      JUDGMENT ENTRY
+        v.                                        :
+
+Erin Lehman (FKA Weinsziehr),                     :   RELEASED 7/17/2026
+
+        Defendant-Appellant.                      :
+
+
+______________________________________________________________________
+                            APPEARANCES:
+
+Ryan Shepler, Saving & Shepler Co., L.P.A., Logan, Ohio, for appellant.
+
+Christopher L. Trolinger, Trolinger Law Offices, LLC, Columbus, Ohio, for appellee.
+______________________________________________________________________
+Hess, J.
+
+        {¶1}    Erin Lehman, the mother, appeals from a judgment of the Hocking County
+
+Court of Common Pleas, Domestic Relations Division, in a post-divorce proceeding
+
+concerning custody. She presents four assignments of error asserting that (1) the trial
+
+court erred by impermissibly delegating its decision-making authority to the Center for
+
+Family Resolution (CFR); (2) the trial court erred by impermissibly considering CFR’s
+
+custodial and substantive parenting time recommendations despite obvious lack of
+
+qualifications; (3) the trial court erred by finding that a change of custody and parenting
+
+time was in the best interest of the minor child; and (4) the trial court erred by failing to
+
+properly address the harm likely to be caused to the minor child by the recommended
+
+changes. However, we find that Lehman failed to preserve the assignments of error by
+Hocking App. No. 25CA5                                                                    2
+
+
+failing to raise them as objections below and she failed to request plain error review until
+
+she raised it in her reply brief. Thus, we find that the assignments of error were waived
+
+and are overruled.
+
+                       I. FACTS AND PROCEDURAL HISTORY
+
+       {¶2}    The parties married in 2008, had one child, C.W., born in 2011, and
+
+divorced in 2015. As part of the divorce decree, the court adopted the parties’ agreed
+
+parenting plan, which designated the mother as the residential parent and legal custodian
+
+and gave the father parenting time. The parties have had a contentious parenting
+
+relationship since.
+
+       {¶3}    In May 2023, Coy Weinsziehr, the father, filed a motion for change of
+
+custody alleging that mother was not caring for the child properly. He alleged that the
+
+child had poor hygiene and had developed ringworm. He alleged that mother interfered
+
+with father’s attempts to communicate with the child’s school, caused the child to develop
+
+depression and nighttime bedwetting, and isolated the child from social interaction.
+
+       {¶4}    The mother countered in June 2023 with a motion for emergency ex parte
+
+custody in which she alleged father tried to throw the child from a moving car while a train
+
+approached, took nude photographs of the child, and pulled the child’s hair while
+
+screaming at the child. That motion was superseded in July 2023 when mother filed a
+
+motion to reallocate parental rights and responsibilities that contained the same
+
+allegations.
+
+       {¶5}    Temporary orders were issued in July, October, and November 2023 in
+
+which the parties were ordered to undergo family counseling, complete a parenting
+
+course, and undergo a guardian ad litem investigation. Supervised visits with the father
+Hocking App. No. 25CA5                                                                   3
+
+
+occurred at the Fairfield County Visitation Center. In February 2024, the parties entered
+
+into an agreement, adopted as a court order, to participate in the Whole Family
+
+Intervention Program provided by CFR. CFR recommended that mother and child have
+
+no contact for a 90-day period due to mother’s refusal to prepare a shared message from
+
+her and father to give the child. The court ordered the parents to undergo psychological
+
+assessments. The father was found to have no mental health conditions. The mother was
+
+diagnosed with borderline personality disorder.
+
+      {¶6}   A final hearing on custody matters occurred before a magistrate on October
+
+24 and 25, 2024. The magistrate’s decision issued on November 22, 2024. The child,
+
+C.W., filed objections and supplemental objections to the magistrate’s objections to which
+
+father filed responses. The mother did not file objections under Civ.R. 53 or respond to
+
+C.W.’s objections. A transcript of the hearing was filed on April 14, 2025 and mother filed
+
+objections to various aspects of the transcript and sought to have the testimony stricken.
+
+Father filed a motion to strike mother’s objections to the transcript on the grounds that
+
+mother was trying to introduce new evidence into the record through her objections by
+
+adding her own comments or testimony where she disagrees with the witnesses’
+
+testimony.
+
+      {¶7}   At a hearing held May 7, 2025, the trial court addressed the mother’s
+
+objections to the transcript and agreed with father’s motion to strike mother’s objections
+
+to the transcript to the extent that mother was attempting to rebut witnesses’ testimony by
+
+supplementing it with her own version of events. However, it was agreed that there were
+
+certain portions of the transcript with errors in the attribution of who was speaking. For
+
+example, some statements were purportedly attributed to mother that were statements
+Hocking App. No. 25CA5                                                                       4
+
+
+made by counsel for the child and vice versa. Therefore, the trial court told the parties to
+
+submit supplemental corrections to identify portions in the transcript in which words were
+
+attributed to the wrong speaker. Mother and child both filed supplemental corrections to
+
+the transcript. The trial court issued a judgment on June 6, 2025 in which it overruled
+
+mother’s objections to the transcript, finding “it is not an appropriate Objection.” However,
+
+to the extent that the parties mutually agreed that certain lines were misattributed, the trial
+
+court identified those lines and ordered corrections. To the extent that the parties did not
+
+mutually agree on misattributions or other corrections, the court ruled, “The Court will not
+
+make inferences or attribute statements that were not mutually agreed upon and the Court
+
+will not add testimony that was not captured by audio.”
+
+       {¶8}   The trial court overruled objections to the magistrate’s decision but found
+
+that the 90-day blackout period recommendation had become stale and a new
+
+assessment would need to be completed to determine if a blackout period remained
+
+appropriate. Father was named the residential parent and legal custodian of C.W. and
+
+the parties were required to comply with recommendations of CFR. The mother was
+
+ordered to “have visitation as determined appropriate by the CFR, without a blackout
+
+period. Mother shall have local rule parenting time once the CFR has ceased their
+
+involvement with the family.” The parties and the child were ordered to engage in
+
+individual counseling and to follow the recommendations of the counselors. The parties
+
+and child were also ordered to complete parenting classes. Exchanges for parenting time
+
+were to be made at the midpoint police or sheriff department between the parties’
+
+residences.
+Hocking App. No. 25CA5                                                                     5
+
+
+       {¶9}   Mother appealed. Mother also sought a stay of the custody order in the trial
+
+court. The trial court partially granted mother relief in that it stayed its order granting
+
+discretion to the CFR to determine parenting time and left the local rule parenting time
+
+visitation for mother in place, clarifying that the parties will follow Loc.R. 76, option C
+
+parenting time with weekend parenting time ending Sundays at 6:00 p.m. and exchanges
+
+to occur at the Ashville Police Department.
+
+                             II. ASSIGNMENTS OF ERROR
+
+       {¶10} Mother presents four assignments of error:
+
+       I.     The trial court erred by impermissibly delegating its decision-making
+              authority to the Center for Family Resolution.
+
+       II.    The trial court erred by impermissibly considering CFR’s substantive
+              custodial and parenting time recommendations despite obvious lack
+              of qualifications.
+
+       III.   The trial court erred by finding that a change in custody and parenting
+              time was in the best interests of the minor child.
+
+       IV.    The trial court erred by failing to properly address the harm caused
+              to the minor child by the recommended changes.
+
+                                III. LAW AND ANALYSIS
+
+                      A. Mother’s Failure to Object under Civ.R. 53
+
+       {¶11} Before addressing the mother’s assignment of errors, we must address
+
+whether she preserved them for appeal.
+
+       {¶12} The magistrate issued a decision on November 22, 2024. Under Civ.R.
+
+53(D)(3)(b), which governs objections to the magistrate’s decision, a party must file an
+
+objection within 14 days. Civ.R. 53(D)(3)(b)(i). A party can only seek leave to file
+
+supplemental objections if that party has previously filed timely objections. Civ.R.
+
+53(D)(3)(b)(iii). Except for a claim of plain error, a party cannot assign as error on appeal
+Hocking App. No. 25CA5                                                                     6
+
+
+the trial court’s adoption of the magistrate’s findings or conclusions unless that party has
+
+made an objection under Civ.R. 53(D)(3)(b). Civ.R. 53(D)(3)(b)(iv). Civ.R. 53(D)(3)(b)
+
+provides:
+
+       (b) Objections to Magistrate's Decision.
+
+       (i) Time for Filing. A party may file written objections to a magistrate's
+       decision within fourteen days of the filing of the decision, whether or not the
+       court has adopted the decision during that fourteen-day period as permitted
+       by Civ.R. 53(D)(4)(e)(i). If any party timely files objections, any other party
+       may also file objections not later than ten days after the first objections are
+       filed. If a party makes a timely request for findings of fact and conclusions
+       of law, the time for filing objections begins to run when the magistrate files
+       a decision that includes findings of fact and conclusions of law.
+
+       (ii) Specificity of Objection. An objection to a magistrate's decision shall be
+       specific and state with particularity all grounds for objection.
+
+       (iii) Objection to Magistrate's Factual Finding; Transcript or Affidavit. An
+       objection to a factual finding, whether or not specifically designated as a
+       finding of fact under Civ.R. 53(D)(3)(a)(ii), shall be supported by a transcript
+       of all the evidence submitted to the magistrate relevant to that finding or an
+       affidavit of that evidence if a transcript is not available. With leave of court,
+       alternative technology or manner of reviewing the relevant evidence may
+       be considered. The objecting party shall file the transcript or affidavit with
+       the court within thirty days after filing objections unless the court extends
+       the time in writing for preparation of the transcript or other good cause. If a
+       party files timely objections prior to the date on which a transcript is
+       prepared, the party may seek leave of court to supplement the objections.
+
+       (iv) Waiver of Right to Assign Adoption by Court as Error on Appeal. Except
+       for a claim of plain error, a party shall not assign as error on appeal the
+       court's adoption of any factual finding or legal conclusion, whether or not
+       specifically designated as a finding of fact or conclusion of law under Civ.R.
+       53(D)(3)(a)(ii), unless the party has objected to that finding or conclusion as
+       required by Civ.R. 53(D)(3)(b).
+Hocking App. No. 25CA5                                                                      7
+
+
+       {¶13}    Mother did not file objections to the magistrate’s order, nor did she
+
+respond to any other party’s objections within ten days under Civ.R. 53(D)(3)(b)(i).
+
+Because she did not file timely objections, she could not seek leave to file supplemental
+
+objections or file supplemental objections under Civ.R. 53(D)(3)(b)(iii).
+
+       {¶14} Mother argues that she filed objections to the transcript of the hearing and
+
+that we should interpret her objections to the transcript to be objections to the magistrate’s
+
+decision. However, mother’s objections to the transcript do not challenge the magistrate’s
+
+order and instead are her attempts to add her version of events to the various witnesses’
+
+testimony. The trial court ruled that her objections were improper and she has not
+
+appealed that ruling. Even if we were to make such a liberal construction of this filing, it
+
+would still be over 20 weeks too late. And she did not seek leave to file them out of time;
+
+nor was any leave granted. Because mother did not file objections to the magistrate’s
+
+decision, she has waived all but plain error on appeal. Cunningham v. Cunningham, 2002-
+
+Ohio-4094, ¶ 8 (4th Dist.).
+
+       For the plain error doctrine to apply, the party who claims error must
+       establish that 1) “ ‘an error, i.e., a deviation from a legal rule’ ” occurred; 2)
+       the error was “ ‘an “obvious” defect in the trial proceedings;’ ” and 3) this
+       obvious error affected substantial rights, i.e., the error “ ‘must have affected
+       the outcome of the trial.’ ” The plain error doctrine is not, however, readily
+       invoked in civil cases. Instead, an appellate court “must proceed with the
+       utmost caution” when applying the plain error doctrine in civil cases.
+
+(Citations omitted.) Woods v. Best, 2025-Ohio-357, ¶ 19 (4th Dist.).
+
+       {¶15} Mother also argues that even if she did not file objections, the minor child
+
+did and mother’s assignments of error track the child’s objections. We find no merit to this
+
+argument. A child is not a proper party to a divorce action or its ancillary custody
+
+proceedings and cannot raise objections to the magistrate’s decision. Moreover, the
+Hocking App. No. 25CA5                                                                       8
+
+
+appointment of a guardian ad litem under Civ.R. 75 does not make a child a proper party
+
+to a divorce action or its ancillary custody proceedings. In re A.G., 2014-Ohio-2597, ¶ 41-
+
+44, citing Hanna v. Hanna, 2008-Ohio- 3523, ¶ 14 (10th Dist.).
+
+       {¶16} Although mother may raise plain error on appeal, her assignments or error
+
+as set out in her initial brief are framed under an abuse of discretion standard of review
+
+and she fails to request a plain error review. It is not this court's duty to construct a plain
+
+error argument for her. Woods v. Best, 2025-Ohio-357, ¶ 23 (4th Dist.). An appeals court
+
+will not construct a claim of plain error on appellant's behalf if the appellant fails to argue
+
+plain error on appeal. E.g., State v. Patton, 2021-Ohio-295, ¶ 25 (1st Dist.).
+
+       {¶17} We note that in her reply brief, mother makes for the first time a plain error
+
+argument in support of her first assignment of error – that the judge impermissibly
+
+delegated his judicial authority when he granted the CFR exclusive authority to determine
+
+mother’s visitation. However, “a party cannot raise an issue for the first time in a reply
+
+brief.” Wooster Floral & Gifts, L.L.C. v. Green Thumb Floral & Garden Ctr., Inc., 2020-
+
+Ohio-5614, ¶ 15. The reason for this rule is that by failing to raise an issue in the initial
+
+brief, appellant deprives appellee of the opportunity to respond to the issue. Mitchell v.
+
+Holzer Med. Ctr., 2017-Ohio-8244, ¶ 23 (4th Dist.).
+
+       {¶18} We find that the mother failed to preserve the issues she raises on appeal
+
+and failed to raise plain error review until her reply brief. Thus, we overrule her
+
+assignments of error.
+
+                                     IV. CONCLUSION
+
+       {¶19} We overrule all assignments of error and affirm the trial court’s judgment.
+
+                                                                   JUDGMENT AFFIRMED.
+Hocking App. No. 25CA5                                                                     9
+
+
+                                   JUDGMENT ENTRY
+
+         It is ordered that the JUDGMENT IS AFFIRMED and that appellant shall pay the
+costs.
+         The Court finds there were reasonable grounds for this appeal.
+      It is ordered that a special mandate issue out of this Court directing the Hocking
+County Common Pleas Court to carry this judgment into execution.
+      A certified copy of this entry shall constitute the mandate pursuant to Rule 27 of
+the Rules of Appellate Procedure.
+Smith, P.J. & Wilkin, J.: Concur in Judgment and Opinion.
+
+
+
+                                   For the Court
+
+
+
+
+                                   BY: ________________________________
+                                       Michael D. Hess, Judge
+
+
+
+
+                                 NOTICE TO COUNSEL
+
+      This document constitutes a final judgment entry and the time period for
+further appeal commences from the date of filing with the clerk.
+

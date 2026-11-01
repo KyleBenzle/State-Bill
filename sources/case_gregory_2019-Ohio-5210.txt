@@ -1,0 +1,477 @@
+Source: https://www.supremecourt.ohio.gov/rod/docs/pdf/1/2019/2019-Ohio-5210.pdf (retrieved 2026-10-04)
+
+       [Cite as Gregory v. Gregory, 2019-Ohio-5210.]
+
+                        IN THE COURT OF APPEALS
+               FIRST APPELLATE DISTRICT OF OHIO
+                          HAMILTON COUNTY, OHIO
+
+
+
+
+JULIE C. GREGORY, n.k.a. JULIE :                       APPEAL NO. C-180444
+O’NEILL,                                               TRIAL NO. DR-1201191
+                               :
+      Plaintiff-Appellee,
+                               :                         O P I N I O N.
+      vs.
+                               :
+DAVID S. GREGORY,
+                               :
+      Defendant-Appellant.
+
+
+
+Appeal From: Hamilton County Court of Common Pleas, Domestic Relations
+             Division
+
+Judgment Appealed From Is: Reversed and Cause Remanded
+
+Date of Judgment Entry on Appeal: December 18, 2019
+
+
+
+
+Julie C. Gregory, pro se,
+
+Stagnaro Hannigan Koop, Co., L.P.A., and Michaela M. Stagnaro, for Defendant-
+Appellant.
+                     OHIO FIRST DISTRICT COURT OF APPEALS
+
+
+
+
+CROUSE, Judge.
+
+       {¶1}   The use of a parenting coordinator is a relatively new concept in Ohio
+
+and Hamilton County. Parenting coordination is a novel and innovative way to
+
+manage high-conflict divorce cases by promoting communication between the
+
+parties and resolving ancillary parenting issues outside of the courtroom.
+
+Nevertheless, a balance must be struck between fulfilling the purposes of parenting
+
+coordination and protecting the due-process rights of the parties.
+
+       {¶2}   In one assignment of error, David Gregory (“Father”) argues that the
+
+trial court erred as a matter of law in overruling his objections to the parenting
+
+coordinator’s decision in favor of Julie O’Neill (“Mother”). He presents two issues
+
+for review: (1) the trial court erred as a matter of law by overruling his objections
+
+without a hearing in violation of his due-process rights; and (2) the court’s judgment
+
+overruling his objections was against the manifest weight of the evidence. Since we
+
+reverse the trial court’s judgment and remand the cause on the basis of the due-
+
+process claim, we do not reach the question of whether the trial court’s decision was
+
+against the manifest weight of the evidence.
+
+                               Factual Background
+
+
+       {¶3}   The parties entered into a final decree of divorce and final shared-
+
+parenting plan in April 2013. Due to unresolved issues with the parenting plan,
+
+Father and Mother both agreed to the appointment of a parenting coordinator. Dr.
+
+Leslie Swift was appointed as parenting coordinator in July 2014 pursuant to Local
+
+Rule 2.11 of the Court of Common Pleas of Hamilton County, Domestic Relations
+
+Division (“Loc.R. 2.11”). After Swift’s first term as parenting coordinator ended, both
+
+
+
+                                               2
+                     OHIO FIRST DISTRICT COURT OF APPEALS
+
+
+
+parties agreed that they still needed a parenting coordinator, but Father argued that
+
+it should be someone other than Swift. The judge overruled Father’s request, and in
+
+June 2016 Swift was appointed to another two-year term.
+
+       {¶4}   In April 2018, Swift entered a written decision resolving several
+
+parenting conflicts between the parties. Father filed an objection to Swift’s decision
+
+and requested a hearing before the trial court.       The court issued a judgment
+
+overruling Father’s objections without a hearing in July 2018.
+
+       {¶5}   Father now appeals the court’s overruling of several of his objections.
+
+First, he argues that two expenses that he had incurred should be considered
+
+expenses subject to reconciliation—the Sorribes Ear Treatment for the parties’ son
+
+and the full purchase price of the son’s laptop. Swift determined in his decision that
+
+the ear treatment was not subject to reconciliation because there was no definitive
+
+recommendation from the doctor for that treatment, and the son’s therapist said
+
+there was no “impelling psychological need” for the treatment. Father paid $2,800
+
+for the laptop. Swift allowed him to submit $2,300 for reconciliation, because he
+
+found Apple laptops “in the range of $2,300 with the same screen size, although
+
+fewer add-ons.”
+
+       {¶6}   Second, Father requested that Mother not be permitted to use her
+
+vacation days on his Fridays with the children. Swift determined that Mother had
+
+taken 11 of her 18 vacation days on Father’s regularly scheduled Fridays with the
+
+children. Swift ordered that the parties were only permitted to use eight vacation
+
+days on Fridays per year.
+
+       {¶7}   Third, Father requested that the parties’ “one-on-one time” with the
+
+children be suspended since the son was not spending time with Mother. Swift
+
+
+
+
+                                             3
+                      OHIO FIRST DISTRICT COURT OF APPEALS
+
+
+
+denied Father’s request, saying that Mother and son were in therapy to improve their
+
+relationship, and that Mother had been extremely patient through an extended
+
+family-therapy process, so she deserved considerable deference in the matter.
+
+                             Parenting Coordination
+
+       {¶8}   Many courts throughout Ohio are using parenting coordinators to help
+
+resolve recurring parenting disputes over issues such as visitation schedules and
+
+child drop-off times that often arise in “high-conflict families.”     See Sowald &
+
+Morganstern, Baldwin's Ohio Practice Domestic Relations Law, Section 6, 15 (4th
+
+Ed.2019).
+
+       {¶9}   In 2014, The Ohio Supreme Court adopted Sup.R. 90-90.12, which
+
+provide standards that Ohio courts must follow when using parenting coordinators.
+
+Loc.R. 2.11 is modeled after those rules. When parties are at odds over details in a
+
+court-issued shared-parenting plan, Loc.R. 2.11 permits the trial court to appoint a
+
+parenting coordinator to monitor the court’s orders, assist the parties in resolving
+
+disputes, and issue decisions when the parties are unable to agree.         Parenting
+
+coordinators are not permitted to issue decisions on any substantive portions of a
+
+shared-parenting plan, such as changes to custody or the primary placement of a
+
+child. Loc.R. 2.11.
+
+       {¶10} The order appointing Swift as parenting coordinator limited him to
+
+issuing decisions on matters such as, but not limited to, minor holiday and vacation-
+
+schedule adjustments, pick-up and drop-off schedules, expense reconciliation,
+
+healthcare management, and purchasing of children’s clothing. A party may file
+
+written objections to the parenting coordinator’s decision and request a hearing
+
+before the trial court. However, whether a hearing is held is at the discretion of the
+
+
+
+
+                                             4
+                     OHIO FIRST DISTRICT COURT OF APPEALS
+
+
+
+court. Loc.R. 2.11. Loc.R. 2.11 also provides that a parenting coordinator’s decision
+
+goes into effect immediately upon its issuance, and remains in effect until ordered
+
+otherwise.
+
+                                       Due Process
+
+       {¶11} Father argues that his due-process rights were violated because the
+
+court did not conduct a de novo review of the parenting coordinator’s decision, which
+
+became immediately binding under Loc.R. 2.11.
+
+       {¶12} Under the Due Process Clauses of the Fourteenth Amendment to the
+
+United States Constitution and Article I, Section 16, of the Ohio Constitution, parties
+
+are entitled to reasonable notice of judicial proceedings and a reasonable opportunity
+
+to be heard. Ohio Valley Radiology Assocs., Inc. v. Ohio Valley Hosp. Assn., 28 Ohio
+
+St.3d 118, 125, 502 N.E.2d 599 (1986). The fundamental requirement of due process
+
+in any proceeding is notice “reasonably calculated, under all the circumstances, to
+
+apprise interested parties of the pendency of the action and afford them an
+
+opportunity to present their objections.” Armstrong v. Manzo, 380 U.S. 545, 550,
+
+85 S.Ct. 1187, 14 L.Ed.2d 62 (1965).
+
+       {¶13} The case law on parenting coordination in Ohio is sparse, and we have
+
+found no cases dealing with the due-process concerns raised by Father. So, we turn
+
+to other states that have dealt with the issue of parenting coordination and due
+
+process.
+
+       {¶14} First, the appointment of a parenting coordinator has been held to not
+
+be an improper delegation of judicial decision-making authority as long as the trial
+
+court empowers the parenting coordinator to resolve only ancillary custody disputes,
+
+the parties can appeal decisions of the parenting coordinator to the trial court, and
+
+
+
+
+                                              5
+                       OHIO FIRST DISTRICT COURT OF APPEALS
+
+
+
+the trial court conducts a de novo review. Yates v. Yates, 963 A.2d 535, ¶ 13-15
+
+(Pa.Super.2008).
+
+        {¶15} In A.H. v. C.M., 58 A.3d 823, 824 (Pa.Super.2012), the mother filed
+
+an objection to the parenting coordinator’s decision and requested a de novo hearing
+
+before the trial court. At the time, Pennsylvania provided for parenting coordination
+
+by local rule, similar to Ohio.1 Id. at 826. During a custody session, the trial court
+
+heard brief argument on mother’s objection, limiting her to four minutes to present
+
+her case before denying her objection and her request for a de novo hearing. Id. The
+
+superior court found that the trial court’s denial of mother’s request for a de novo
+
+hearing infringed on her due-process rights. Id. at 827.
+
+        {¶16} In Bower v. Bournay-Bower, 469 Mass. 690, 15 N.E.3d 745 (2014),
+
+the Massachusetts Supreme Court addressed judicial review of a parenting
+
+coordinator’s decision. The court’s order provided that the parenting coordinator’s
+
+decisions were binding unless either party “comes to court before the decision is to
+
+take effect, and obtains a contrary order.” (Emphasis in original.) Id. at 704. This
+
+provision meant that meaningful judicial review was unavailable for any decision of
+
+the parenting coordinator that would take effect before the party could obtain review
+
+by the trial court. Id. The court held that the trial court lacked authority to appoint
+
+the parenting coordinator due in part to the binding nature of the coordinator’s
+
+decisions and the lack of meaningful judicial review. Id. at 701-706.
+
+        {¶17} The Nevada Supreme Court determined that there was no
+
+impermissible delegation of judicial authority where the parenting coordinator's
+
+authority was limited in scope and subject to judicial review. Harrison v. Harrison,
+
+
+
+1 Pennsylvania has since eliminated parenting coordination.
+
+
+
+
+                                                   6
+                     OHIO FIRST DISTRICT COURT OF APPEALS
+
+
+
+132 Nev. 564, 573, 376 P.3d 173 (2016). The parenting coordinator's authority was
+
+limited to resolving nonsubstantive issues, and the decisions of the parenting
+
+coordinator were not immediately effective. (Emphasis added.) Id. at 175, 179.
+
+       {¶18} This court recognizes that unlike magistrates, who can issue decisions
+
+on substantive matters, a parenting coordinator’s authority is limited to ancillary
+
+parenting issues. The immediate effect of their decisions carries less risk of affecting
+
+a substantial right of a party prior to judicial review than if a magistrate’s decision
+
+was to be given immediate effect. Also, one of the purposes of a parenting
+
+coordinator is to assist the parties with day-to-day issues and issue timely decisions
+
+in order to keep the parties out of court. Sowald & Morganstern at Section 6, 15.
+
+However, as stated at the outset of this opinion, we must balance the practical
+
+considerations of parenting coordination with the due-process rights of the parties.
+
+       {¶19} We turn now to the current case. The trial court noted in its judgment
+
+that the local rules provide no standard of review for trial courts reviewing objections
+
+to a parenting coordinator’s decision. The court applied the standard of review
+
+applicable to magistrate decisions under Civ.R. 53(D)(4)(d), which requires the court
+
+to conduct an “independent review.” As the trial court noted, applying any standard
+
+of review other than an independent-review standard would mean that the trial court
+
+would afford greater deference to a parenting coordinator’s decision than to one of
+
+the court’s own magistrate’s decisions.
+
+       {¶20} “Independent review” means de novo review.                 Barrientos v.
+
+Barrientos, 196 Ohio App.3d 570, 2011-Ohio-5734, 964 N.E.2d 492, ¶ 4 (3d Dist.).
+
+Thus, when reviewing a magistrate’s decision, the trial court must independently
+
+review the record and make its own factual and legal findings. Id.
+
+
+
+
+                                               7
+                      OHIO FIRST DISTRICT COURT OF APPEALS
+
+
+
+       {¶21} Civ.R. 53(D)(3)(b)(iii) provides that factual objections to a magistrate’s
+
+decision
+
+      shall be supported by a transcript of all the evidence submitted to the
+
+      magistrate relevant to that finding or an affidavit of that evidence if a
+
+      transcript is not available. With leave of court, alternative technology or
+
+      manner of reviewing the relevant evidence may be considered.
+
+       {¶22} The rule is well settled in magistrate cases that where the appellant
+
+fails to file a copy of the transcript with his objections, the trial court presumes that
+
+the magistrate’s factual findings are correct. E.g., In re I.W., 1st Dist. Hamilton No.
+
+C-180095, 2019-Ohio-1515, ¶ 8.
+
+       {¶23} Thus, where a transcript of the hearing before the magistrate actually
+
+exits, and appellant does not submit it to the trial court, it is appellant’s omission
+
+that fails to make the transcript a part of the record for review.
+
+       {¶24} But here is where parenting coordinator decisions diverge from
+
+magistrate decisions. A magistrate’s decision is based on a judicial proceeding—a
+
+hearing with sworn testimony. A parenting coordinator’s decision is not based on
+
+any sort of hearing or judicial proceeding. Therefore, a party objecting to a parenting
+
+coordinator’s decision has no transcript to submit to the trial court.         The first
+
+opportunity for a transcript to be developed from which factual findings can be made
+
+is when a party files objections with the trial court.
+
+       {¶25} In this case, no transcript existed because no hearing had occurred.
+
+Because no transcript was available, the trial court found that it was required to
+
+accept Swift’s factual findings as true.      Father argues that in order to provide
+
+
+
+
+                                                8
+                        OHIO FIRST DISTRICT COURT OF APPEALS
+
+
+
+independent review, the trial court should have held a hearing on the objections. We
+
+agree.
+
+         {¶26} Due process requires meaningful and independent judicial review of a
+
+parenting coordinator’s decision.        The lack of an independent review of Swift’s
+
+factual findings, and the fact that Swift’s decision was immediately effective and not
+
+stayed by Father’s objections, combined to deprive Father of meaningful and
+
+independent judicial review of his objections, and therefore deprived him of due
+
+process.     Because the trial court erred in overruling father’s objection to the
+
+parenting coordinator’s decision without a hearing, his sole assignment of error is
+
+sustained.
+
+                                        Conclusion
+
+         {¶27} For the foregoing reasons, we reverse the judgment of the trial court
+
+and remand the cause to the trial court with instructions to conduct a hearing on
+
+Father’s objections.
+
+                                                 Judgment reversed and cause remanded.
+
+
+
+ZAYAS, P.J., and WINKLER, J., concur.
+
+
+
+Please note:
+         The court has recorded its own entry on the date of the release of this opinion.
+
+
+
+
+                                                  9
+

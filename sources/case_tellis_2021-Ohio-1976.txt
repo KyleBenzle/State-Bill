@@ -1,0 +1,565 @@
+Source: https://www.supremecourt.ohio.gov/rod/docs/pdf/2/2021/2021-Ohio-1976.pdf (retrieved 2026-10-04)
+
+[Cite as Tellis v. Tellis, 2021-Ohio-1976.]
+
+
+
+
+                               IN THE COURT OF APPEALS OF OHIO
+                                  SECOND APPELLATE DISTRICT
+                                      MONTGOMERY COUNTY
+
+ STACY A. TELLIS                                    :
+                                                    :
+          Plaintiff-Appellee                        :   Appellate Case No. 29020
+                                                    :
+ v.                                                 :   Trial Court Case No. 2018-DR-1083
+                                                    :
+ QUINCY L. TELLIS                                   :   (Domestic Relations Appeal from
+                                                    :   Common Pleas Court)
+          Defendant-Appellant                       :
+                                                    :
+
+                                               ...........
+
+                                              OPINION
+
+                               Rendered on the 11th day of June, 2021.
+
+                                               ...........
+
+MATTHEW C. SORG, Atty. Reg. No. 0062971, 2700 Stratacache Tower, Dayton, Ohio
+45423
+      Attorney for Plaintiff-Appellee
+
+STEVEN M. ABSHIRE, Atty. Reg. No. 0072296 & KERI E. FARLEY, Atty. Reg. No.
+0076881, 2689 Commons Boulevard, Suite 100, Beavercreek, Ohio 45431
+     Attorneys for Defendant-Appellant
+
+                                              .............
+
+DONOVAN, J.
+                                                                                         -2-
+
+
+        {¶ 1} Defendant-appellant Quincy L. Tellis (“Father”) appeals from a judgment of
+
+the Montgomery County Court of Common Pleas, Domestic Relations Division, which
+
+implemented a shared parenting order and ordered him to pay child support to plaintiff-
+
+appellee Stacy A. Tellis (“Mother”). Father filed a timely notice of appeal on January 25,
+
+2021.
+
+        {¶ 2} Mother and Father were married in Tipp City, Ohio, in September 2012.
+
+During the course of the marriage, the parties had two children, who were born in 2013
+
+and 2015.
+
+        {¶ 3} On December 4, 2018, Mother filed a complaint for divorce, alleging gross
+
+neglect of duty, extreme cruelty, and incompatibility. On the same date, the trial court
+
+granted Mother a temporary restraining order against Father.         On January 4, 2019,
+
+Father filed an answer and counterclaim for divorce, and the trial court also granted Father
+
+a temporary restraining order against Mother. On January 22, 2019, Mother filed a reply
+
+to Father’s counterclaim for divorce.
+
+        {¶ 4} On January 24, 2019, Mother filed a motion for exclusive use of the parties’
+
+marital residence. On February 14, 2019, the parties entered an agreed order, which
+
+provided that Mother would have exclusive use of the home and temporary custody of the
+
+children once Father moved out of the marital residence, and Father would have
+
+parenting time pursuant to the standard order. Father was also ordered to pay child
+
+support in the amount of $258 per month per child.
+
+        {¶ 5} On May 13, 2019, Father filed a motion for a hearing on the temporary orders
+
+pursuant to Civ.R. 75(N); a hearing was held on June 18, 2019. The trial court then filed
+
+an agreed order which stated that Father would have parenting time with the children on
+                                                                                         -3-
+
+
+“Wednesdays and Thursdays overnight” and Mother would have parenting time on
+
+“Mondays and Tuesdays overnight.” Agreed Order (June 19, 2019), p. 1. The order
+
+further stated that the parties would alternate weekends “from Friday from daycare/school
+
+return to daycare/school on Monday.” Id. Finally, Father’s temporary child support
+
+obligation was suspended, and the parties were ordered to equally share the children’s
+
+expenses.
+
+       {¶ 6} On August 1, 2019, Mother filed a motion to show cause against Father; she
+
+alleged that he had failed to make payments pursuant to the June 1 agreed order. Mother
+
+also requested child support be awarded to her based on the child support guidelines due
+
+to Father’s alleged inability to provide financial support to the minor children through the
+
+sharing of expenses. The trial court appointed a guardian ad litem (GAL), and hearings
+
+were held on Mother’s motion to show cause on February 5 and 26, 2020. On March 4,
+
+2020, the magistrate found that Father was in contempt for failing to pay his share of the
+
+children’s daycare expenses, but that Father had otherwise complied with the agreed
+
+order. Father was sentenced to two days in jail, suspended on the condition that he pay
+
+the children’s expenses in a timely manner in the future. On April 13, 2020, the trial court
+
+adopted the magistrate’s decision in its entirety.
+
+       {¶ 7} A trial was held in this matter on June 9, 2020. After hearing testimony from
+
+Mother and Father and viewing the exhibits, including the GAL report, the trial court found
+
+that it was in the best interest of the children for the parties to have a shared parenting
+
+plan, rather than equal parenting time; it also named Mother as the residential parent for
+
+purposes of the children’s daycare/school. Father was awarded parenting time with the
+
+children every week after school on Wednesdays through Friday until 6:00 p.m., and
+                                                                                          -4-
+
+
+every other Saturday from 2:00 p.m. until Sunday at 7:00 p.m. Regarding child support,
+
+the trial court ordered Father to pay a monthly total sum of $641.88 to Mother for the care
+
+and support of the two children; this amount represented a 15% downward deviation from
+
+the standard child support order. A Final Judgment and Decree of Divorce and a Final
+
+Judgment and Decree of Shared Parenting were filed on December 28, 2020.
+
+       {¶ 8} Father now appeals.
+
+       {¶ 9} Father’s first assignment of error is as follows:
+
+       THE TRIAL COURT ERRED AND ABUSED ITS DISCRETION IN THE
+
+       ALLOCATION OF PARENTING TIME TO APPELLANT.
+
+       {¶ 10} Father contends that the trial court erred when it found that the parties
+
+should have a shared parenting plan and awarded him parenting time with the children
+
+every week after school on Wednesdays through Friday until 6:00 p.m., and every other
+
+Saturday from 2:00 p.m. until Sunday at 7:00 p.m. Specifically, Father argues that,
+
+based upon the totality of the circumstances, it was in the best interest of the children for
+
+the parties to have equal parenting time. At the trial in this matter, both parties had
+
+requested sole custody of the children but, in the alternative, both parties had agreed that
+
+a shared parenting agreement would be appropriate.
+
+       {¶ 11} The discretion which a trial court enjoys in custody matters should be
+
+afforded the utmost respect, given the nature of the proceeding and the impact the court's
+
+determination will have on the lives of the parties concerned. Beismann v. Beismann,
+
+2d Dist. Montgomery No. 22323, 2008-Ohio-984, ¶ 20. The knowledge a trial court gains
+
+through observing the witnesses and the parties in a custody proceeding cannot be
+
+conveyed to a reviewing court by a printed record. Miller v. Miller, 37 Ohio St.3d 71, 74,
+                                                                                         -5-
+
+
+523 N.E.2d 846 (1988).
+
+       {¶ 12} “The issue of parenting time is a matter entrusted to the discretion of the
+
+trial court. Thus, absent an abuse of that discretion, we will not reverse a trial court's
+
+decision on parenting time. The term ‘abuse of discretion’ implies that the trial court's
+
+decision is unreasonable, arbitrary or unconscionable.” Szeliga v. Szeliga, 2d Dist.
+
+Greene No. 2011-CA-65, 2012-Ohio-1973, ¶ 12. We find no abuse of discretion here.
+
+       {¶ 13} When deciding the best interest of a child, courts consider all relevant
+
+factors and are guided by the specific factors listed in R.C. 3109.04(F)(1), which states:
+
+       (F)(1) In determining the best interest of a child pursuant to this section,
+
+       whether on an original decree allocating parental rights and responsibilities
+
+       for the care of children or a modification of a decree allocating those rights
+
+       and responsibilities, the court shall consider all relevant factors, including,
+
+       but not limited to:
+
+       (a) The wishes of the child’s parents regarding the child's care;
+
+       (b) If the court has interviewed the child in chambers pursuant to division
+
+       (B) of this section regarding the child's wishes and concerns as to the
+
+       allocation of parental rights and responsibilities concerning the child, the
+
+       wishes and concerns of the child, as expressed to the court;
+
+       (c) The child's interaction and interrelationship with the child's parents,
+
+       siblings, and any other person who may significantly affect the child's best
+
+       interest;
+
+       (d) The child's adjustment to the child's home, school, and community;
+
+       (e) The mental and physical health of all persons involved in the situation;
+                                                                                 -6-
+
+
+(f) The parent more likely to honor and facilitate court-approved parenting
+
+time rights or visitation and companionship rights;
+
+(g) Whether either parent has failed to make all child support payments,
+
+including all arrearages, that are required of that parent pursuant to a child
+
+support order under which that parent is an obligor;
+
+(h) Whether either parent or any member of the household of either parent
+
+previously has been convicted of or pleaded guilty to any criminal offense
+
+involving any act that resulted in a child being an abused child or a
+
+neglected child; whether either parent, in a case in which a child has been
+
+adjudicated an abused child or a neglected child, previously has been
+
+determined to be the perpetrator of the abusive or neglectful act that is the
+
+basis of an adjudication; whether either parent or any member of the
+
+household of either parent previously has been convicted of or pleaded
+
+guilty to a violation of section 2919.25 of the Revised Code or a sexually
+
+oriented offense involving a victim who at the time of the commission of the
+
+offense was a member of the family or household that is the subject of the
+
+current proceeding; whether either parent or any member of the household
+
+of either parent previously has been convicted of or pleaded guilty to any
+
+offense involving a victim who at the time of the commission of the offense
+
+was a member of the family or household that is the subject of the current
+
+proceeding and caused physical harm to the victim in the commission of the
+
+offense; and whether there is reason to believe that either parent has acted
+
+in a manner resulting in a child being an abused child or a neglected child;
+                                                                                          -7-
+
+
+       (i) Whether the residential parent or one of the parents subject to a shared
+
+       parenting decree has continuously and willfully denied the other parent's
+
+       right to parenting time in accordance with an order of the court;
+
+       (j) Whether either parent has established a residence, or is planning to
+
+       establish a residence, outside this state.
+
+       {¶ 14} The record in this case shows that the trial court considered these relevant
+
+factors in its best-interest determination and also considered the factors in R.C.
+
+3109.04(F)(2), which are particular to shared parenting:
+
+       (a) The ability of the parents to cooperate and make decisions jointly, with
+
+       respect to the children;
+
+       (b) The ability of each parent to encourage the sharing of love, affection,
+
+       and contact between the child and the other parent;
+
+       (c) Any history of, or potential for, child abuse, spouse abuse, other
+
+       domestic violence, or parental kidnapping by either parent;
+
+       (d) The geographic proximity of the parents to each other, as the proximity
+
+       relates to the practical considerations of shared parenting;
+
+       (e) The recommendation of the guardian ad litem of the child, if the child
+
+       has a guardian ad litem.
+
+See Dickerson v. Dickerson, 2d Dist. Clark No. 2018-CA-21, 2018-Ohio-3502, ¶ 18.
+
+       {¶ 15} The GAL found that both parties agreed that communication between the
+
+two of them was “difficult” and that “their conversations typically result in the two of them
+
+arguing.” GAL Report, p. 14. The GAL stated that he was concerned about Father’s
+
+alleged use of excessive corporal punishment with the children, but he also noted that
+                                                                                           -8-
+
+
+Children’s Services had been unable to substantiate any of Mother’s claims in that regard.
+
+       {¶ 16} The GAL also stated that he found Mother to be the primarily parent who
+
+was more involved in day-to-day activities and routine with the children. The GAL noted
+
+that Father’s work schedule required the children to wake up at 4:00 a.m. on Wednesdays
+
+and Thursdays in order to get to their great aunt’s house prior to daycare/school. Father
+
+also admitted to the GAL that he frequently took overtime shifts on his standard days off
+
+(Wednesdays and Thursdays), requiring the children to be placed with Father’s relatives
+
+while he was at work. Based upon his findings, the GAL recommended that Mother be
+
+the sole custodian of the parties’ children and that Father receive a Standard Order of
+
+Parenting Time, with the addition that Father’s Wednesday visitation with the children be
+
+an overnight stay. Significantly, the GAL specifically recommended against the parties’
+
+entering into a shared parenting plan.
+
+       {¶ 17} “A trial court is not bound to follow a guardian ad litem's recommendation.”
+
+(Citation omitted.) Lumley v. Lumley, 10th Dist. Franklin No. 09AP-556, 2009-Ohio-
+
+6992, ¶ 46.    “As the fact finder, the trial court determines the guardian ad litem's
+
+credibility and the weight to be given to the guardian ad litem's recommendation.
+
+Because assessment of the credibility and weight of the evidence is reserved for the trial
+
+court, we will not second guess the court's decision to disregard the guardian ad litem's
+
+recommendation.” (Citation omitted.) Id., citing Davis v. Flickinger, 77 Ohio St.3d 415,
+
+419, 674 N.E.2d 1159 (1997).
+
+       {¶ 18} As previously stated, both parties were amenable to the implementation of
+
+a shared parenting plan. After hearing all of the testimony from the parties and viewing
+
+the exhibits, including the GAL Report, the trial court found that it was in the best interest
+                                                                                          -9-
+
+
+of the children that the parties enter into a shared parenting plan. The trial court found
+
+that both children were bonded to and loved both parents. Both parties provided stable
+
+and appropriate housing, and the children had good relationships with the parties’
+
+respective families, who were called upon to watch them occasionally.
+
+       {¶ 19} The trial court also found that Father’s work schedule at the time of the trial
+
+consisted of his working from 5:00 a.m. to 1:00 p.m., Saturday through Wednesday; he
+
+generally had Thursdays and Fridays off when he was not working overtime, some of
+
+which the trial court found was mandatory for Father. The trial court found that, with
+
+Father having Thursdays and Fridays off, the children would no longer have to get up
+
+early to go to their great aunt’s house so Father could get to work on time. Additionally,
+
+the trial court found that Father could put the children to bed at their regular bedtimes and
+
+take them to school in the mornings on Thursdays and Fridays. Accordingly, the trial
+
+court implemented a shared parenting plan and awarded Father parenting time with the
+
+children every week after school on Wednesdays through Friday until 6:00 p.m., and
+
+every other Saturday from 2:00 p.m. until Sunday at 7:00 p.m. While not providing
+
+necessarily “equal” time with the children to Mother, Father would be able to maximize
+
+his time with them, considering his new work schedule, under the trial court’s order.
+
+Furthermore, the trial court was not bound by the recommendation of the GAL regarding
+
+the shared parenting plan. In light of the foregoing, we cannot say that the trial court
+
+abused its discretion when it found a shared parenting plan to be in the children’s best
+
+interest.
+
+       {¶ 20} Father’s first assignment of error is overruled.
+
+       {¶ 21} Father’s second assignment of error states:
+                                                                                        -10-
+
+
+      THE TRIAL COURT ERRED AND ABUSED ITS DISCRETION IN THE
+
+      CALCULATION OF CHILD SUPPORT.
+
+      {¶ 22} Father argues that the trial court abused its discretion when it ordered him
+
+to pay a monthly total sum of $641.88 to Mother for the support of the two children. As
+
+previously stated, the amount of child support that Father was ordered to pay reflected a
+
+15% downward deviation from the standard child support order.
+
+      {¶ 23} We review child support decisions for abuse of discretion. Booth v. Booth,
+
+44 Ohio St.3d 142, 144, 541 N.E.2d 1028 (1989).
+
+      {¶ 24} “The party seeking to rebut the basic child support schedule has the burden
+
+of presenting evidence which demonstrates that the calculated award is unjust or
+
+inappropriate and would not be in the best interest of the child.” Murray v. Murray, 128
+
+Ohio App.3d 662, 671, 716 N.E.2d 288 (12th Dist.1999); see also MacMurray v. Mayo,
+
+10th Dist. Franklin No. 07AP-38, 2007-Ohio-6998, ¶ 30.            “As with most matters
+
+pertaining to child support, the decision to deviate from the actual annual obligation is
+
+discretionary and will not be reversed absent an abuse of discretion.” Hattenbach v.
+
+Watson, 2d Dist. Montgomery No. 27071, 2016-Ohio-5648, ¶ 14, citing Havens v.
+
+Havens, 10th Dist. Franklin No. 11AP-708, 2012-Ohio-2867, ¶ 6; see In re Custody of
+
+Harris, 168 Ohio App.3d 1, 2006-Ohio-3649, 857 N.E.2d 1235, ¶ 60-61 (2d Dist.).
+
+      {¶ 25} R.C. 3119.24 permits a trial court to deviate from the guideline calculation
+
+if that amount “would be unjust or inappropriate to the children or either parent and would
+
+not be in the best interest of the child because of extraordinary circumstances of the
+
+parents or because of any other factors or criteria as set forth in R.C. 3119.23 of the
+
+Revised Code.” The fact that parents equally share in parenting time does not, by itself,
+                                                                                         -11-
+
+
+justify a deviation in the amount of child support. Glassner v. Glassner, 160 Ohio App.3d
+
+648, 2005-Ohio-1936, 828 N.E.2d 642, ¶ 48 (5th Dist.). Instead, it is just one factor to
+
+be considered by the trial court. The “extraordinary circumstances listed in R.C.
+
+3119.24(B) include (1) the amount of time the children spend with each parent, (2) the
+
+ability of each parent to maintain adequate housing for the children, (3) each parent's
+
+expenses, and (4) any other circumstances the court considers relevant.” Hattenbach
+
+at ¶ 13.   R.C. 3119.23 adds an additional 16 factors a trial court may consider in
+
+determining whether to deviate from the guideline, including income disparity between
+
+the parties.
+
+       {¶ 26} In this case, the trial court found that the stipulated annual salaries of the
+
+parties were: Father, $51,896.26, and Mother, $51,508.38. At trial, Father requested
+
+that the parties continue sharing the costs of any child-related expenses. Conversely,
+
+Mother requested a child support order in the monthly amount of $749.02 for the children,
+
+which the trial court noted “is guidelines child support.” Decision (Nov. 24, 2020), p. 11.
+
+In its decision awarding Mother child support for the minor children, the trial court stated:
+
+               These parties tried the cost-sharing method during the pendency of
+
+       this case and the arrangement was problematic. [Father] was consistently
+
+       late with payments. He has been able to catch up with most payments
+
+       lately and requests the opportunity to continue in this manner.
+
+               The Court finds a specific order of child support payable monthly
+
+       from [Father] to [Mother] can alleviate conflict in this area. Due to the time
+
+       each parent will spend with the children the Court will grant [Father] a 15%
+
+       deviation downward from the standard child support order. The Court finds
+                                                                                        -12-
+
+
+       this deviation to be in the minor children’s best interest.
+
+(Emphasis added.) Id.
+
+       {¶ 27} Upon review, we can find no abuse of discretion in the trial court's decision
+
+to order Father to pay child support to Mother. As stated by the trial court, Father had a
+
+history of late payments to Mother when they were sharing the minor children’s expenses
+
+during the pendency of the parties’ divorce. By ordering Father to pay monthly child
+
+support to Mother, any issues regarding late or non-existent payments would presumably
+
+cease. Additionally, we conclude that the trial court did not err when it awarded Father
+
+a 15% downward deviation in his support obligation for the parties' children; the trial
+
+court’s findings and the record sufficiently supported this deviation.
+
+       {¶ 28} Father’s second assignment of error is overruled.
+
+       {¶ 29} Each of Father’s assignments of error having been overruled, the judgment
+
+of the trial court is affirmed.
+
+                                      .............
+
+
+
+HALL, J. and EPLEY, J., concur.
+
+
+
+Copies sent to:
+
+Matthew C. Sorg
+Steven M. Abshire
+Keri E. Farley
+Hon. Denise L. Cross
+

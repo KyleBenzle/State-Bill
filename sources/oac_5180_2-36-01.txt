@@ -1,0 +1,181 @@
+Source: https://codes.ohio.gov/ohio-administrative-code/rule-5180:2-36-01
+Retrieved: 2026-10-04
+
+Effective:
+September 1, 2024
+Promulgated Under:
+119.03
+PDF:
+Download Authenticated PDF
+(A) A public children services agency
+ (PCSA) is to attempt to obtain, at a minimum, the following information from a
+ referent/reporter making a referral regarding child safety, risk of child
+ maltreatment or need for services to determine an intake category and arrive at
+ a screening decision. Receipt of all the following information is not required
+ to screen in a report or to categorize the information as information and/or
+ referral:
+(1) The name(s) and
+ address(es) of the child and the child's parent(s), guardian(s), or
+ custodian(s) and all household members.
+(2) The child's
+ age.
+(3) The child's and
+ any other individual's race and ethnicity.
+(4) The type, extent,
+ frequency, duration, and incident date(s) of the abuse, neglect, or dependency,
+ as applicable.
+(5) Alleged perpetrator's access to
+ the child, if applicable.
+(6) The child's current
+ condition.
+(7) The child's current
+ location.
+(8) Circumstances regarding the abuse,
+ neglect, or dependency or the circumstances indicating a need for PCSA
+ services.
+(9) Information regarding any evidence of
+ previous injuries, abuse, or neglect.
+(10) Any other information that might be
+ helpful in establishing the cause of the known or suspected injury, abuse, or
+ neglect or the known or suspected threat of injury, abuse, or neglect or the
+ case circumstances that support the family is in need of PCSA
+ services.
+(B) The PCSA is not to delay making the
+ screening decision if waiting for written information from the
+ referent/reporter.
+(C) All information reported to a PCSA
+ alleging known or suspected child abuse, neglect, or dependency, or indicating
+ a family is in need of PCSA services is to be recorded in Ohio's
+ comprehensive child welfare information system (CCWIS) as an intake in
+ accordance with the following:
+(1) Referral information
+ received is to be recorded in Ohio's CCWIS no later than the next working
+ day from the date of the receipt of the referral information.
+(2) The original date and
+ time the referral information is received by the PCSA is to be reflected in
+ Ohio's CCWIS including the actual date and time of the screening
+ decision.
+(D) The PCSA is to categorize the information received into
+ one of the following intake categories:
+(1) Child abuse and/or
+ neglect report.
+(a) Physical abuse, in accordance with section 2151.031 of the
+ Revised Code.
+(b) Sexual abuse, in accordance with section 2151.031 of
+ the Revised Code and Chapter 2907. of the Revised Code.
+(c) Emotional maltreatment/mental injury, in accordance
+ with section 2151.011 or 2151.031 of the Revised Code.
+(d) Neglect, in accordance with section 2151.03 of the
+ Revised Code.
+(2) Dependency report.
+ Dependent child, as defined in section 2151.04 of the Revised
+ Code.
+(3) Family in need of
+ services report according to rule 5101:2-36-10 of the Administrative
+ Code.
+(4) Post emancipation
+ report, young adult services, for young adults who have emancipated from any
+ PCSA, private child placing agency (PCPA), or children services agency (CSA) on
+ or after attaining the age of eighteen, in accordance with rule 5101:2-42-19.2
+ of the Administrative Code.
+(5) Information and/or referral, pursuant
+ to rule 5101:2-1-01 of the Administrative Code, if paragraph (D)(1), (D)(2),
+ (D)(3), or (D)(4) of this rule do not apply.
+(E) When a PCSA receives a referral of a substance
+ affected infant, the PCSA is to attempt to gather all information needed for a
+ plan of safe care/ family care plan as defined in rule 5101:2-1-01 of the
+ Administrative Code.
+(F) The PCSA will not screen out any referral of a
+ substance affected infant if:
+(1) The plan of safe
+ care/ family care plan information listed in paragraph (E) of this rule is not
+ obtained.
+(2) The plan of safe
+ care/ family care plan has not been developed.
+(3) The plan of safe
+ care/family care plan is not adequate to address the safety of the
+ infant.
+(G) If the family has an active
+ protective service alert (PSA) pursuant to rule 5101:2-36-14 of the
+ Administrative Code and the current referral contains updated contact
+ information that may allow the ability to locate the family, the PCSA is to
+ screen in the current referral due to the PSA. The PCSA is to
+ assess/investigate the concerns related to the PSA in addition to any concerns
+ needing an assessment/investigation in the current referral. The PCSA is to
+ cancel the PSA in accordance with rule 5101:2-36-14 of the Administrative Code
+ upon locating the family.
+(H) The PCSA is to complete the screening decision and
+ determine the immediacy of need for any agency response to ensure child safety
+ within twenty-four hours from receipt of the information and following the
+ categorization of the referral information in accordance with paragraphs
+ (D)(1), (D)(2), (D)(3), and (D)(4) of this rule.
+(I) If the PCSA screens out a referral of abuse or neglect
+ that occurred or is occurring in an out-of-home care setting pursuant to rule
+ 5101:2-1-01 of the Administrative Code, the PCSA is to notify licensing and
+ supervising authorities by the next working day of the screening decision
+ pursuant to section 2151.421 of the Revised Code.
+(J) The PCSA may refer families with
+ screened out referrals to prevention service providers pursuant to sections
+ 2151.421 and 2151.423 of the Revised Code.
+(K) PCSAs are to assign reports screened in and categorized
+ pursuant to paragraph (D)(1) of this rule to one of the following
+ pathways:
+(1) Traditional response,
+ pursuant to Chapters 5101:2-36, 5101:2-37, and 5101:2-38 of the Administrative
+ Code.
+(2) Alternative response,
+ pursuant to rules 5101:2-36-20 and 5101:2-38-20 of the Administrative
+ Code.
+(L) The PCSA is to assign the following types of reports of child
+ abuse and/or neglect to the traditional response pathway:
+(1) Physical abuse resulting in serious
+ injury or that creates a serious and immediate risk to a child's health
+ and safety.
+(2) Reports containing allegations of the
+ sexual abuse of a child.
+(3) Reports requiring a specialized
+ assessment as identified in rule 5101:2-36-04 of the Administrative
+ Code.
+(4) Reports requiring a third party
+ investigative procedure as identified in rule 5101:2-36-08 of the
+ Administrative Code.
+(5) Reports containing allegations of
+ known or suspected child abuse or neglect resulting in a child fatality or near
+ fatality.
+(M) All referral information categorized as information and/or
+ referral pursuant to paragraph (D)(5) of this rule is to be screened out. The
+ PCSA is to identify which of the following activities was completed by the
+ PCSA.
+(1) Directed/advised to
+ contact non-PCSA service provider within the county.
+(2) Directed/advised to
+ contact non-PCSA service provider outside the county.
+(3) Provided information
+ only/no referral made.
+(4) Additional
+ information received on an open case that is not alleging abuse or neglect of a
+ child.
+(N) No later than seven calendar days
+ after the screening decision, the PCSA is to provide written notification to
+ all referents who are mandated reporters in accordance with section 2151.421 of
+ the Revised Code. 
+(O) The PCSA is to make a cross-referral
+ to law enforcement pursuant to rule 5101:2-36-12 of the Administrative
+ Code.
+(P) The PCSA may refer the referent/reporter to the county
+ prosecutor pursuant to the county child abuse and neglect memorandum of
+ understanding developed pursuant to sections 2151.4220 to 2151.4234 of the
+ Revised Code.
+(Q) Additional child abuse and/or neglect allegations
+ screened in within the first four working days of the acceptance of a child
+ abuse and/or neglect report and prior to the completion of an assessment of
+ safety with the child and the parent/caretaker, may be added to the initial
+ report and assessed/investigated concurrently with the allegations received
+ initially. The date and time the subsequent report was received along with the
+ reporter information is to be recorded in Ohio's CCWIS.
+(R) Additional child abuse and/or neglect allegations
+ screened in after the first four working days of the acceptance of the previous
+ child abuse and/or neglect report or after completion of the assessment of
+ safety are to be recorded as a subsequent child abuse and/or neglect report and
+ are subject to the requirements contained in rules 5101:2-36-03, 5101:2-36-04,
+ 5101:2-36-05, and 5101:2-36-20 of the Administrative Code.

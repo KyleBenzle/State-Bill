@@ -1,0 +1,659 @@
+Source: Rules of Superintendence for the Courts of Ohio, official PDF https://www.supremecourt.ohio.gov/docs/LegalResources/Rules/superintendence/Superintendence.pdf (retrieved 2026-10-04; reflects July 1, 2026 restructuring). Former Sup.R. 48-48.07 = current Sup.R. 8.00-8.07.
+
+                   SECTION 8.             SUPPLEMENTAL SERVICES.
+
+
+RULE 8.00. Application.
+
+Sup.R. 8.00 through 8.07 shall apply in all domestic relations and juvenile cases in the courts of
+common pleas where a court appoints a guardian ad litem to act in the best interest of a child.
+
+                                   Commentary (July 1, 2026)
+
+        Rule 48 was renumbered to Rule 8.00 as part of the 2026 restructuring of the Rules of
+Superintendence.
+
+
+
+Effective Date: March 1, 2009
+Amended: January 1, 2021
+RULE 8.01. Definitions.
+
+As used in Sup.R. 8.00 through 8.07:
+
+       (A)    Allocation of parental rights and responsibilities
+
+              References in this rule to cases involving “allocation of parental rights and
+              responsibilities” shall also include those cases in which legal custody, parenting
+              time, companionship, or visitation rights are at issue. “Allocation of parental rights
+              and responsibilities, legal custody, parenting time, companionship, or visitation
+              rights” has the same meaning as in R.C. 3109.04 and 3109.051 and includes an
+              original proceeding or any proceeding for modification of a prior order of the court
+              making the allocation.
+
+       (B)    Attorney for the child
+
+              “Attorney for the child” means an attorney appointed to act as legal counsel for a
+              child and advocate for the wishes of the child.
+
+       (C)    Guardian ad litem
+
+              “Guardian ad litem” means an individual appointed to assist a court in its
+              determination of the best interest of a child.
+
+       (D)    Child
+
+              “Child” means:
+
+                      (1)    A person under eighteen years of age;
+
+                      (2)    A person who is older than eighteen years of age who is deemed a
+                             child until the person attains twenty-one years of age under R.C.
+                             2151.011(B)(6) or 2152.02(C);
+
+                      (3)    A child under R.C. 3109.04 or a disabled child under R.C.3119.86
+                             who falls under the jurisdiction of a domestic relations or juvenile
+                             court.
+
+                                   Commentary (July 1, 2026)
+
+        Rule 48.01 was renumbered to Rule 8.01 as part of the 2026 restructuring of the Rules of
+Superintendence.
+
+
+
+Effective Date: January 1, 2021; July 1, 2026
+RULE 8.02. Appointment of Guardian Ad Litem.
+
+(A)   Orders of appointment
+
+      Each court appointing a guardian ad litem under this rule shall enter an order of
+      appointment. The order of appointment shall include statements regarding all of the
+      following:
+
+             (1)     Whether it is a sole guardian ad litem appointment or a dual guardian ad
+                     litem and attorney appointment;
+
+             (2)     That unless otherwise specified by court rule, the appointment shall remain
+                     in effect until discharged by order of the court;
+
+             (3)     That the guardian ad litem shall be given notice of all hearings and
+                     proceedings and be provided a copy of all pleadings, motions, notices, and
+                     other documents filed in the case;
+
+             (4)     That the guardian ad litem’s written report shall include the following
+                     language: “The guardian ad litem has provided this report in accordance
+                     with the Rules of Superintendence for the Court of Ohio. No party receiving
+                     a copy of this report may reproduce, copy, share, or distribute the report, or
+                     any part, excerpt, or image from it, by any means without the permission of
+                     the court. Any violation may result in court action, including the penalties
+                     for contempt, which include a fine and/or incarceration.”
+
+             (5)     The rate or amount of compensation for the guardian ad litem in allocation
+                     of parental rights and responsibilities cases;
+
+             (6)     The terms and amount of any installment payments and deposits in
+                     allocation of parental rights and responsibilities cases.
+
+(B)   Limited Scope of Appointment
+
+      A court may appoint a guardian ad litem to address a specific issue or issues. A court shall
+      include in the order of appointment the specific issue or issues to be addressed and a
+      statement the guardian ad litem is relieved of the duties set forth in Sup.R. 8.03(D) that are
+      not applicable to the specific issue or issues.
+
+(C)   Mandatory appointments in abuse, neglect, dependency, unruly, and delinquent cases
+
+      A court shall appoint a guardian ad litem in abuse, neglect, dependency, unruly, and
+      delinquency cases as required by rule or statute.
+(D)   Separate appointments in abuse, neglect, dependency, unruly, and delinquency cases
+      and cases of conflict
+
+      (1)    A court shall appoint a separate attorney to represent a child in abuse, neglect,
+             dependency, unruly, and delinquency cases in which the wishes of the child differ
+             from the recommendations of the guardian ad litem.
+
+      (2)    If an attorney who has been appointed to serve as both guardian ad litem and
+             attorney for the child or any other party believes that a conflict exists in the dual
+             appointment, the attorney or party shall immediately notify the court in writing with
+             notice to the parties or affected agencies and request a separate appointment of a
+             guardian ad litem and attorney for the child. The court shall make such additional
+             appointment or appointments or order or orders to remedy the conflict. The court
+             may also make such appointment or appointments on its own motion.
+
+(E)   Separate appointments in cases involving allocation of parental rights and
+      responsibilities
+
+      If a court appoints a guardian ad litem in an allocation of parental rights and responsibilities
+      case, the guardian ad litem shall be appointed only to represent the best interest of the child
+      and shall not also be appointed as the attorney for the child.
+
+(F)   Discretionary appointments in allocation of parental rights and responsibilities,
+      unruly, and delinquency cases
+
+      Unless a mandatory appointment is required by rule or statute, a court may make a
+      discretionary appointment of a guardian ad litem in the allocation of parental rights and
+      responsibilities, unruly, and delinquency cases. In making a discretionary appointment, a
+      court should consider all of the circumstances of the case, including but not limited to all
+      of the following factors:
+
+             (1)     Allegations of abuse and neglect of the child;
+
+             (2)     Consideration of extraordinary remedies, such as supervised visitation,
+                     terminating or suspending parenting time, or awarding custody or visitation
+                     to a non-parent;
+
+             (3)     Relocation that could substantially reduce the time of a child with a parent
+                     or sibling;
+
+             (4)     The wishes and concerns of the child;
+
+             (5)     Harm to the child from drug or alcohol abuse by the party;
+
+             (6)     Past or present child abduction or risk of future abduction;
+             (7)    Past or present family violence;
+
+             (8)    Past or present mental health issues of the child or a party;
+
+             (9)    Special physical, educational, or mental health needs of the child that
+                    require investigation or advocacy;
+
+             (10)   A high level of conflict;
+
+             (11)   Inappropriate adult influence or manipulation;
+
+             (12)   Interference with custody or parenting time;
+
+             (13)   A need for more information relevant to the best interests of the child;
+
+             (14)   A need to minimize the harm to the child from family separation or
+                    litigation;
+
+             (15)   Any other relevant factor.
+
+(G)   Reappointment
+
+      A court should consider reappointment of the same guardian ad litem for a specific child
+      in any subsequent case determining the best interest of the child.
+
+(H)   Guardian ad litem fee determinations in cases involving allocation of parental rights
+      and responsibilities
+
+      (1)    A court appointing a guardian ad litem in a case involving allocation of parental
+             rights and responsibilities shall make a determination of the ability of any party to
+             pay a deposit for the fees and expenses to the guardian ad litem and may reconsider
+             that determination at any time prior to conclusion of the case. In making this
+             determination, the court shall consider all of the following:
+
+                    (a)     The income, assets, liabilities, and financial circumstances of the
+                            parties, as demonstrated by an affidavit, testimony to the court, or
+                            evidence of qualification for any means-tested public assistance;
+
+                    (b)     The complexity of the issues;
+
+                    (c)     The anticipated expenses, including the travel of the guardian ad
+                            litem.
+
+      (2)    At any time prior to the conclusion of a case, a guardian ad litem may submit a
+             motion for payment. A guardian ad litem shall submit a motion for payment upon
+            conclusion of the duties. Any motion shall itemize the duties performed, time
+            expended, and costs and expenses incurred pursuant to Sup.R. 8.03(H)(1).
+
+      (3)   In determining the allocation of guardian ad litem fees and expenses, a court shall
+            consider any relevant factor, including any of the following:
+
+                   (a)     The rate or amount of compensation of the guardian ad litem;
+
+                   (b)     The sources of compensation of the guardian ad litem, including the
+                           parties, any specialized funds allocated for payment of the guardian
+                           ad litem, or pro bono contribution of services by the guardian ad
+                           litem;
+
+                   (c)     The income, assets, liabilities, and financial circumstances of the
+                           parties, as demonstrated using an affidavit, testimony to the court,
+                           or evidence of qualification for any means-tested public assistance;
+
+                   (d)     The conduct of any party resulting in the increase of the guardian ad
+                           litem fees and expenses without just cause;
+
+                   (e)     The terms and amount of any installment payments.
+
+      (4)   Unless a hearing is requested by a party or the court within fourteen days after a
+            motion for payment is filed, a court shall issue an order regarding payment of
+            guardian ad litem fees and expenses approving or denying any portion of the
+            requested fees and expenses and allocating payment to one or more of the parties
+            as appropriate.
+
+(I)   Enforcement of payment
+
+      (1)   If the fees and expenses of a guardian ad litem exceed the deposits or installment
+            payments ordered and made, a court may do any of the following:
+
+                   (a)     Issue a lump-sum judgment against any party owing guardian ad
+                           litem fees and expenses at the time of the determination of fees or at
+                           any further proceedings regarding payment of fees;
+
+                   (b)     Enforce the payment of fees and expenses of the guardian ad litem
+                           through contempt of court proceedings;
+
+                   (c)     Enforce any order regarding the payment of guardian ad litem fees
+                           and expenses in any other manner authorized by law.
+
+      (2)   A court shall not delay or dismiss a proceeding solely because of the failure of a
+            party to pay guardian ad litem fees and expenses required to be paid by the court.
+  (3)    The inability of a party to pay guardian ad litem fees and expenses ordered by a court
+                                  shall not delay any final entry.
+                                   Commentary (July 1, 2026)
+
+        Rule 48.02 was renumbered to Rule 8.02 as part of the 2026 restructuring of the Rules of
+Superintendence.
+
+
+
+Effective Date: January 1, 2021; July 1, 2026
+RULE 8.03. Responsibilities of Guardian Ad Litem.
+
+(A)   General responsibilities
+
+      The responsibilities of a guardian ad litem shall include, but are not limited to, the
+      following:
+
+             (1)    Provide the court recommendations of the best interest of the child.
+                    Recommendations of the best interest of the child may be inconsistent with
+                    the wishes of the child or other parties.
+
+             (2)    Maintain independence, objectivity, and fairness, as well as the appearance
+                    of fairness, in dealings with parties and professionals, both in and out of the
+                    courtroom, and have no ex parte communications with the court regarding
+                    the merits of the case;
+
+             (3)    Act with respect and courtesy in the performance of the responsibilities of
+                    the guardian ad litem;
+
+             (4)    Attend any hearing relevant to the responsibilities of the guardian ad litem;
+
+             (5)    Upon becoming aware that the recommendations of the guardian ad litem
+                    differ from the wishes of the child, immediately notify the court in writing
+                    with notice to the parties or affected agencies. The court shall take action
+                    as it deems necessary.
+
+             (6)    If necessary, request timely court reviews and judicial intervention in
+                    writing with notice to the parties or affected agencies;
+
+             (7)    If the guardian ad litem is an attorney, file pleadings, motions, and other
+                    documents as appropriate and call, examine, and cross-examine witnesses
+                    pursuant to the applicable rules of procedure;
+
+             (8)    Be available to testify at any relevant hearing. Attorneys who are to serve
+                    as both guardian ad litem and attorney in any dual appointments shall
+                    comply with Rule 3.7 of the Rules of Professional Conduct.
+
+             (9)    If the guardian ad litem is not an attorney, avoid engaging in conduct that
+                    constitutes the unauthorized practice of law and be vigilant in performing
+                    the duties of the guardian ad litem;
+
+             (10)   If the guardian ad litem is not an attorney, request the court to appoint an
+                    attorney for the guardian ad litem to file pleadings, motions, and other
+                    documents as appropriate and call, examine, and cross-examine witnesses
+                    pursuant to the applicable rules of procedure. The court shall take action as
+                    it deems necessary.
+(B)   Conflicts of interest
+
+      (1)    A guardian ad litem shall avoid any actual or apparent conflict of interest arising
+             from any relationship or activity, including but not limited to those of employment
+             or business or from professional or personal contacts with parties or others involved
+             in the case. A guardian ad litem shall avoid self-dealing or associations that might
+             directly or indirectly benefit except from compensation for services as a guardian
+             ad litem.
+
+      (2)    Upon becoming aware of any actual or apparent conflict of interest, a guardian ad
+             litem shall immediately notify the court in writing. The court shall take action as it
+             deems necessary.
+
+(C)   Satisfaction of training requirements
+
+      A guardian ad litem shall meet the qualifications and satisfy all pre-service and continuing
+      education requirements of Sup.R. 8.04 and 8.05 and any local court rules governing
+      guardians ad litem. A guardian ad litem shall do both of the following:
+
+             (1)     Meet the qualifications for guardians ad litem for each court and promptly
+                     advise the court of any grounds for disqualification or any issues affecting
+                     the ability to serve;
+
+             (2)     Provide the court documentation indicating compliance with pre-service
+                     and continuing educational requirements so the court may maintain the files
+                     required pursuant to Sup.R. 8.07. The documentation shall include
+                     information detailing the date, location, contents, and credit hours received
+                     for any relevant education.
+
+(D)   Duties of the Guardian ad Litem
+
+      Unless specifically relieved by the court, the duties of a guardian ad litem shall include,
+      but are not limited to, the following:
+
+             (1)     Become informed about the facts of the case and contact all relevant
+                     persons;
+
+             (2)     Observe the child with each parent, foster parent, guardian or physical
+                     custodian;
+
+             (3)     Interview the child, if age and developmentally appropriate, where no
+                     parent, foster parent, guardian, or physical custodian is present;
+
+             (4)     Visit the child at the residence or proposed residence of the child in
+                     accordance with any standards established by the court;
+             (5)     Ascertain the wishes and concerns of the child;
+
+             (6)     Interview the parties, foster parents, guardians, physical custodian, and
+                     other significant individuals who may have relevant knowledge regarding
+                     the issues of the case. The guardian ad litem may require each individual
+                     to be interviewed without the presence of others. Upon request of the
+                     individual, the attorney for the individual may be present.
+
+             (7)     Interview relevant school personnel, medical and mental health providers,
+                     child protective services workers, and court personnel and obtain copies of
+                     relevant records;
+
+             (8)     Review pleadings and other relevant court documents in the case;
+
+             (9)     Obtain and review relevant criminal, civil, educational, mental health,
+                     medical, and administrative records pertaining to the child and, if
+                     appropriate, the family of the child or other parties in the case;
+
+             (10)    Request that the court order psychological evaluations, mental health or
+                     substance abuse assessments, or other evaluations or tests of the parties as
+                     the guardian ad litem deems necessary or helpful to the court;
+
+             (11)     Review any necessary information and interview other persons as
+                     necessary to make an informed recommendation regarding the best interest
+                     of the child.
+
+(E)   Identification as guardian ad litem
+
+      A guardian ad litem shall immediately identify himself or herself as a guardian ad litem
+      when contacting individuals and inform the individuals about the role of the guardian ad
+      litem, including as an attorney if a dual appointment, the scope of appointment, and that
+      documents and information obtained by the guardian ad litem may become part of court
+      proceedings.
+
+(F)   Confidentiality
+
+      A guardian ad litem shall make no disclosures about a case or investigation, except to the
+      parties and their legal counsel, in reports to the court, or as necessary to perform the duties
+      of a guardian ad litem, including as a mandated reporter. The guardian ad litem shall
+      maintain the confidential nature of personal identifiers, as defined in Sup.R. 11.09, and
+      address where there are allegations of domestic violence or risk to the safety of a party or
+      child. Upon application, the court may order disclosure of or access to the information
+      necessary to challenge the truth of the information received from a confidential source.
+      The court may impose conditions necessary to protect witnesses from potential harm.
+(G)    Timeliness
+
+       A guardian ad litem shall perform responsibilities in a prompt and timely manner.
+
+(H)    Record-keeping
+
+       (1)    A guardian ad litem shall keep accurate records of the time spent, services rendered,
+              and expenses incurred in each case while performing the responsibilities of a
+              guardian ad litem.
+
+       (2)    In allocation of parental rights and responsibilities cases, a guardian ad litem shall
+              provide a monthly statement of fees and expenses to all parties.
+
+       (3)    A guardian ad litem shall file an itemized statement and accounting with the court
+              and provide a copy to each party or other entity responsible for payment upon order
+              of the court or upon the conclusion of those responsibilities.
+                                   Commentary (July 1, 2026)
+
+        Rule 48.03 was renumbered to Rule 8.03 as part of the 2026 restructuring of the Rules of
+Superintendence.
+
+
+
+Effective Date: January 1, 2021
+RULE 8.04. Pre-Service Education.
+
+(A)   Pre-service education required for appointment
+
+      A guardian ad litem shall complete pre-service education provided by the Supreme Court,
+      the Ohio Court Appointed Special Advocates (CASA) Guardian ad Litem Association, or
+      with the approval of the appointing court, another provider.
+
+(B)   Pre-service education hours and topics
+
+      (1)    Pre-service education for guardians ad litem shall be twelve hours.
+
+      (2)    Of the twelve hours of pre-service education, six hours shall be obtained via a live
+             education program.
+
+      (3)    The remaining six hours of pre-service education may be satisfied by online or live
+             education, teaching, writing, mentoring, or field-training activities with approval
+             by the appointing court.
+
+      (4)    Six hours of pre-service education shall include training on all the following topics:
+
+                    (a)      Basic human needs, stages of child development, and the impact of
+                            trauma;
+
+                    (b)     Communication skills, including but not limited to communication
+                            with children and adults, interviewing skills, methods of critical
+                            questioning, use of open-ended questions, understanding the
+                            perspective of a child, sensitivity, building trust, multicultural
+                            awareness, diversity, and confidentiality;
+
+                    (c)      Child abuse, neglect, dependency, unruliness, delinquency, and
+                            assessing risk and safety;
+
+                    (d)     Family and child issues, including but not limited to family
+                            dynamics, substance abuse and its effects, basic psychopathology
+                            for adults and children, and domestic violence and its effects,
+                            including assessing for lethality and safety;
+
+                    (e)     Legal processes, available community agencies and resources,
+                            methods of service, records checks, the role of a guardian ad litem
+                            in court, local resources and service practice, report content,
+                            mediation, and other types of dispute resolution processes;
+
+                    (f)     Any other topic that concerns the role of the guardian ad litem to
+                            help determine the best interest of the child.
+(C)    Current Guardians ad Litem
+
+       An individual who is currently serving as a guardian ad litem on January 1, 2021, shall be
+       deemed compliant with the pre-service education and not be required to complete the
+       twelve hours of pre-service education.
+
+                                   Commentary (July 1, 2026)
+
+        Rule 48.04 was renumbered to Rule 8.04 as part of the 2026 restructuring of the Rules of
+Superintendence.
+
+
+
+Effective Date: January 1, 2021
+Amended: July 1, 2022
+RULE 8.05. Continuing Education.
+
+(A)    Continuing education hours and topics
+
+       (1)    Continuing education for guardians ad litem shall total six hours annually and be
+              provided by the Supreme Court; the Ohio Court Appointed Special Advocates
+              (CASA) Guardian ad Litem Association; or, with the approval of the appointing
+              court, another provider.
+
+       (2)    Of the six hours of continuing education, three hours shall be obtained via a live
+              education program.
+
+       (3)    The remaining three hours of continuing education may be satisfied by online or
+              live education, training, writing, mentoring, or field-training activities as pre-
+              approved by the appointing court.
+
+       (4)    Continuing education shall consist of advanced education related to topics
+              identified in Sup.R. 8.04.
+
+(B)    Failure to comply
+
+       If a guardian ad litem fails to complete six hours of continuing education within any
+       calendar year, the individual shall not be eligible to serve as a guardian ad litem on any
+       new appointments until this continuing education requirement is satisfied. The court shall
+       have the discretion to continue the current guardian ad litem appointments.
+
+                                   Commentary (July 1, 2026)
+
+        Rule 48.05 was renumbered to Rule 8.05 as part of the 2026 restructuring of the Rules of
+Superintendence.
+
+
+
+Effective Date: January 1, 2021
+Amended: July 1, 2022
+RULE 8.06. Guardian Ad Litem Reports.
+
+(A)   General report requirements
+
+      (1)   A guardian ad litem shall prepare a written final report, including recommendations
+            to the court, within the times set forth in this division. The report shall affirmatively
+            state that responsibilities have been met and shall detail the activities performed,
+            hearings attended, persons interviewed, documents reviewed, experts consulted,
+            and all other relevant information considered by the guardian ad litem in reaching
+            the recommendations and in accomplishing the duties required by statute, by court
+            rule, and in the order of appointment from the court.
+
+      (2)   All written reports shall include the following warning: “The guardian ad litem has
+            provided this report in accordance with the Rules of Superintendence for the Courts
+            of Ohio. No party receiving a copy of this report may reproduce, copy, share, or
+            distribute the report, or any part, excerpt, or image from it, by any means without
+            the permission of the court. Any violation may result in court action, including the
+            penalties for contempt, which include a fine and/or incarceration.”
+
+      (3)   Oral and written reports shall address relevant issues, but shall not be considered
+            determinative.
+
+      (4)   A guardian ad litem shall be available to testify at any relevant hearing and may
+            orally supplement the report at the conclusion of the hearing.
+
+      (5)   A guardian ad litem may provide an interim written or oral report at any time.
+
+(B)   Guardian ad litem reports in abuse, neglect, dependency, unruly, and delinquency
+      reports
+
+      (1)    Not fewer than sever days prior to any initial dispositional hearing, permanent
+            custody hearing, and any hearing upon a motion requesting a change in disposition,
+            a guardian ad litem in abuse, neglect, dependency, unruly, and delinquency cases
+            and actions to terminate parental rights shall provide a written report to the court,
+            unrepresented parties, and legal counsel, who shall provide the report to their client.
+            The court may alter the seven-day period as may be necessary for the administration
+            of justice.
+
+      (2)   No party receiving a copy of the written report may reproduce, copy, share, or
+            distribute the report, or any part, excerpt, or image from it, by any means without
+            the permission of the court. Any violation may result in court action, including the
+            penalties for contempt, which include a fine and/or incarceration.
+
+      (3)   A court shall review all guardian ad litem reports, written or oral, to ensure that the
+            guardian ad litem has performed those responsibilities required by R.C. 2151.281.
+(C)    Guardian ad litem reports in allocation of parental rights and responsibilities cases
+
+       (1)    Not fewer than seven days before the final hearing date, unless the due date is
+              modified by the court, a guardian ad litem in proceedings involving the allocation
+              of parental rights and responsibilities, custody, and visitation shall provide a written
+              report to the court, unrepresented parties, and legal counsel, who shall provide the
+              report to their client.
+
+       (2)    No party receiving a copy of the written report may reproduce, copy, share, or
+              distribute the report, or any part, excerpt, or image from it, by any means without
+              the permission of the court. Any violation may result in court action, including the
+              penalties for contempt, which include a fine and/or incarceration.
+
+       (3)    The court shall consider the recommendation of the guardian ad litem in
+              determining the best interest of the child only when the report or a portion of the
+              report has been admitted as an exhibit.
+
+                                   Commentary (July 1, 2026)
+
+        Rule 48.06 was renumbered to Rule 8.06 as part of the 2026 restructuring of the Rules of
+Superintendence.
+
+
+
+Effective Date: January 1, 2021
+Amended: July 1, 2022; July 1, 2026
+RULE 8.07. Responsibilities of the Court.
+
+Each court appointing guardians ad litem shall do all of the following:
+
+       (A)     Maintain a public list of approved guardians ad litem while maintaining individual
+               privacy pursuant to Sup.R. 11.09 through 11.16;
+
+       (B)     Establish criteria, which include all requirements of Sup.R. 8.00 through 8.07, for
+               appointment and removal of guardians ad litem and procedures to ensure an
+               equitable distribution of the work load among the guardians ad litem on the list.
+               Equitable distribution means a system through which appointments are made in an
+               objectively rational, fair, neutral, and nondiscriminatory manner and are widely
+               distributed among substantially all persons from the list maintained by the court.
+               The court may consider the complexity of the issues, parties, counsel, and the
+               children involved, as well as the experience, expertise, and demeanor of available
+               guardians ad litem.
+
+       (C)     Coordinate the application and appointment process, keep the files and records
+               required by Sup.R. 8.00 through 8.07, maintain information regarding training
+               opportunities, and receive written comments and complaints regarding the
+               performance of guardians ad litem practicing before that court;
+
+       (D)     Maintain files for all applicants and for individuals approved for appointment as
+               guardians ad litem with the court. The files shall contain all records and
+               information required by Sup.R. 8.00 through 8.07 and by local rules for the
+               selection and service of guardians ad litem, including a certificate or other
+               satisfactory proof of compliance with training requirements.
+
+       (E)     Require all applicants to submit a resume or information sheet stating the
+               applicant’s training, experience, and expertise demonstrating the ability of the
+               applicant to successfully perform the responsibilities of a guardian ad litem;
+
+       (F)     Review a criminal and civil background check and investigation of information
+               relevant to the fitness of the applicant to serve as a guardian ad litem;
+
+       (G)     Review all guardian ad litem reports, written or oral, to ensure that the guardian ad
+               litem has performed those responsibilities required by R.C. 2151.281;
+
+       (H)     Conduct, at least annually, a review of its list to determine that all guardians ad
+               litem are in compliance with the training and education requirements of Sup.R. 8.00
+               through 8.07 and local rules, have performed satisfactorily on all assigned cases
+               during the preceding calendar year, and are otherwise qualified to serve;
+
+       (I)     Require all guardians ad litem on its list to certify annually they are unaware of any
+               circumstances that would disqualify them from serving and to report the training
+               they have attended to comply with Sup.R. 8.05;
+       (J)    Develop a process or local rule for comments and complaints regarding the
+              performance of guardians ad litem practicing before that court that does all of the
+              following:
+
+                      (1)    Designates a person for accepting and considering written
+                             comments and complaints;
+
+                      (2)    Provides a copy of the comments and complaints to the guardian ad
+                             litem who is the subject of the complaint or comment;
+
+                      (3)    Forwards any comments and complaints to the administrative judge
+                             of the court for consideration and appropriate action;
+
+                      (4)    Develops a provision for the timely disposition by the court;
+
+                      (5)    Notifies the person making the comment or complaint and the
+                             subject guardian ad litem of the disposition;
+
+                      (6)    Maintains a written record in the file of the guardian ad litem
+                             regarding the nature and disposition of any comment or complaint.
+
+                                   Commentary (July 1, 2026)
+
+        Rule 48.07 was renumbered to Rule 8.07 as part of the 2026 restructuring of the Rules of
+Superintendence.
+
+
+
+Effective Date: January 1, 2021
+Rules 8.08 through 8.09 are reserved for future use.
+RULE 8.10. Definitions.
+
+As used in Sup.R. 8.10 through 8.18:
+
+       (A)    Best interest

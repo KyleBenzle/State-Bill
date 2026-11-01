@@ -1,0 +1,514 @@
+     UNOFFICIAL COPY                                                               26 RS HB 418/GA
+
+
+
+ 1           AN ACT relating to domestic violence.
+
+ 2   Be it enacted by the General Assembly of the Commonwealth of Kentucky:
+
+ 3           SECTION 1. A NEW SECTION OF KRS CHAPTER 403 IS CREATED TO
+
+ 4   READ AS FOLLOWS:
+
+ 5   In any proceeding for child custody under this chapter where the court has made a
+
+ 6   finding that a party has committed domestic violence and abuse as defined in KRS
+
+ 7   403.720 against another party to the proceeding or a child of the parties:
+
+ 8   (1)     The court shall not remove custody from or reduce the parenting time of the
+
+ 9           nonoffending party to whom the child is bonded or attached if the court finds that
+
+10           the:
+
+11           (a)     Nonoffending party is competent and not abusive; and
+
+12           (b)     Removal would be solely for purposes of improving the relationship between
+
+13                   the child and the offending party; and
+
+14   (2)     Any order to remediate resistance of a child to contact with a violent or abusive
+
+15           parent shall primarily address the behavior of that parent.
+
+16           Section 2. KRS 403.270 is amended to read as follows:
+
+17   (1)     (a)     As used in this chapter and KRS 405.020, unless the context requires
+
+18                   otherwise, "de facto custodian" means a person who has been shown by clear
+
+19                   and convincing evidence to have been the primary caregiver for, and financial
+
+20                   supporter of, a child who within the last two (2) years has resided with the
+
+21                   person for an aggregate period of six (6) months or more if the child is under
+
+22                   three (3) years of age and for an aggregate period of one (1) year or more if
+
+23                   the child is three (3) years of age or older or has been placed by the
+
+24                   Department for Community Based Services. Any period of time after a legal
+
+25                   proceeding has been commenced by a parent seeking to regain custody of the
+26                   child shall not be included in determining whether the child has resided with
+
+27                   the person for the required minimum period.
+
+                                                   Page 1 of 9
+     HB041810.100 - 1124 - XXXX 3/4/2026 2:27 PM                                                GA
+     UNOFFICIAL COPY                                                                 26 RS HB 418/GA
+
+
+
+ 1           (b)     A person shall not be a de facto custodian until a court determines by clear
+
+ 2                   and convincing evidence that the person meets the definition of de facto
+
+ 3                   custodian established in paragraph (a) of this subsection. Once a court
+
+ 4                   determines that a person meets the definition of de facto custodian, the court
+
+ 5                   shall give the person the same standing in custody matters that is given to
+
+ 6                   each parent under this section and KRS 403.280, 403.340, 403.350, 403.822,
+
+ 7                   and 405.020.
+
+ 8   (2)     The court shall determine custody in accordance with the best interests of the child
+
+ 9           and equal consideration shall be given to each parent and to any de facto custodian.
+
+10           Subject to KRS 403.315, there shall be a presumption, rebuttable by a
+
+11           preponderance of evidence, that joint custody and equally shared parenting time is
+
+12           in the best interests[interest] of the child. If a deviation from equal parenting time is
+
+13           warranted, the court shall construct a parenting time schedule which maximizes the
+
+14           time each parent or de facto custodian has with the child and is consistent with
+
+15           ensuring the child's welfare. [The court shall consider all relevant factors
+
+16           including:]
+
+17   (3)     In making a determination of custody, the court shall, prior to consideration of
+
+18           any other factors enumerated in subsection (4) of this section:
+
+19           (a)     Consider any allegations of:
+
+20                   1.      Domestic violence and abuse as defined in KRS 403.720; or
+
+21                   2.      An abused or neglected child as defined in KRS 600.020;
+
+22                   committed by one (1) party against another party or a child of the parties;
+
+23                   and
+
+24           (b)     Make written findings on the record as to the impact, if any, of the
+
+25                   allegations described in subparagraph 1. of this paragraph on the child.
+26   (4)     The court shall then consider all other factors relevant to the determination of
+
+27           custody including:
+
+                                                   Page 2 of 9
+     HB041810.100 - 1124 - XXXX 3/4/2026 2:27 PM                                                   GA
+     UNOFFICIAL COPY                                                                 26 RS HB 418/GA
+
+
+
+ 1           (a)     The wishes of the child's parent or parents, and any de facto custodian, as to
+
+ 2                   his or her custody;
+
+ 3           (b)     The wishes of the child as to his or her custodian, with due consideration
+
+ 4                   given to the influence a parent or de facto custodian may have over the child's
+
+ 5                   wishes;
+
+ 6           (c)     The interaction and interrelationship of the child with his or her parent or
+
+ 7                   parents, his or her siblings, and any other person who may significantly affect
+
+ 8                   the child's best interests;
+
+ 9           (d)     The motivation of the adults participating in the custody proceeding;
+
+10           (e)     The child's adjustment and continuing proximity to his or her home, school,
+
+11                   and community;
+
+12           (f)     The mental and physical health of all individuals involved;
+
+13           (g)     A finding by the court that domestic violence and abuse, as defined in KRS
+
+14                   403.720, has been committed by one (1) of the parties against a child of the
+
+15                   parties or against another party. The court shall determine the extent to which
+
+16                   the domestic violence and abuse has affected the child and the child's
+
+17                   relationship to each party, with due consideration given to efforts made by a
+
+18                   party toward the completion of any domestic violence treatment, counseling,
+
+19                   or program;
+
+20           (h)     A finding by the court that a party has maliciously made an intentionally
+
+21                   false allegation of child abuse which has no basis in fact and which the
+
+22                   party knew had no basis in fact against another party;
+
+23           (i)[(h)]        The extent to which the child has been cared for, nurtured, and
+
+24                   supported by any de facto custodian;
+
+25           (j)[(i)]        The intent of the parent or parents in placing the child with a de facto
+26                   custodian;
+
+27           (k)[(j)]        The circumstances under which the child was placed or allowed to
+
+                                                   Page 3 of 9
+     HB041810.100 - 1124 - XXXX 3/4/2026 2:27 PM                                                   GA
+     UNOFFICIAL COPY                                                                 26 RS HB 418/GA
+
+
+
+ 1                   remain in the custody of a de facto custodian, including whether the parent
+
+ 2                   now seeking custody was previously prevented from doing so as a result of
+
+ 3                   domestic violence as defined in KRS 403.720 and whether the child was
+
+ 4                   placed with a de facto custodian to allow the parent now seeking custody to
+
+ 5                   seek employment, work, or attend school; and
+
+ 6           (l)[(k)]        The likelihood a party will allow the child frequent, meaningful, and
+
+ 7                   continuing contact with the other parent or de facto custodian, except that the
+
+ 8                   court shall not consider this likelihood if there is a finding that the other
+
+ 9                   parent or de facto custodian engaged in domestic violence and abuse, as
+
+10                   defined in KRS 403.720, against the party or a child and that a continuing
+
+11                   relationship with the other parent will endanger the health or safety of either
+
+12                   that party or the child.
+
+13   (5)[(3)]        The abandonment of the family residence by a custodial party shall not be
+
+14           considered where that[said] party was physically harmed or was seriously
+
+15           threatened with physical harm by his or her spouse, when the[such] harm or threat
+
+16           of harm was causally related to the abandonment.
+
+17   (6)[(4)]        If the court grants custody to a de facto custodian, the de facto custodian shall
+
+18           have legal custody under the laws of the Commonwealth.
+
+19           Section 3. KRS 403.290 is amended to read as follows:
+
+20   (1)     The court may interview the child in chambers to ascertain the child's wishes as to
+
+21           his or her custodian and as to visitation. The court may permit counsel to be present
+
+22           at the interview. The court shall cause a record of the interview to be made and to
+
+23           be part of the record in the case.
+
+24   (2)     The court may seek the advice of professional personnel, whether or not employed
+
+25           by the court on a regular basis. The advice given shall be in writing and made
+26           available by the court to counsel upon request. Counsel may examine as a witness
+
+27           any professional personnel consulted by the court.
+
+                                                   Page 4 of 9
+     HB041810.100 - 1124 - XXXX 3/4/2026 2:27 PM                                                   GA
+     UNOFFICIAL COPY                                                                    26 RS HB 418/GA
+
+
+
+ 1   (3)     (a)     Paid visitation supervisors and parenting coordinators in a custody
+
+ 2                   proceeding under this chapter, whether appointed by the court or engaged
+
+ 3                   by one (1) or more parties, shall document participation training focused on
+
+ 4                   the following:
+
+ 5                   1.      Early childhood, child, and adolescent development;
+
+ 6                   2.      Dynamics of domestic violence;
+
+ 7                   3.      Effects of domestic violence on adult and child victims;
+
+ 8                   4.      Lethality and risk issues;
+
+ 9                   5.      Model protocols for addressing domestic violence;
+
+10                   6.      Available community resources and victim services; and
+
+11                   7.      For paid visitation supervisors, the role of the paid supervisor and
+
+12                           ethical principles of supervising visitation.
+
+13           (b)     The training described in paragraph (a) of this subsection shall consist of:
+
+14                   1.      Sixteen (16) hours of initial training before the paid visitation
+
+15                           supervisor or parenting coordinator is eligible to provide services to a
+
+16                           party to a custody proceeding; and
+
+17                   2.      Eight (8) hours annually thereafter.
+
+18           Section 4. KRS 403.315 is amended to read as follows:
+
+19   (1)     When determining or modifying a custody order pursuant to KRS 403.270,
+
+20           403.280, 403.340, or 403.740, the court shall consider the safety and well-being of
+
+21           the parties and of the children. If a domestic violence order is being or has been
+
+22           entered against a party by another party or on behalf of a child at issue in the
+
+23           custody hearing, the presumption that joint custody and equally shared parenting
+
+24           time is in the best interests[interest] of the child shall not apply as to the party
+
+25           against whom the domestic violence order is being or has been entered. The court
+26           shall weigh all factors set out in Section 2 of this Act[ KRS 403.270(2)] in
+
+27           determining the best interests[interest] of the child.
+
+                                                    Page 5 of 9
+     HB041810.100 - 1124 - XXXX 3/4/2026 2:27 PM                                                     GA
+     UNOFFICIAL COPY                                                                 26 RS HB 418/GA
+
+
+
+ 1   (2)     There shall be a presumption, rebuttable by a preponderance of the evidence, that
+
+ 2           joint custody and equally shared parenting time is not in the best interests of the
+
+ 3           child if the court finds that a party has committed two (2) or more acts of
+
+ 4           domestic violence and abuse as defined in KRS 403.720 against another party.
+
+ 5   (3)     (a)      The court shall not make an award of custody or grant unsupervised
+
+ 6                    visitation with the child to a party who is found to have committed two (2) or
+
+ 7                    more acts of domestic violence or abuse as defined in KRS 403.720 against
+
+ 8                    another party unless that party has:
+
+ 9                    1.     Completed:
+
+10                           a.      A batterer's intervention program provided by a certified
+
+11                                   provider pursuant to 920 KAR 5:020;
+
+12                           b.      Parenting classes; and
+
+13                           c.      Substance use and mental health assessments and any
+
+14                                   recommended corresponding treatments; and
+
+15                    2.     Participated in supervised visitation.
+
+16           (b)      Following a party's completion of the requirements in paragraph (a) of this
+
+17                    subsection, the court shall conduct an evidentiary hearing before ordering
+
+18                    unsupervised visitation to that party and a second or subsequent hearing
+
+19                    before awarding custodial rights to that party.
+
+20           Section 5. KRS 403.727 is amended to read as follows:
+
+21   (1)     Any petition filed under KRS 403.725 on behalf of a minor who is alleged to be a
+
+22           victim of domestic violence and abuse, or in which a minor is named as a
+
+23           respondent or petitioner, shall comply with the requirements in that section and
+
+24           shall:
+
+25           (a)      Proceed in accordance with the procedural safeguards under KRS 610.070;
+26                    and
+
+27           (b)      Conform to the confidentiality provisions under KRS 610.340.
+
+                                                     Page 6 of 9
+     HB041810.100 - 1124 - XXXX 3/4/2026 2:27 PM                                                  GA
+     UNOFFICIAL COPY                                                                       26 RS HB 418/GA
+
+
+
+ 1   (2)     (a)     If the court orders an evidentiary hearing under KRS 403.730(1)(a), a
+
+ 2                   guardian ad litem shall be appointed for any unrepresented minor who is a
+
+ 3                   respondent to the action or a petitioner who is an alleged victim of domestic
+
+ 4                   violence and abuse.
+
+ 5           (b)     The guardian ad litem shall be paid a fee fixed by the court not to exceed five
+
+ 6                   hundred dollars ($500), which shall be paid by the Finance and
+
+ 7                   Administration Cabinet.
+
+ 8   (3)     A victim advocate as defined in KRS 421.570:
+
+ 9           (a)     Shall be permitted to attend the evidentiary hearing to offer advocacy
+
+10                   services pursuant to KRS 421.575 to the minor petitioner or the adult who
+
+11                   has filed the petition on behalf of the minor; and
+
+12           (b)     Shall not be excluded from the evidentiary hearing unless the:
+
+13                   1.      Minor petitioner or adult who has filed the petition on behalf of the
+
+14                           minor declines the services offered; or
+
+15                   2.      Court, upon motion and for good cause shown, determines that the
+
+16                           exclusion is in the best interests of the minor petitioner.
+
+17   (4)[(3)]        Violation of the terms or conditions of an order of protection issued under
+
+18           KRS 403.740 after the person has been served or given notice of the order shall
+
+19           constitute contempt of court and may constitute a criminal offense pursuant to KRS
+
+20           403.763 if the offender is an adult or a public offense under KRS 600.020(51) if the
+
+21           offender is a juvenile. Once a juvenile action or contempt proceeding has been
+
+22           initiated, the other shall not be undertaken regardless of the outcome of the original
+
+23           proceeding.
+
+24   (5)[(4)]        Nothing in subsection (4)[(3)] of this section shall preclude the
+
+25           Commonwealth from proceeding, or the petitioner from pursuing charges, against
+26           the minor respondent for offenses other than a violation of an order of protection.
+
+27           Proceedings against a minor respondent for offenses other than a violation of an
+
+                                                    Page 7 of 9
+     HB041810.100 - 1124 - XXXX 3/4/2026 2:27 PM                                                        GA
+     UNOFFICIAL COPY                                                                26 RS HB 418/GA
+
+
+
+ 1           order of protection shall proceed:
+
+ 2           (a)     In the juvenile session of District Court; and
+
+ 3           (b)     In accordance with the procedural and statutory provisions established for the
+
+ 4                   juvenile session of District Court.
+
+ 5           Section 6. KRS 456.035 is amended to read as follows:
+
+ 6   (1)     Any petition filed under KRS 456.030 on behalf of a minor who is an alleged
+
+ 7           victim of dating violence and abuse, sexual assault, or stalking, or in which a minor
+
+ 8           is named as a respondent or petitioner, shall comply with the requirements in that
+
+ 9           section and shall:
+
+10           (a)     Proceed in accordance with the procedural safeguards under KRS 610.070;
+
+11                   and
+
+12           (b)     Conform to the confidentiality provisions under KRS 610.340.
+
+13   (2)     (a)     If the court orders an evidentiary hearing under KRS 456.040(1)(a), a
+
+14                   guardian ad litem shall be appointed for any unrepresented minor who is a
+
+15                   respondent to the action or a petitioner who is an alleged victim of dating
+
+16                   violence and abuse, sexual assault, or stalking.
+
+17           (b)     The guardian ad litem shall be paid a fee fixed by the court not to exceed five
+
+18                   hundred dollars ($500), which shall be paid by the Finance and
+
+19                   Administration Cabinet.
+
+20   (3)     A victim advocate as defined in KRS 421.570:
+
+21           (a)     Shall be permitted to attend the evidentiary hearing to offer advocacy
+
+22                   services pursuant to KRS 421.575 to the minor petitioner or the adult who
+
+23                   has filed the petition on behalf of the minor; and
+
+24           (b)     Shall not be excluded from the evidentiary hearing unless the:
+
+25                   1.      Minor petitioner or adult who has filed the petition on behalf of the
+26                           minor declines the services offered; or
+
+27                   2.      Court, upon motion and for good cause shown, determines that the
+
+                                                   Page 8 of 9
+     HB041810.100 - 1124 - XXXX 3/4/2026 2:27 PM                                                 GA
+     UNOFFICIAL COPY                                                                       26 RS HB 418/GA
+
+
+
+ 1                           exclusion is in the best interests of the minor petitioner.
+
+ 2   (4)[(3)]        Violation of the terms or conditions of an order of protection issued under
+
+ 3           KRS 456.060 after the person has been served or given notice of the order shall
+
+ 4           constitute contempt of court and may constitute a criminal offense pursuant to KRS
+
+ 5           456.180 if the offender is an adult or a public offense under KRS 600.020(51) if the
+
+ 6           offender is a juvenile. Once a juvenile action or contempt proceeding has been
+
+ 7           initiated, the other shall not be undertaken regardless of the outcome of the original
+
+ 8           proceeding.
+
+ 9   (5)[(4)]        Nothing in subsection (4)[(3)] of this section shall preclude the
+
+10           Commonwealth from proceeding, or the petitioner from pursuing charges, against
+
+11           the minor respondent for offenses other than a violation of an order of protection.
+
+12           Proceedings against a minor respondent for offenses other than a violation of an
+
+13           order of protection shall proceed:
+
+14           (a)     In the juvenile session of District Court; and
+
+15           (b)     In accordance with the procedural and statutory provisions established for the
+
+16                   juvenile session of District Court.
+
+
+
+
+                                                    Page 9 of 9
+     HB041810.100 - 1124 - XXXX 3/4/2026 2:27 PM                                                        GA
+
